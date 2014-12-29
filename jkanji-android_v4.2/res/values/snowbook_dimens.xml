@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="snowbook_slidingmenu_offset">60dp</dimen>
+    <dimen name="snowbook_list_padding">10dp</dimen>
+    <dimen name="snowbook_shadow_width">15dp</dimen>
+
+    <integer name="snowbook_num_cols">1</integer>
+</resources>

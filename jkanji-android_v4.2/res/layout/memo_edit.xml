@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="#FFFFFF"
+    >
+
+    <com.markupartist.android.widget.ActionBar
+        android:id="@+id/actionbar"
+        android:layout_width="fill_parent"
+        android:layout_height="45dip"
+        android:orientation="horizontal"
+        android:background="@drawable/actionbar_background"
+        />
+    
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            
+		    <LinearLayout
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content" >
+		        <TextView
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:padding="10dp"
+		            android:text="描述: " 
+		            android:textColor="#000000"
+		            />
+		        <EditText
+		            android:id="@+id/editTextDescription"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:layout_weight="1" >
+		        </EditText>
+		    </LinearLayout>
+		
+		    <LinearLayout
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content" >
+		        <TextView
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:padding="10dp"
+		            android:text="内容: " 
+		            android:textColor="#000000"
+		            />
+		        <EditText
+		            android:id="@+id/editTextContent"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:layout_weight="1" >
+		        </EditText>
+		    </LinearLayout>
+		 	
+		</LinearLayout>
+    </ScrollView>
+    
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        >
+        <Button
+            android:id="@+id/buttonCommit"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="提交" />
+
+        <Button
+            android:id="@+id/buttonSound1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="语音1" 
+            />
+
+        <Button
+            android:id="@+id/buttonSound2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="语音2" 
+            />
+        
+        <Button
+	        android:id="@+id/buttonCancel"
+	        android:layout_width="0dp"
+	        android:layout_height="wrap_content"
+	        android:layout_weight="1"
+	        android:text="取消" />
+    </LinearLayout>
+  
+</LinearLayout>

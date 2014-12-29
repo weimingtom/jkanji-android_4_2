@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="#FFFFFF"
+    >
+
+    <com.markupartist.android.widget.ActionBar
+        android:id="@+id/actionbar"
+        android:layout_width="fill_parent"
+        android:layout_height="45dip"
+        android:orientation="horizontal"
+        android:background="@drawable/actionbar_background"
+        />
+
+    <LinearLayout
+        android:id="@+id/searchLinearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+	    <LinearLayout
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content" 
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+			>
+	        <EditText
+	            android:id="@+id/searchInput"
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:singleLine="true"
+	            android:hint="输入日语假名"
+	            android:layout_weight="1" />
+	
+	        <Button
+	            android:id="@+id/searchButton"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text="搜索" 
+	            android:layout_weight="0"/>
+	    </LinearLayout>
+        
+        <RadioGroup
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content" 
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+	        >
+	        <RadioButton
+	            android:id="@+id/radioButtonSearch"
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:text="假名"
+	            android:checked="true"
+	            android:textColor="#000000" />	        
+	        <RadioButton
+	            android:id="@+id/radioButtonSearchKanji"
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:text="汉字"
+	            android:textColor="#000000" />
+            <RadioButton
+	            android:id="@+id/radioButtonPlayVoice"
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:text="语音"
+	            android:textColor="#000000" />
+			<Spinner
+			    android:id="@+id/spinnerWebType"
+			    android:layout_width="0dp"
+			    android:layout_height="wrap_content"
+			    android:gravity="center_vertical"
+			    android:layout_weight="1" />
+	    </RadioGroup>
+    </LinearLayout>
+    <TextView 
+        android:id="@+id/textViewMessage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textColor="#000000"
+        android:visibility="gone"
+        />
+    
+    <ListView
+        android:id="@+id/viewListView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" 
+        android:cacheColorHint="#00000000"
+        android:divider="@drawable/main_menu_list_line"
+        android:listSelector="#00000000"
+        />
+
+</LinearLayout>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentTop="true"
+    android:background="@drawable/main_menu_item" 
+    >
+	<RelativeLayout 
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="horizontal" 
+	    android:id="@+id/menu_item"
+	    android:padding="5dp"
+	    >
+	    <!-- 
+	    android:minHeight="70.0dip"
+	    android:drawingCacheQuality="low"
+	    android:background="@drawable/main_menu_item" 
+	     -->
+	    <com.iteye.weimingtom.snowbook.widget.RecyclingImageView
+	        android:id="@+id/sItemIcon"
+	        android:layout_width="54.0dip"
+	        android:layout_height="54.0dip"
+	        android:padding="2.0dip"
+	        android:layout_margin="5dp"
+	        android:scaleType="fitXY" 
+	        android:layout_centerVertical="true"
+	        />
+	
+	    <!-- 
+	    android:layout_margin="10.0dip"
+	    android:drawingCacheQuality="low"
+	    android:background="@drawable/main_menu_item_bg"
+	     -->
+	    <TextView
+	        android:text=""
+	        android:id="@+id/sItemTitle"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_alignTop="@id/sItemIcon"
+	        android:layout_toRightOf="@id/sItemIcon"
+	        android:textColor="#ff000000"
+	        
+	        android:textAppearance="?android:attr/textAppearanceMedium"
+	        />
+	
+	    <!--
+	    android:gravity="center_vertical"
+	    android:textSize="18.0sp"  
+	    android:singleLine="true"
+	    
+	    android:textColor="#ff23323b"
+	     -->
+	    
+	    <TextView
+	        android:text=""
+	        android:id="@+id/sItemInfo"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_below="@id/sItemTitle"
+	        android:layout_toRightOf="@id/sItemIcon"
+	        android:textColor="#ff000000"
+	        />
+	
+	    <!-- 
+	    	android:gravity="center_vertical"
+	        android:textSize="13.0sp" 
+	        android:singleLine="true"
+	        android:ellipsize="marquee"
+	     
+	     	android:textColor="#ff848f9b"
+	     -->
+	</RelativeLayout>
+	
+    <LinearLayout
+        android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:visibility="gone"
+	    android:id="@+id/banner"
+        >
+	    <!-- 
+	    android:layout_height="wrap_content"
+	    
+	    android:gravity="center"
+	    android:layout_height="100dp"
+	    
+	     -->
+	    <com.iteye.weimingtom.snowbook.widget.RecyclingImageView
+	    	android:id="@+id/imageViewBanner"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:scaleType="centerCrop"
+	    	android:layout_gravity="top|center_horizontal"
+	    	android:adjustViewBounds="true"
+			/>
+	    <!-- 
+	    android:src="@drawable/banner_001"
+	    android:drawingCacheQuality="low"
+	     -->
+	    <!-- 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+	    android:scaleType="centerInside"
+	    
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:scaleType="centerCrop"
+	     -->
+    </LinearLayout>
+</FrameLayout>

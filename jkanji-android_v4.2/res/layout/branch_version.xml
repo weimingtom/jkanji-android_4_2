@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="#FFFFFF"
+    >
+        
+    
+    <com.markupartist.android.widget.ActionBar
+        android:id="@+id/actionbar"
+        android:layout_width="fill_parent"
+        android:layout_height="45dip"
+        android:orientation="horizontal"
+        android:background="@drawable/actionbar_background"
+        />
+    
+    <ScrollView 
+        android:layout_width="fill_parent" 
+        android:layout_height="0dp"
+    	android:padding="10dp"
+    	android:layout_weight="1"
+        >
+        <LinearLayout 
+            android:orientation="vertical" 
+            android:layout_width="fill_parent" 
+            android:layout_height="wrap_content">
+			
+			<TextView
+				android:text="个人开发的扩展程序"
+				android:gravity="center"
+				android:padding="10dip"
+				android:background="#add8e6"
+				android:textColorHighlight="#e6e6e6"
+				android:textColor="#000000"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:includeFontPadding="true"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+			/>
+	        <ImageView
+	             android:layout_gravity="center"
+	             android:layout_width="70dp" 
+	             android:layout_height="70dp"
+	             android:src="@drawable/ic_launcher_ckanji" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10.0dp"
+                android:text="日语词汇向导（搜索器重制版）"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:gravity="center_horizontal"
+                />
+	        <ImageView
+	             android:layout_gravity="center"
+	             android:layout_width="70dp" 
+	             android:layout_height="70dp"
+	             android:src="@drawable/ic_launcher_aodowner" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10.0dp"
+                android:text="青空书签（青空文库下载器）"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:gravity="center_horizontal"
+                />
+            
+            
+			<TextView
+				android:text="第三方辅助程序"
+				android:gravity="center"
+				android:padding="10dip"
+				android:background="#add8e6"
+				android:textColorHighlight="#e6e6e6"
+				android:textColor="#000000"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:includeFontPadding="true"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+			/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10.0dp"
+                android:text="Root Explorer and Explorer（用于指定文件路径的文件管理器）"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10.0dp"
+                android:text="Handwriting IME Teger1 Free（日文手写输入法）"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10.0dp"
+                android:text="N2 TTS（日文发音引擎）"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10.0dp"
+                android:text="SeederDict（支持StarDict和MDict格式词库的电子辞典）"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10.0dp"
+                android:text="Mdict（支持MDict格式词库的电子辞典）"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                />
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+			<TextView
+				android:text="内置词库版本号"
+				android:gravity="center"
+				android:padding="10dip"
+				android:background="#add8e6"
+				android:textColorHighlight="#e6e6e6"
+				android:textColor="#000000"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:includeFontPadding="true"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+			/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10.0dp"
+                android:text="jpwords_4_1.csv"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10.0dp"
+                android:text="sj2gb_4_1.txt"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10.0dp"
+                android:text="enwords_3_6.csv"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                />
+                
+            
+            
+            
+            
+            
+            
+            
+            
+			<TextView
+				android:text="使用技巧"
+				android:gravity="center"
+				android:padding="10dip"
+				android:background="#add8e6"
+				android:textColorHighlight="#e6e6e6"
+				android:textColor="#000000"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:includeFontPadding="true"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+			/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10.0dp"
+                android:text="在全局设置中关闭手写板的全部平片假名功能，可提高手写板的识别率"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10.0dp"
+                android:text="手写板只能识别相同笔划数的平片假名（不支持连笔），但可以通过变换按钮在平片假名和清浊音之间转换（ー和々例外，当作ん的清浊音变换）"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10.0dp"
+                android:text="手写板在识别某些假名时会有错误或无法识别，请多次尝试，需写在框内。有些假名的手写和印刷体是不同的，例如き是4划而非3划，さ是3划而非2划，ふ是4划而非3划。手写板支持部分汉字变换，也可以跳转至部首检字界面（需加载数据）"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10.0dp"
+                android:text="日语中存在活用情况，在搜索时可以缩短关键词，或者用自带的sen分词工具分析词性成分，或者使用日语基本型的变换方法（例如把要搜索的关键词词尾替换为う列）"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10.0dp"
+                android:text="sqlite数据库在个别关键词（如“回”）的全文搜索中会出现错误，可能是因为内存不足或数据库格式不正确"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                />                
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

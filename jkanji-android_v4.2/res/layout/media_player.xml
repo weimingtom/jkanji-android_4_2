@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:background="#FFFFFF"
+	>
+
+    <com.markupartist.android.widget.ActionBar
+        android:id="@+id/actionbar"
+        android:layout_width="fill_parent"
+        android:layout_height="45dip"
+        android:orientation="horizontal"
+        android:background="@drawable/actionbar_background"
+        />
+    
+	<TextView
+	    android:id="@+id/textViewTime"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:padding="10dip"
+	    android:gravity="center"
+	    android:textColor="#000000"
+	    android:text="0:00:00.000" />
+	
+    <EditText
+        android:id="@+id/editTextSubtitle1"
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:layout_weight="1"
+        android:editable="false"
+        android:gravity="left"
+        android:singleLine="false" >
+        <requestFocus />
+    </EditText>
+    
+	<SeekBar
+		android:id="@+id/seekBar1"
+		android:padding="10dip"
+		android:layout_height="wrap_content"
+		android:layout_width="fill_parent"/>
+	<LinearLayout
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:id="@+id/linearLayout1"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+		>
+		<Button
+			android:id="@+id/button_rew"
+			android:layout_width="0dp"
+			android:layout_height="wrap_content"
+			android:layout_weight="1"
+			android:text="快退"/>
+		<Button
+			android:id="@+id/button_play"
+			android:layout_width="0dp"
+			android:layout_height="wrap_content"
+			android:layout_weight="1"
+			android:text="播放" />
+		<Button
+			android:id="@+id/button_ff"
+			android:layout_width="0dp"
+			android:layout_height="wrap_content"
+			android:layout_weight="1"
+			android:text="快进" />
+	</LinearLayout>
+	<LinearLayout
+	    android:id="@+id/linearLayout2"
+	    android:paddingBottom="10dip"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content" 
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+	    >
+		<Button
+		    android:id="@+id/buttonOpenMP3"
+		    android:layout_width="0dp"
+		    android:layout_height="wrap_content"
+		    android:layout_weight="1"
+		    android:text="mp3" />
+		<Button
+		    android:id="@+id/buttonOpenSSA1"
+		    android:layout_width="0dp"
+		    android:layout_height="wrap_content"
+		    android:layout_weight="1"
+		    android:text="ssa" />
+		<Button
+		    android:id="@+id/buttonOpenSSA2"
+		    android:layout_width="0dp"
+		    android:layout_height="wrap_content"
+		    android:layout_weight="1"
+		    android:text="ssa" />
+	</LinearLayout>
+
+</LinearLayout>

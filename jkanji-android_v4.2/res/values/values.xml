@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select_dialog_items">
+        <item>缩略说法和口语型</item>
+    </string-array>
+    <string-array name="gallery_labels">
+        <item>搜索</item>
+        <item>查看</item>
+        <item>资料</item>
+        <item>帮助</item>
+    </string-array>
+    <string-array name="note_labels">
+        <item>完全内存的子串搜索</item>
+        <item>内置词库的排序浏览</item>
+        <item>内置的日语学习资料</item>
+        <item>日语简易词典的帮助</item>
+    </string-array>
+</resources>

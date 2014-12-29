@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="5dp"
+    android:background="#FFFFFF"
+    >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:orientation="vertical"
+        >
+	    <TextView 
+	        android:id="@+id/username_view"
+	        android:layout_height="wrap_content"
+	        android:layout_width="match_parent"
+	        android:text="指定URL（file://开头）"
+	        android:gravity="left"
+	        android:textAppearance="?android:attr/textAppearanceMedium" />
+	        
+	    <EditText
+	        android:id="@+id/editPath"
+	        android:layout_height="wrap_content"
+	        android:layout_width="match_parent"
+	        android:textAppearance="?android:attr/textAppearanceMedium" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        >
+
+        <Button
+            android:id="@+id/buttonDefault"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="默认值" 
+            />
+
+        <Button
+            android:id="@+id/buttonPaste"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="粘贴" 
+            />
+        
+    </LinearLayout>
+
+</LinearLayout>

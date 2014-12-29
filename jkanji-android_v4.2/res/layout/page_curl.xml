@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"	 
+	android:background="#FFFFFF"  
+    >
+    <com.markupartist.android.widget.ActionBar
+        android:id="@+id/actionbar"
+        android:layout_width="fill_parent"
+        android:layout_height="45dip"
+        android:orientation="horizontal"
+        android:background="@drawable/actionbar_background"
+        />
+	<FrameLayout
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"
+	    >
+		<com.iteye.weimingtom.jkanji.SimplePageView
+			android:layout_width="fill_parent"
+			android:layout_height="fill_parent"
+			android:visibility="gone"
+			android:id="@+id/simplePage" />
+	    <fi.harism.curl.CurlView
+			android:layout_width="fill_parent"
+			android:layout_height="fill_parent"
+			android:visibility="gone"
+			android:id="@+id/curl" />
+	    <LinearLayout
+	        android:id="@+id/progressLinearLayout"
+		    android:layout_width="fill_parent"
+		    android:layout_height="fill_parent"
+		    android:orientation="vertical"
+		    android:gravity="center"
+		    android:visibility="visible"
+	        >
+	        <LinearLayout
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:orientation="vertical"
+	            android:gravity="center" 
+	            >
+	            <!-- 
+		        <ProgressBar
+		            android:id="@+id/progressBar2"
+		            style="?android:attr/progressBarStyleLarge"
+		            android:layout_width="200dip"
+		            android:layout_height="200dip"
+		         	android:indeterminateDrawable="@drawable/loading001_1"
+		            />
+		       	 -->
+		       	 
+	            <ImageView
+	                android:id="@+id/imageView1"
+	                android:layout_gravity="center"
+	                android:layout_width="200.0dp" 
+	                android:layout_height="200.0dp"
+	                android:padding="10dp"
+	                android:src="@drawable/loading001_1" />
+		       	 
+		        <TextView
+		            android:id="@+id/textViewLoading"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:textColor="#000000"
+		            android:text="Loading" 
+		            />
+		         
+		        <TextView
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:text="如果无法退出，请按HOME键"
+		            android:textColor="#FF0000" />
+	        </LinearLayout>
+
+	    </LinearLayout>
+	</FrameLayout>        
+</LinearLayout>
+

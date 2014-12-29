@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FFFFFF"
+    >
+    
+    <com.markupartist.android.widget.ActionBar
+        android:id="@+id/actionbar"
+        android:layout_width="fill_parent"
+        android:layout_height="45dip"
+        android:orientation="horizontal"
+        android:background="@drawable/actionbar_background"
+        />
+    
+    <LinearLayout
+        android:id="@+id/linearLayoutHeader"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:gravity="center_vertical"
+        >
+    
+        <Spinner
+            android:id="@+id/spinnerEncoding"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" 
+            />
+		
+        <!-- 
+        <Button
+            android:id="@+id/buttonReopen"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="重新打开" />
+		 -->
+		 
+        <Button
+            android:id="@+id/buttonCancelSave"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="取消添加" 
+            />
+        
+    </LinearLayout>
+    
+    <FrameLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        >
+		<ListView 
+		    android:id="@+id/lvText" 
+			android:layout_width="fill_parent"
+			android:layout_height="fill_parent"
+	        android:cacheColorHint="#00000000"
+	        android:divider="@drawable/main_menu_list_line"
+	        android:listSelector="#00000000"
+			/>
+        <ScrollView
+       	    android:id="@+id/scrollViewProgress"
+            android:background="#FFFFFF"
+            android:layout_width="fill_parent" 
+            android:layout_height="fill_parent"
+            android:visibility="invisible"
+            >
+       	<LinearLayout
+           	android:layout_width="match_parent"
+           	android:layout_height="wrap_content"
+           	android:layout_gravity="center_vertical"
+           	android:orientation="vertical"
+           	>
+       		<ProgressBar
+        	    android:id="@+id/progressBarLoading"
+        	    style="?android:attr/progressBarStyleHorizontal"
+        	    android:layout_width="match_parent"
+        	    android:layout_height="wrap_content"
+        	    android:gravity="center"
+        	    android:padding="5dp"
+        	    android:layout_weight="1" />
+       		<TextView
+       		    android:layout_width="match_parent"
+       		    android:layout_height="wrap_content"
+       		    android:gravity="center"
+       		    android:layout_weight="1"
+       		    android:textColor="#000000"
+       		    android:text="文件加载中..." />
+       	</LinearLayout>
+       	</ScrollView>
+    </FrameLayout>
+</LinearLayout>

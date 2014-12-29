@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="WidgetBackground">
+        <item name="android:background">@drawable/widget_bg</item>
+    </style>
+    
+    <style name="WidgetBlackBackground">
+        <item name="android:background">@drawable/bubble_rest</item>
+    </style>    
+    
+    <style name="BulletPoint">
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+    
+    <style name="Text" />
+    
+    <style name="Text.Loading">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+    
+    <style name="Text.WordTitle">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#0000ff</item>
+    </style>
+    
+    <style name="Text.WordType">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text.Definition">
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    
+    
+    
+    
+    
+    
+    
+    <style name="TextBlack" />
+    
+    <style name="TextBlack.Loading">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#FF000000</item>
+    </style>
+    
+    <style name="TextBlack.WordTitle">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#FF0000FF</item>
+    </style>
+    
+    <style name="TextBlack.WordType">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textColor">#FF000000</item>
+    </style>
+
+    <style name="TextBlack.Definition">
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">#FF000000</item>
+    </style>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+	<!--
+	Lorensius W. L. T <lorenz@londatiga.net>
+	-->
+	<style name="Animations" />
+
+	<!-- PopDownMenu -->
+	<style name="Animations.PopDownMenu" />
+	
+	<style name="Animations.PopDownMenu.Center">
+		<item name="@android:windowEnterAnimation">@anim/grow_from_top</item>
+		<item name="@android:windowExitAnimation">@anim/shrink_from_bottom</item>
+	</style>
+	
+	<!-- PopUpMenu -->
+	<style name="Animations.PopUpMenu" />
+	
+	<style name="Animations.PopUpMenu.Center">
+		<item name="@android:windowEnterAnimation">@anim/grow_from_bottom</item>
+		<item name="@android:windowExitAnimation">@anim/shrink_from_top</item>
+	</style>
+    
+    
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light.NoTitleBar">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    
+    <style name="AppThemeBlack" parent="android:Theme.Black.NoTitleBar">
+    </style>
+    <style name="AppThemeWhite" parent="android:Theme.Light">
+    </style>
+    
+</resources>

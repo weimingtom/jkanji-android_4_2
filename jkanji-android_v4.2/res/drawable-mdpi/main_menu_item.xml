@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 
+    <item 
+        android:state_focused="true" 
+        android:state_pressed="false" 
+        android:drawable="@drawable/main_menu_item_higlight2" />
+    <item 
+        android:state_focused="false" 
+        android:state_pressed="true" 
+        android:drawable="@drawable/main_menu_item_higlight2" />
+    <item 
+        android:state_selected="true" 
+        android:drawable="@drawable/main_menu_item_higlight2" />
+    <item
+        android:state_focused="true" 
+        android:drawable="@drawable/main_menu_item_higlight2" />
+    <item 
+        android:drawable="@drawable/main_menu_item_transparent" />
+      -->
+      
+    <!-- 
+    <item
+        android:state_pressed="true"
+        android:drawable="@drawable/main_menu_item_higlight2" />      
+    <item
+        android:state_pressed="false" 
+        android:drawable="@drawable/main_menu_item_transparent" />
+     -->
+    
+    <item android:state_pressed="true">
+        <shape>
+            <solid android:color="#ffdee0e2" />
+        </shape>
+    </item>
+    <item android:state_focused="true">
+        <shape>
+            <solid android:color="@android:color/transparent" />
+        </shape>
+    </item>
+    <item android:drawable="@android:color/transparent" />
+</selector>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_horizontal"
+    android:orientation="vertical" 
+    >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" 
+            android:orientation="vertical"
+            >
+            
+		    <LinearLayout
+		        android:layout_width="wrap_content"
+		        android:layout_height="match_parent"
+		        android:orientation="horizontal" 
+		        >
+		        <ImageButton
+		            android:id="@+id/imageButton1"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:src="@drawable/flash_11075_image1" >
+		        </ImageButton>
+		
+		        <TextView
+		            android:id="@+id/textView1"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:layout_gravity="center_vertical"
+		            android:text="动画1" >
+		        </TextView>
+		    </LinearLayout>
+		
+		    <LinearLayout
+		        android:id="@+id/linearLayout2"
+		        android:layout_width="wrap_content"
+		        android:layout_height="match_parent"
+		        android:layout_margin="2dp"
+		        android:orientation="horizontal" >
+		
+		        <ImageButton
+		            android:id="@+id/imageButton2"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:src="@drawable/flash_11075_image15_2" >
+		        </ImageButton>
+		      
+		        <TextView
+		            android:id="@+id/textView2"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:layout_gravity="center_vertical"
+		            android:text="动画2" >
+		        </TextView>
+		    </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="snowbook_hello">Hello World, SnowBookActivity!</string>
+    <!-- 
+    <string name="snowbook_app_name">超机灵阅读器</string>
+ 	-->
+ 	<string name="snowbook_app_name">日语简易词典</string>
+ 	
+</resources>

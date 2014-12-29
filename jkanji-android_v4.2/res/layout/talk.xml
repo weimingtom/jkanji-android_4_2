@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical" >
+
+    <com.markupartist.android.widget.ActionBar
+        android:id="@+id/actionbar"
+        android:layout_width="fill_parent"
+        android:layout_height="45dip"
+        android:orientation="horizontal"
+        android:background="@drawable/actionbar_background"
+        />
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:gravity="center_vertical"
+        android:background="#ffffff"
+        android:orientation="horizontal"
+        >
+        <EditText
+            android:id="@+id/talkInput"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:ellipsize="end"
+            android:singleLine="true" 
+            android:imeOptions="actionSearch"
+            >
+            <requestFocus />
+        </EditText>
+
+        <Button
+            android:id="@+id/talkInputClear"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="清除"
+            />
+        
+        <Button
+            android:id="@+id/talkInputSearch"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="搜索"
+			android:layout_gravity="center_vertical"
+            />
+    </LinearLayout>
+    
+    <ListView
+        android:id="@+id/listViewTalk"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#FFFFFF" 
+        android:cacheColorHint="#FFFFFF"
+        android:fastScrollEnabled="true"
+        android:divider="#00000000"
+        android:listSelector="#00000000"
+        />
+
+</LinearLayout>

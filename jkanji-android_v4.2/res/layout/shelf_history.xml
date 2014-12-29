@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="#FFFFFF"
+    >
+
+    <com.markupartist.android.widget.ActionBar
+        android:id="@+id/actionbar"
+        android:layout_width="fill_parent"
+        android:layout_height="45dip"
+        android:orientation="horizontal"
+        android:background="@drawable/actionbar_background"
+        />
+
+    <LinearLayout
+        android:id="@+id/linearLayoutConfig"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        >
+
+        <Spinner
+            android:id="@+id/spinnerMode"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" 
+            />
+
+        <CheckBox
+            android:id="@+id/checkBoxNote"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="说明" 
+            android:textColor="#000000"
+            />
+
+        <Button
+            android:id="@+id/buttonSettings"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="设置" />
+        
+    </LinearLayout>
+	
+    <TextView
+        android:id="@+id/textViewInfo"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="小提示：打开前请先切换纯文本或青空解释器（青空解释器用于解释带书名号振假名的特殊文本格式）。请注意，切换后记录的文字位置将无法跳转至原有位置。支持添加小型txt和epub格式文件。"
+        android:textColor="#000000"
+        />
+    
+	<ListView  
+        android:id="@+id/listViewShelf"
+        android:layout_width="fill_parent" 
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:cacheColorHint="#00000000"
+        android:divider="@drawable/main_menu_list_line"
+        android:listSelector="#00000000"
+        android:fastScrollEnabled="true"
+        />
+</LinearLayout>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:background="#FFFFFF"
+    android:orientation="vertical"
+    >
+
+    <com.markupartist.android.widget.ActionBar
+        android:id="@+id/actionbar"
+        android:layout_width="fill_parent"
+        android:layout_height="45dip"
+        android:orientation="horizontal"
+        android:background="@drawable/actionbar_background"
+        />
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" 
+        >
+        <LinearLayout
+            android:id="@+id/linearLayout1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center"
+        	android:orientation="vertical" 
+        	>
+	        <Button
+	            android:id="@+id/button_gallery"
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:text="GLES2图片滤镜" 
+	            />
+	        
+	        <Button
+	            android:id="@+id/button_jpegdecoder"
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:text="jpeg极慢速软解码" 
+	            />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

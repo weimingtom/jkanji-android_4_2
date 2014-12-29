@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical" >
+    <!-- 
+    android:background="@drawable/bgpattern001"
+    android:background="#CCCCCC"
+     -->
+    
+    <com.markupartist.android.widget.ActionBar
+        android:id="@+id/actionbar"
+        android:layout_width="fill_parent"
+        android:layout_height="45dip"
+        android:orientation="horizontal"
+        android:background="@drawable/actionbar_background"
+        />
+        
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:orientation="horizontal"
+     	android:paddingLeft="5dp" 
+     	android:paddingRight="5dp"
+     	android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <EditText
+            android:id="@+id/output"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2" 
+            android:singleLine="true">
+        </EditText>
+
+        <Button
+            android:id="@+id/buttonTrans"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" 
+            android:text="变换" />
+
+        <Button
+            android:id="@+id/finish"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" 
+            android:text="确定" />
+
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+     	android:paddingLeft="5dp" 
+     	android:paddingRight="5dp"
+        >
+        <TextView
+            android:id="@+id/textViewMessage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:text="" 
+            android:visibility="gone"
+            />
+    </LinearLayout>
+    
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:paddingBottom="5dp"
+        >
+		<com.iteye.weimingtom.jkanji.HandInputView
+			android:id="@+id/handinput"
+		    android:layout_width="match_parent"
+		    android:layout_height="match_parent" 
+		    />
+		<GridView
+		        android:id="@+id/gridViewSel"
+		        android:visibility="invisible"
+		        android:layout_width="match_parent"
+		        android:layout_height="match_parent"
+		        android:numColumns="4"
+		        >
+		</GridView>
+    </FrameLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+     	android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+     	android:paddingLeft="5dp" 
+     	android:paddingRight="5dp"
+        >
+        
+        <Button
+            android:id="@+id/buttonSel1"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="假名" />
+
+        <Button
+            android:id="@+id/buttonSel2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" 
+            android:text="假名" />
+
+        <Button
+            android:id="@+id/buttonSel3"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="假名" />
+
+        <Button
+            android:id="@+id/buttonSel4"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" 
+            android:text="假名" />
+        
+    </LinearLayout>
+    
+    <FrameLayout 
+        android:id="@+id/frameLayoutTool"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+     	android:paddingLeft="5dp" 
+     	android:paddingRight="5dp"
+        >
+	    <RadioGroup
+	        android:id="@+id/linearLayoutEdit"
+	        android:orientation="horizontal"
+	     	android:gravity="center"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content" >
+	
+	        <RadioButton 
+	            android:id="@+id/radioButtonHand"
+	            android:layout_width="0dip"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:text="手写"
+	            android:textColor="#000000"
+	            android:checked="true"
+	            />
+	        
+			<RadioButton 
+	            android:id="@+id/radioButtonSel"
+	            android:layout_width="0dip"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:text="候选"
+	            android:textColor="#000000"
+	            />
+
+			<Button 
+	            android:id="@+id/buttonKrad"
+	            android:layout_width="0dip"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:text="部首"
+	            />
+				
+				<!-- 
+				android:text="退格"
+				 -->	
+			
+			
+	        <Button
+	            android:id="@+id/buttonClean"
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1" 
+	            android:text="清除" />
+	        
+	    </RadioGroup>
+	    
+		<LinearLayout
+	        android:id="@+id/linearLayoutConfig"
+	        android:orientation="horizontal"
+	     	android:gravity="center"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:visibility="invisible"
+	        >
+	
+	        <CheckBox
+	            android:id="@+id/checkBoxChoise"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:textColor="#FF000000"
+	            android:text="演示笔划：" />
+	
+	        <!-- 
+	        <TextView
+	            android:id="@+id/textView1"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:textColor="#FF000000"
+	            android:paddingLeft="5dp"
+	            android:paddingRight="5dp"
+	            android:text="候选字：" />
+			 -->
+			 
+	        <Spinner
+	            android:id="@+id/choise"
+	            android:layout_width="0dip"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="2" />
+	
+	        <Button
+	            android:id="@+id/ok"
+	            android:layout_width="0dip"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:text="选择" />
+	    </LinearLayout>
+	    
+    </FrameLayout>
+    
+</LinearLayout>

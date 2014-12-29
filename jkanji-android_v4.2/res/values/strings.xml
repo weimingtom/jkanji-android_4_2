@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">日语简易词典</string>
+    <string name="about_text">关于</string>
+    <string name="init_loading_text">加载中</string>
+    <string name="about_title">关于</string>
+    <string name="version_number">4.2</string>
+    <string name="mail_address">weimingtom@qq.com</string>
+    <string name="about_games_message">
+        发布说明：\n
+    这是原jkanji（日语简易词典）v4.0之前分割出去的小游戏部分，从v4.1开始被移除，单独作为一个APP。\n
+    主要用于个人测试和使用，故没有发布在市场上，源代码发布方式与jkanji相同。\n
+   下载请按下方按钮，打开浏览器跳转到我的wordpress发布页面。\n
+\n
+    </string>
+    <string name="about_message">
+	（注意：此帮助信息仅适用于2.6之前，3.0之后的帮助请查看新的帮助文档）\n
+	日语简易词典\n
+	版本：2.6\n
+\n
+一、使用方法：\n
+搜索框内可输入英文单词、平假名、简体中文或日语汉字。\n
+如果你还没有安装日语输入法，建议用电子市场搜索并安装谷歌日语输入法，或使用软件内置的软键盘功能。\n
+日本语假名的手写方法见：http://www.nhk.or.jp/lesson/chinese/syllabary/index.html\n
+\n
+◆安装数据包：\n
+从v2.4开始，部分功能需要在SD卡中安装一些数据包。\n
+你可以使用SD卡读卡器、91助手或用命令行adb push把数据包复制进手机SD卡中。\n
+如果下载失效，请发邮件索取。\n
+★ 小春音アミ语音包（在“资料-小春音”中使用）\n
+复制目录：/sdcard/jkanji/voice/amivoice.zip\n
+下载链接：\n
+(1) http://115.com/file/c26j3d9d#amivoice.zip\n
+(2) http://www.kuaipan.com.cn/file/id_41243845094015014.htm\n
+★ sen数据包（在“资料-日语发音标注”中使用）\n
+解压至目录：/sdcard/jkanji/sen\n
+下载链接：\n
+(1) http://115.com/file/c2i4d9rr#sen.zip\n
+(2) http://www.kuaipan.cn/file/id_41243845094015015.html\n
+★ sqlite数据包（在“资料-sqlite搜索器”中使用）\n
+解压至目录：/sdcard/jkanji/db\n
+http://115.com/file/anbkc9xc#dict_fulltext.zip\n
+http://www.kuaipan.cn/file/id_41243845094015024.html\n
+\n
+二、目前的问题：\n
+如果程序的内存占用量过高（设置-应用程序-正在运行的服务-菜单键-显示缓存进程），建议使用系统自带的设置程序关闭此程序后再打开，也可把相关情况反馈给我。\n
+目前尚未支持在线查词，仅支持打开浏览器方式（长按界面的搜索按钮）。\n
+小游戏的声音控制有待完善，可能会造成突然的高音量并且妨碍其它程序的音频输出，请小心使用。\n
+如果想使用小插件功能，请手动在设置-应用程序中把程序移至手机内存，然后长按HOME屏后选择安装小插件。\n
+目前，内置词库和很多功能尚未完善，仅供学习日语使用。\n
+如果您有任何意见和建议，欢迎联系我。\n
+\n
+三、更新日志：\n
+v2.6：资料新增：sqlite搜索器、青空文库阅读器。长按”键盘“复选框弹出选择输入法对话框。长按搜索编辑按钮打开历史与收藏夹。新增pixiv、moegirl、wiktionary、glosbe、baidu baike的浏览器搜索。小游戏和网址收藏移进资料菜单中。搜索器和sen分词成为浏览器的共享方式。青空文库阅读器目前只是测试版，只支持横排，支持sen标注，但需安装sen数据包。暂时只支持shift-jis编码的文本。（内部版本号11，2012/06/25）\n
+v2.5：资料新增：日语发音标注工具（基于Sen）、TXT/CSV查看器、SSA字幕播放器。浏览器搜索新增在线TTS和北辞郎功能。搜索器现在是单独的进程，可选择缓存字典以加速启动。搜索器优先搜索汉字，允许把词条共享到印象笔记。软键盘增加可转换平片和大小写的按钮。手写板现在可以使用。（内部版本号10，2012/05/28）\n
+v2.4：修正小游戏屏幕适配问题。新增日语资料：小春音（需要SD卡安装语音压缩包）和常用汉字表。搜索器增加全文按钮，切换是否搜索意思。更新链接集。（内部版本号9，2012/05/14）\n
+v2.3：新的主页界面。搜索器长按退格按钮时切换到平假名键盘。支持词条意思的子串搜索，修正子串匹配算法（转换前后的子串都匹配），搜索结果最大条数提高到300（搜索速度可能会变慢）。小游戏调整了界面和修正一些bug。解决部分内存泄漏问题。添加第二个小插件（金黄色）。（内部版本号8，2012/04/23）\n
+v2.2：开始支持小插件（需要移至内存）；改为默认安装在SD卡；查看器和搜索器使用M+字体显示日语（如冷やす）。（内部版本号7，2012/04/09）\n
+v2.1：修正内置词库多次加载造成崩溃的bug。查看器添加搜索功能。游戏开始支持随机出题。（内部版本号6，2012/03/25）\n
+v2.0：查询内容直接定向至部分翻译网站的URL（长按搜索按钮）。增加主菜单和内置词库查看器。（内部版本号5，2012/03/20）\n
+v1.3：增加新词目约500条。添加单词小测试功能（测试中）。（内部版本号4，2012/03/11）\n
+v1.2：添加手写板（仅测试）和常用日本语学习链接集。用进度条取代加载对话框（可以快速退出程序）。（内部版本号3，2012/02/29）\n
+v1.1：修改字符串溢出的bug，添加平假名键盘。（内部版本号2，2012/02/19）\n
+v1.0：首次上传。（内部版本号1，2012/02/11）\n
+\n
+四、鸣谢和引用资源：\n
+1.衷心感激帮助我买Android手机的家人，如果没有你们的背后支持和鼓励，这个软件的1.0版不可能这么快完成的。\n
+\n
+另外感谢我曾就读的大学的图书馆，内置词库的基础部分来源于那里的一本书。\n
+\n
+感谢曾经使用过这个软件的朋友们，写评论和发邮件鼓励我的朋友们，以及你。\n
+\n
+\n
+2.内置词库来源：\n
+(1)《日本语能力考试1级文字词汇》\n
+http://hi.baidu.com/vifom/blog/item/61b2542c9a6cb8e48b139979.html\n
+（请注意，这篇博客不是我写的）\n
+\n
+(2)《日语常用词例解辞典》\n
+世界图书出版公司\n
+\n
+3.部分UI设计和资源来源于蒼穹工房的WallpaperAlice：\n
+http://soukyu.net/2011/09/07/1020\n
+\n
+4.手写板基于开源的Tomoe：\n
+http://www.libspark.org/wiki/beinteractive\n
+\n
+5.小测试的几乎全部素材都来源于タユタマ网站上的某个Flash游戏：\n
+http://www.lumpofsugar.co.jp/product/happydays/special/quiz/quiz_tayutama.html\n
+\n
+6.使用开源日文字体M+：\n
+http://mplus-fonts.sourceforge.jp/mplus-outline-fonts/index-en.html\n
+\n
+7.ゲーム等に使えるフリー声素材配布ページ-あみたろの声素材工房：\n
+http://www14.big.or.jp/~amiami/happy/voice/game_01.html\n
+\n
+8.形態素解析システム Sen：\n
+http://java.net/projects/sen\n
+\n
+9.sqlite字典来源：\n
+(1)The EDICT Dictionary File (EDICT and EDICT2)\n
+http://www.csse.monash.edu.au/~jwb/edict.html/edict_doc.html\n
+(2)WadokuJT.txt(from JGloss)\n
+http://www.bibiko.de/WadokuJT.zip\n
+http://jgloss.sourceforge.net/\n
+(3)jkanji内置字典\n
+(4)中日日中词典 MuiltDic v2.7.0\n
+http://soft.shouji.com.cn/down/17631.html\n
+\n
+10.aozora_ruby.py\n
+http://www.chiark.greenend.org.uk/~pmaydell/misc/aozora_ruby.py\n
+\n
+11.走れメロス（太宰 治）（青空文库测试文本）\n
+http://www.aozora.gr.jp/cards/000035/card1567.html\n
+\n
+12.android_page_curl\n
+https://github.com/harism/android_page_curl\n
+\n
+\n
+五、联系方式：\n
+Author：weimingtom\n
+Blog：http://weimingtom.iteye.com/\n
+Email：weimingtom@qq.com\n
+	</string>
+    <string name="about_ok">确定</string>
+    <string name="warning_title">警告</string>
+    <string name="warning_message">数据加载中，请稍候</string>
+    <string name="warning_ok">确定</string>
+    <!-- 
+    <string name="output_default_text">
+        	提示：搜索框内可输入英文单词、平假名、简体中文或日语汉字。
+        	如果你还没有安装日语输入法，建议用电子市场搜索并安装谷歌日语输入法，
+        	或尝试使用这里内置的软键盘功能。
+        	更多功能请按菜单键查看。\n</string>
+      -->
+    <string name="output_default_text">★ 小提示：\n
+● 如果需要搜索意思，请选择“全文”。\n
+● 如果需要搜索英文，请选择“英文”。\n
+● 片假名外来语请输入片假名（不支持平假名转换）。\n
+● 部分词支持用简体汉字直接搜索，但建议尽量使用日语汉字。\n
+\n
+★ 特殊用法：\n
+● 长按搜索按钮打开在线翻译网站搜索关键词。\n
+● 长按列表按钮打开历史与收藏夹。\n
+● 手写板可转换简体汉字为部分日语汉字。\n
+    </string>
+    <string name="output_absent_text">暂无结果：</string>
+    <string name="output_nomean_text">【暂无意思】</string>
+    <string name="loading_left_text">加载中（</string>
+    <string name="loading_right_text">）</string>
+    <string name="keyboard_button_text">键盘</string>
+    <string name="fulltext_search_text">全文</string>
+    <string name="output_overflow_text">提示：查询结果太多，只显示前300条。建议输入更长的查询字符串或选择前缀搜索。</string>
+    <string name="dict_links_option_menu">链接集</string>
+	<string name="hand_input_menu">手写板</string>
+	<string name="help_menu">关于</string>
+	<string name="hand_input_label">平假名手写输入</string>
+	<!-- 
+	<string name="now_loading_wait_label">如有问题，请发Email联系我：\nweimingtom@qq.com</string>
+	 -->
+	<string name="now_loading_wait_label">Loading</string>
+	<string name="about_label">关于</string>
+	<string name="editor_menu">编辑</string>
+	<string name="editer_label">搜索结果编辑</string>
+	<string name="digust_menu">摘录</string>
+	<string name="webview_dialog_title">选择摘录文件</string>
+	<string name="webview_label">摘录</string>
+	<string name="quiz_menu">小测试</string>
+	<string name="quiz_label">小测试（按A开始，问题内容未定，仅测试用）</string>
+	<string name="ref_label">日语学习用网址</string>
+	<string name="viewer_label">查看器</string>
+	<string name="viewer_menu">查看</string>
+	
+    <string name="widget_name">日语简易词典（浅蓝）</string>
+    <string name="widget_black_name">日语简易词典（金黄）</string>
+    <string name="widget_nanami_name">日语简易词典（二王女）</string>
+    <string name="widget_loading">数据加载中</string>
+	
+    <string name="book_index_label">资料目录</string>
+    
+    <!-- 正在初始化Sen，请稍候 -->
+    <string name="sen_label">sen日语发音标注</string>
+    <string name="sen_warn">
+警告：\n
+★Sen消耗大量内存（至少14MB），在标注发音期间可能导致程序意外终止（内存溢出）。\n
+★需要安装数据包，位于/sdcard/jkanji/sen。\n
+★第一次执行标注发音会花较长的时间。\n
+★运行于独立进程中。\n
+    </string>
+    
+    <string name="media_player_label">字幕播放器</string>
+    <string name="dir_browser_label">文件浏览器</string>
+    
+    <string name="text_list_label">单列或双列csv格式文本（UTF8）阅读器</string>
+    <string name="sqlite_reader_label">SQLite搜索器</string>
+    
+    <string name="history_label">历史与收藏夹</string>
+    
+    <string name="curl_label">青空文库阅读器</string>
+    <string name="aozora_help">
+1. 三维（触屏）翻页模式：\n
+★触摸屏幕：前后翻页。\n
+★搜索按钮：打开搜索器。\n
+★菜单按钮：打开基本型分词对话框和搜索器，退出。\n
+2. 音量键翻页和左右平移翻页模式：\n
+★触摸屏幕四边空白：前后翻页。\n
+★触摸屏幕上下或左右快速滑动：前后翻页。\n
+★触摸屏幕文字行（启用Sen标注的情况下）：点击某一行将弹出基本型分词对话框。\n
+★长按屏幕：屏蔽文字行触碰（即屏蔽弹出分词对话框，改为左右翻页）。\n
+★音量按钮：前后翻页。\n
+★搜索按钮：打开搜索器。\n
+★菜单按钮：打开基本型分词对话框和搜索器，退出。\n
+3. 可切换模式：\n
+★BACK按钮：按钮翻页模式切换到三维（触屏）翻页模式。\n
+★音量按钮：三维（触屏）翻页模式切换到按钮翻页模式。\n
+★搜索按钮：打开搜索器。\n
+★菜单按钮：打开基本型分词对话框和搜索器，退出。\n
+    </string>
+    <string name="setting_name">全局设置</string>
+    <string name="eb_name">EPWING搜索器</string>
+    <string name="cardgame_name">神経衰弱</string>
+    
+    <string name="actionbar_activity_not_found">找不到合适的程序</string>
+    
+    <string name="shortcut_name">日语查词</string>
+</resources>

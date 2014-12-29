@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" 
+    android:background="#FFFFFF"
+    >
+    
+    <!-- android:background="#CCCCCC" -->
+    <com.markupartist.android.widget.ActionBar
+        android:id="@+id/actionbar"
+        android:layout_width="fill_parent"
+        android:layout_height="45dip"
+        android:orientation="horizontal"
+        android:background="@drawable/actionbar_background"
+        />
+    
+    <!-- 
+    
+     -->
+    
+	<FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        >
+        <!-- 
+            android:background="#CCCCCC"
+         -->
+        <ScrollView 
+            android:background="#FFFFFF"
+            android:layout_width="fill_parent" 
+            android:layout_height="fill_parent">
+            <!-- android:background="@drawable/loading_bg" -->
+       	<LinearLayout
+       	    android:id="@+id/progressLayout"
+           	android:layout_width="match_parent"
+           	android:layout_height="wrap_content"
+           	android:layout_gravity="center"
+           	android:layout_weight="1"
+           	android:visibility="invisible"
+           	android:orientation="vertical"
+           	>
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_gravity="center"
+                android:layout_width="100.0dp" 
+                android:layout_height="100.0dp"
+                android:padding="5dp"
+                android:src="@drawable/loading001_1" 
+                android:visibility="gone"
+                />
+       		<TextView
+        	    android:id="@+id/textViewProgressInfo"
+        	    android:layout_width="match_parent"
+        	    android:layout_height="wrap_content"
+        	    android:layout_weight="1"
+        	    android:gravity="center"
+        	    android:textColor="#000000"
+        	    android:text="" />
+            	<ProgressBar
+        	    android:id="@+id/progressBar1"
+        	    style="?android:attr/progressBarStyleHorizontal"
+        	    android:layout_width="match_parent"
+        	    android:layout_height="wrap_content"
+        	    android:gravity="center"
+        	    android:padding="5dp"
+        	    android:layout_weight="1" />
+       		<!-- 
+       		<TextView
+       		    android:layout_width="match_parent"
+       		    android:layout_height="wrap_content"
+       		    android:gravity="center"
+       		    android:layout_weight="1"
+       		    android:id="@+id/textView2"
+       		    android:textColor="#000000"
+       		    android:text="@string/now_loading_wait_label" />
+       		 -->
+       		<TextView
+        	    android:id="@+id/textView1"
+        	    android:layout_width="match_parent"
+        	    android:layout_height="wrap_content"
+        	    android:layout_weight="1"
+        	    android:gravity="center"
+        	    android:textColor="#000000"
+        	    android:text="" />
+       		
+       		<ProgressBar
+        	    android:id="@+id/progressBar2"
+        	    style="?android:attr/progressBarStyleHorizontal"
+        	    android:layout_width="match_parent"
+        	    android:layout_height="wrap_content"
+        	    android:gravity="center"
+        	    android:padding="5dp"
+        	    android:layout_weight="1" />
+       		<!-- 
+       		<TextView
+       		    android:layout_width="match_parent"
+       		    android:layout_height="wrap_content"
+       		    android:gravity="center"
+       		    android:layout_weight="1"
+       		    android:id="@+id/textView2"
+       		    android:textColor="#000000"
+       		    android:text="@string/now_loading_wait_label" />
+       		 -->
+       		<TextView
+        	    android:id="@+id/textView2"
+        	    android:layout_width="match_parent"
+        	    android:layout_height="wrap_content"
+        	    android:layout_weight="1"
+        	    android:gravity="center"
+        	    android:textColor="#000000"
+        	    android:text="" />
+       		       		
+       		<ProgressBar
+        	    android:id="@+id/progressBar3"
+        	    style="?android:attr/progressBarStyleHorizontal"
+        	    android:layout_width="match_parent"
+        	    android:layout_height="wrap_content"
+        	    android:gravity="center"
+        	    android:padding="5dp"
+        	    android:layout_weight="1" />
+       		<TextView
+        	    android:id="@+id/textView3"
+        	    android:layout_width="match_parent"
+        	    android:layout_height="wrap_content"
+        	    android:layout_weight="1"
+        	    android:gravity="center"
+        	    android:textColor="#000000"
+        	    android:text="" />
+       		
+		</LinearLayout>
+	    </ScrollView>
+    
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+		android:id="@+id/mainLayout"
+		android:background="#FFFFFF"
+        android:orientation="vertical" 
+        android:visibility="visible"      
+        >
+
+        <!-- 
+        android:background="@drawable/bgpattern001"
+        #CCCCCC
+         -->
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        >    
+		<EditText
+			android:id="@+id/inputText"
+			android:layout_width="0dip"
+			android:layout_height="wrap_content"
+			android:layout_weight="2"
+			android:layout_gravity="center_vertical"
+			android:singleLine="true"
+			android:hint=""
+			android:imeOptions="actionSearch"
+			/>
+		
+		<Button
+			android:id="@+id/buttonEdit"
+			android:layout_width="0dp"
+			android:layout_height="wrap_content"
+			android:layout_weight="1"
+			android:layout_gravity="center_vertical"
+			android:text="列表" 
+			/>
+		
+		<Button
+			android:id="@+id/buttonStartSearch"
+			android:layout_width="0dp"
+			android:layout_height="wrap_content"
+			android:layout_weight="1"
+			android:layout_gravity="center_vertical"
+			android:text="搜索" 
+			/>
+    </LinearLayout>
+    
+    <LinearLayout
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:paddingLeft="5dp"
+         android:paddingRight="5dp"
+         android:gravity="center_vertical"
+         android:id="@+id/linearLayoutOptions"
+         >
+  		
+        <CheckBox
+            android:id="@+id/checkBoxEnableCache"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="缓存"
+            android:gravity="center_vertical"
+            android:textColor="@color/keyboard_button_color"
+            />
+
+        <Button
+            android:id="@+id/buttonKeyDel"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="退格"
+            android:gravity="center|center_vertical"
+            android:textColor="@color/keyboard_button_color" 
+            android:visibility="gone"
+            />
+        
+		<CheckBox
+  			android:id="@+id/toggleKeyboard"
+  			android:layout_width="0dp"
+  			android:layout_height="match_parent"
+  			android:layout_weight="1"
+  			android:gravity="center_vertical"
+  			android:text="@string/keyboard_button_text"
+  			android:textColor="@color/keyboard_button_color"
+  			/>
+
+		<Spinner
+		    android:id="@+id/spinnerWebType"
+		    android:layout_width="0dp"
+		    android:layout_height="wrap_content"
+		    android:gravity="center_vertical"
+		    android:layout_weight="1" 
+		    />
+		
+		<Spinner
+		    android:id="@+id/spinnerSearchType"
+		    android:layout_width="0dp"
+		    android:layout_height="wrap_content"
+		    android:gravity="center_vertical"
+		    android:layout_weight="1" 
+		    />
+
+    </LinearLayout>
+    
+    <TextView 
+        android:id="@+id/textViewInfo"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        />
+    
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:id="@+id/frameLayoutMainOutput"
+        >
+		<ScrollView
+        	android:id="@+id/scrollView1"
+        	android:layout_width="match_parent"
+        	android:layout_height="wrap_content"
+        	>
+	        <LinearLayout
+	            android:id="@+id/outputLayout"
+	            android:visibility="visible"
+	            android:orientation="vertical"
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content" 
+	            >
+	        </LinearLayout>
+        </ScrollView>
+       	
+		<GridView
+		        android:id="@+id/gridView1"
+		        android:visibility="invisible"
+		        android:layout_width="match_parent"
+		        android:layout_height="match_parent"
+		        android:numColumns="5">
+		</GridView>
+	    <com.android.calculator2mod.CalculatorViewPager
+	        android:id="@+id/panelswitch"
+	        android:layout_width="match_parent"
+	        android:layout_height="match_parent"			
+	        android:visibility="invisible"
+	        />
+     </FrameLayout>
+	 
+     <LinearLayout 
+         android:id="@+id/linearLayoutToolButtons"
+         android:layout_width="match_parent"
+         android:layout_height="60dp"
+         android:orientation="horizontal"
+         android:layout_marginTop="3dp"
+         android:layout_marginBottom="3dp"
+         >
+         <ImageView
+             android:id="@+id/ivTrans"
+             android:layout_width="0dp"
+             android:layout_height="match_parent"
+             android:layout_weight="1"
+             android:scaleType="centerInside"
+             android:clickable="true"
+             android:src="@drawable/tool_buttons_trans"
+             />
+         <ImageView
+             android:id="@+id/ivSearch"
+             android:layout_width="0dp"
+             android:layout_height="match_parent"
+             android:layout_weight="1"
+             android:scaleType="centerInside"
+             android:clickable="true"
+             android:src="@drawable/tool_buttons_search"
+             />
+         <ImageView
+             android:id="@+id/ivDel"
+             android:layout_width="0dp"
+             android:layout_height="match_parent"
+             android:layout_weight="1"
+             android:scaleType="centerInside"
+             android:clickable="true"
+             android:src="@drawable/tool_buttons_del"
+             />
+     </LinearLayout>"
+    
+    </LinearLayout>
+    </FrameLayout>
+</LinearLayout>

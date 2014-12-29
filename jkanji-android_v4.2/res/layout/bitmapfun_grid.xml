@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (C) 2012 The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FFFFFF"
+    >
+
+    <com.markupartist.android.widget.ActionBar
+        android:id="@+id/actionbar"
+        android:layout_width="fill_parent"
+        android:layout_height="45dip"
+        android:orientation="horizontal"
+        android:background="@drawable/actionbar_background"
+        />
+    
+    <LinearLayout
+        android:id="@+id/linearLayoutConfig"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+        <RadioGroup
+            android:id="@+id/radioGroupShow"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:orientation="horizontal"
+            >
+            <RadioButton 
+                android:id="@+id/radioButtonDialog"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:checked="true"
+                android:text="对话框"
+                android:textColor="#000000"
+                />
+			<RadioButton 
+                android:id="@+id/radioButtonView"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="查看器"
+                android:textColor="#000000"
+                />
+        </RadioGroup>
+	    <TextView 
+	        android:id="@+id/textViewPath"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:text=""
+	        android:textColor="#000000"
+	        />
+        <TextView 
+	        android:id="@+id/textViewInfo"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:text="小提示：长按弹出菜单。"
+	        android:textColor="#000000"
+	        />
+	</LinearLayout>
+	
+	<FrameLayout
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:background="#CCCCCC"
+		>
+		<GridView 
+		    android:id="@+id/gridViewBitmap"
+		    android:layout_width="fill_parent"
+		    android:layout_height="fill_parent"
+		    android:columnWidth="@dimen/image_thumbnail_size"
+		    android:horizontalSpacing="@dimen/image_thumbnail_spacing"
+		    android:numColumns="auto_fit"
+		    android:stretchMode="columnWidth"
+		    android:verticalSpacing="@dimen/image_thumbnail_spacing" 
+		    android:drawSelectorOnTop="true"
+		    android:listSelector="@drawable/bitmapfun_list_selector"
+		    android:fastScrollEnabled="true"
+		    />
+	    <TextView
+	        android:id="@+id/textViewLoading"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:visibility="invisible"
+	        android:text="加载中..."
+	        android:textColor="#000000"
+	        android:layout_gravity="center|center_vertical"
+	        />
+	</FrameLayout>
+</LinearLayout>

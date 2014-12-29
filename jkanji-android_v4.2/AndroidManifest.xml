@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.iteye.weimingtom.jkanji"
+    android:versionCode="27"
+    android:versionName="4.2"
+    android:installLocation="auto"
+    >
+
+    <!-- 
+    auto
+    internalOnly
+    preferExternal
+     -->
+    
+    <uses-sdk android:minSdkVersion="8" android:targetSdkVersion="17"/>
+    <!-- 
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> 
+	 --> 
+	<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+	 
+    <application
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name" 
+        android:theme="@style/AppTheme"
+        >
+        <activity
+            android:name="com.iteye.weimingtom.jkanji.JKanjiActivity"
+            android:label="@string/app_name" 
+            android:process=":dict"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            >
+            <!--
+            <intent-filter android:label="日语简易词典（搜索）">
+                <data android:mimeType="text/plain" />
+                <action android:name="android.intent.action.SEND" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            -->
+            <!--  
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            -->
+        </activity>
+        <activity 
+            android:name="com.iteye.weimingtom.jkanji.DictPreference"
+            android:label="@string/ref_label"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            >
+        </activity>
+        <activity
+            android:name="com.iteye.weimingtom.jkanji.JkanjiHandActivity"
+            android:label="@string/hand_input_label" 
+            android:process=":dict"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            >
+        </activity>
+        <activity
+            android:name="com.iteye.weimingtom.jkanji.AboutActivity"
+            android:label="@string/about_label" 
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            >
+        </activity>        
+        <activity
+            android:name="com.iteye.weimingtom.jkanji.JkanjiEditerActivity"
+            android:label="@string/editer_label"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            >
+        </activity>
+        <activity 
+            android:name="com.iteye.weimingtom.jkanji.WordEditActivity"
+            android:label="@string/editer_label"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            >
+        </activity>
+        <activity
+            android:name="com.iteye.weimingtom.jkanji.JkanjiViewerActivity"
+            android:label="@string/viewer_label"
+            android:process=":dict"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            >
+        </activity>
+        <activity
+            android:name="com.iteye.weimingtom.jkanji.WebViewActivity"
+            android:label="@string/webview_label"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            >
+        </activity>
+        <activity
+            android:name="com.iteye.weimingtom.jkanji.JkanjiBookIndex"
+            android:label="@string/book_index_label"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            >
+        </activity>
+        <!-- 
+        <activity
+            android:name="com.iteye.weimingtom.jkanji.JkanjiGameActivity"
+            android:label="@string/quiz_label"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            >
+        </activity>
+         -->
+        <activity
+            android:name="com.iteye.weimingtom.jkanji.DictWebListActivity"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            android:process=":dict"
+            >
+        </activity>
+        <activity
+            android:name="com.iteye.weimingtom.jkanji.JkanjiListReaderActivity"
+            android:label="@string/app_name" 
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            >
+            <!-- 
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+             -->
+        </activity>
+        <activity
+            android:name="com.iteye.weimingtom.jkanji.JkanjiSenActivity"
+            android:label="@string/sen_label" 
+            android:process=":sen2"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            >
+            <!--
+            <intent-filter android:label="日语简易词典（Sen分词）">
+                <data android:mimeType="text/plain" />
+                <action android:name="android.intent.action.SEND" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            -->
+            <!-- 
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+             -->
+        </activity>
+        <activity
+            android:name="com.iteye.weimingtom.jkanji.JkanjiTextListActivity"
+            android:label="@string/text_list_label" 
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            >
+            <!-- 
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+             -->
+        </activity>
+       <activity
+            android:name="com.iteye.weimingtom.jkanji.MediaPlayerActivity"
+            android:label="@string/media_player_label" 
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            >
+            <!-- 
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+             -->
+        </activity>
+        <activity 
+            android:name="com.iteye.weimingtom.jkanji.DirBrowser"
+            android:label="@string/dir_browser_label"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            >
+        </activity>
+       <activity
+            android:name="com.iteye.weimingtom.jkanji.SQLiteReaderActivity"
+            android:label="@string/sqlite_reader_label" 
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            >
+            <!-- 
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+             -->
+        </activity>
+        
+        <receiver 
+            android:name="com.iteye.weimingtom.jkanji.WordWidget" 
+            android:label="@string/widget_name"
+            >
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            	<action android:name="com.iteye.weimingtom.jkanji.UPDATE_MY_WIDGET"/>
+            </intent-filter>
+            <meta-data 
+                android:name="android.appwidget.provider"
+                android:resource="@xml/widget_word" />
+        </receiver>
+        <receiver 
+            android:name="com.iteye.weimingtom.jkanji.WordBlackWidget" 
+            android:label="@string/widget_black_name">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            	<action android:name="com.iteye.weimingtom.jkanji.UPDATE_MY_WIDGET"/>
+            </intent-filter>
+            <meta-data 
+                android:name="android.appwidget.provider"
+                android:resource="@xml/widget_black_word" />
+        </receiver>
+        
+        <activity 
+            android:name="com.iteye.weimingtom.jkanji.JkanjiLauncher"
+            android:label="@string/app_name"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            >
+            <!-- 
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+             -->
+        </activity>
+        
+        <activity 
+            android:name="com.iteye.weimingtom.jkanji.JkanjiHistoryActivity"
+            android:label="@string/history_label"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            >
+        </activity>
+        
+        
+        
+		<activity
+		    android:name="fi.harism.curl.CurlActivity"
+		    android:label="@string/curl_label"
+		   	android:process=":aozora"
+		   	android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+		    android:launchMode="singleTask"
+            android:alwaysRetainTaskState="true"
+            android:theme="@style/AppThemeBlack"
+		    >
+		</activity>
+		<activity
+		    android:name="fi.harism.curl.CurlLandActivity"
+		    android:label="@string/curl_label"
+		   	android:process=":aozora"
+		   	android:screenOrientation="landscape"
+		   	android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+		    android:launchMode="singleTask"
+            android:alwaysRetainTaskState="true"
+            android:theme="@style/AppThemeBlack"
+		    >
+		</activity>
+		<activity
+		    android:name="fi.harism.curl.CurlPortActivity"
+		    android:label="@string/curl_label"
+		   	android:process=":aozora"
+		   	android:screenOrientation="portrait"
+		   	android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+		    android:launchMode="singleTask"
+            android:alwaysRetainTaskState="true"
+            android:theme="@style/AppThemeBlack"
+		    >
+		</activity>
+		<activity
+		    android:name="fi.harism.curl.ViewPagerActivity"
+		    android:label="@string/curl_label"
+		   	android:process=":aozora"
+		   	android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+		    android:launchMode="singleTask"
+            android:alwaysRetainTaskState="true"
+            android:theme="@style/AppThemeBlack"
+		    >
+		</activity>
+		<activity
+		    android:name="fi.harism.curl.ViewPagerLandActivity"
+		    android:label="@string/curl_label"
+		   	android:process=":aozora"
+		   	android:screenOrientation="landscape"
+		   	android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+		    android:launchMode="singleTask"
+            android:alwaysRetainTaskState="true"
+            android:theme="@style/AppThemeBlack"
+		    >
+		</activity>
+		<activity
+		    android:name="fi.harism.curl.ViewPagerPortActivity"
+		    android:label="@string/curl_label"
+		   	android:process=":aozora"
+		   	android:screenOrientation="portrait"
+		   	android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+		    android:launchMode="singleTask"
+            android:alwaysRetainTaskState="true"
+            android:theme="@style/AppThemeBlack"
+		    >
+		</activity>
+				
+		<activity 
+		    android:name="com.iteye.weimingtom.jkanji.JkanjiAozoraReaderActivity"
+		    android:label="@string/curl_label"
+		    android:process=":aozora"
+		    android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+		    >
+		</activity>
+        <provider 
+            android:name="com.iteye.weimingtom.jkanji.SenProvider"
+        	android:authorities="com.iteye.weimingtom.jkanji.SenProvider"
+        	android:process=":sen"
+        	android:exported="false"
+        	>
+        </provider>
+        
+        <activity 
+            android:name="com.iteye.weimingtom.jkanji.JkanjiMainMenuActivity"
+            android:label="@string/app_name"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            >
+            <!-- 
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+             -->
+        </activity>
+        
+        <activity 
+            android:name="com.iteye.weimingtom.jkanji.JkanjiHelpActivity" 
+            android:label="@string/app_name"
+            android:configChanges="orientation|keyboardHidden|locale"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            >
+        </activity>
+        
+        <!-- 
+                    android:process=":help"
+         -->
+        
+        <activity
+            android:name="com.iteye.weimingtom.jkanji.JkanjiTalkActivity"
+            android:label="@string/app_name" 
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            >
+        </activity>
+        
+        <activity
+            android:name="com.iteye.weimingtom.jkanji.JkanjiSettingActivity"
+            android:label="@string/setting_name"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            >
+        </activity>
+        
+        <activity 
+            android:name="com.iteye.weimingtom.jkanji.JkanjiEb4jActivity"
+            android:label="@string/eb_name"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            >
+            
+        </activity>
+        
+        <!-- 
+        <activity 
+            android:name="com.iteye.weimingtom.jkanji.JkanjiCardGameActivity"
+            android:label="@string/cardgame_name"
+            android:screenOrientation="landscape"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            >
+            
+        </activity>
+         -->
+         
+        <activity 
+            android:name="com.iteye.weimingtom.jkanji.JkanjiWebsiteActivity"
+            android:label="@string/ref_label"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"            
+            >
+            
+        </activity>
+        
+        
+        <activity 
+            android:name="com.iteye.weimingtom.jkanji.JkanjiMarkdownIndexActivity"
+            android:label="@string/ref_label"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"            
+            >
+            
+        </activity>
+        <activity 
+            android:name="com.iteye.weimingtom.jkanji.JkanjiMarkdownActivity"
+            android:label="@string/ref_label"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"            
+            >
+            
+        </activity>
+        <activity 
+            android:name="com.iteye.weimingtom.jkanji.HtmltestActivity"
+            android:label="@string/ref_label"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"              
+            >
+            
+        </activity>    
+        <!--           
+        <activity
+            android:name="com.iteye.weimingtom.jkanji.WebViewGameActivity"
+            android:label="@string/webview_label"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            android:screenOrientation="landscape"
+            >
+        </activity>
+         -->
+        <activity
+            android:name="com.iteye.weimingtom.jkanji.JkanjiJgrKanjiActivity"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            android:process=":dict"
+            >
+        </activity>
+        <service
+            android:name="com.iteye.weimingtom.jkanji.JkanjiDictService"
+            android:process=":dict"
+            >
+        </service>
+        <service
+            android:name="com.iteye.weimingtom.jkanji.JkanjiSenService"
+            android:process=":sen"
+            >
+        </service>
+        <service
+            android:name="com.iteye.weimingtom.jkanji.JkanjiAozoraService"
+            android:process=":aozora"
+            >
+        </service>
+        <activity
+            android:name="com.elgubbo.sharetoclipboard.ShareToClipboardActivity"
+            android:label="@string/app_name" 
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            >
+            <!--
+            <intent-filter
+                android:label="日语简易词典（备忘录）">
+                <data android:mimeType="text/plain"/>
+                <action android:name="android.intent.action.SEND"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+            -->
+        </activity>
+        <activity
+            android:name="com.elgubbo.sharetoclipboard.ShareToClipboardEditActivity"
+            android:label="@string/app_name" 
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            >
+        </activity>
+        
+        
+        <activity 
+            android:name="com.iteye.weimingtom.jkanji.JkanjiHorryActivity"
+            android:label="@string/app_name"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            >
+            
+        </activity>
+
+        <activity 
+            android:name="com.iteye.weimingtom.jkanji.JkanjiTutorialActivity"
+            android:label="@string/app_name"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            >
+        </activity>
+                
+        <activity 
+            android:name="com.iteye.weimingtom.jkanji.JkanjiShelfHistoryActivity"
+            android:label="@string/app_name"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            >         
+        </activity>
+        <activity 
+            android:name="com.iteye.weimingtom.jkanji.JkanjiShelfBrowserActivity"
+            android:label="@string/app_name"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            >
+        </activity>
+        <activity 
+            android:name="com.iteye.weimingtom.jkanji.JkanjiShelfPlainReaderActivity"
+            android:label="@string/app_name"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            >
+        </activity>
+        
+        
+        <activity 
+            android:name="com.sonyericsson.zoom.JkanjiGalleryHistoryActivity"
+            android:label="@string/app_name"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            android:process=":gallhis"
+            >
+        </activity>
+        <activity 
+            android:name="com.sonyericsson.zoom.JkanjiGalleryBrowserActivity"
+            android:label="@string/app_name"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            >
+        </activity>
+        <activity 
+            android:name="com.sonyericsson.zoom.ImageGrid2Activity"
+            android:label="@string/app_name"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            android:process=":imagegrid"
+            >
+        </activity>
+        <activity 
+            android:name="com.sonyericsson.zoom.JkanjiGalleryActivity"
+            android:label="@string/app_name"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            android:theme="@style/AppThemeBlack"
+            >
+        </activity>
+        <activity 
+            android:name="com.sonyericsson.zoom.JkanjiGalleryPortActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            android:theme="@style/AppThemeBlack"
+            >
+        </activity>
+        <activity 
+            android:name="com.sonyericsson.zoom.JkanjiGalleryLandActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="landscape"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            android:theme="@style/AppThemeBlack"
+            >
+        </activity>
+        <activity 
+            android:name="com.sonyericsson.zoom.JkanjiGallerySettingActivity"
+            android:label="@string/app_name"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            android:theme="@style/AppThemeBlack"
+            >
+        </activity>
+        <activity 
+            android:name="com.sonyericsson.zoom.JkanjiScrollGalleryActivity"
+            android:label="@string/app_name"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            android:theme="@style/AppThemeBlack"
+            >
+        </activity>
+        <activity 
+            android:name="com.sonyericsson.zoom.JkanjiScrollGalleryPortActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            android:theme="@style/AppThemeBlack"
+            >
+        </activity>
+        <activity 
+            android:name="com.sonyericsson.zoom.JkanjiScrollGalleryLandActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="landscape"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            android:theme="@style/AppThemeBlack"
+            >
+        </activity>
+        <activity 
+            android:name="com.sonyericsson.zoom.JkanjiPagerGalleryActivity"
+            android:label="@string/app_name"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            android:theme="@style/AppThemeBlack"
+            >
+        </activity>
+        <activity 
+            android:name="com.sonyericsson.zoom.JkanjiPagerGalleryPortActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            android:theme="@style/AppThemeBlack"
+            >
+        </activity>
+        <activity 
+            android:name="com.sonyericsson.zoom.JkanjiPagerGalleryLandActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="landscape"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            android:theme="@style/AppThemeBlack"
+            >
+        </activity>
+        
+        
+        
+        <activity
+            android:name="com.iteye.weimingtom.jkanji.JkanjiBranchActivity"
+            android:label="@string/about_label" 
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            >
+        </activity>
+        
+        <activity
+            android:name="com.android.calculator2mod.Calculator"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            >
+        </activity>
+        
+        <activity 
+            android:name="com.iteye.weimingtom.jkanji.BubbleActivity"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            >
+            <intent-filter android:label="日语简易词典">
+                <data android:mimeType="text/plain" />
+                <action android:name="android.intent.action.SEND" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+
+
+        
+        <receiver 
+            android:name="com.iteye.weimingtom.littlenanami.LittleNanamiAppWidgetProvider"
+            android:label="@string/widget_nanami_name">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE"/>
+            </intent-filter>
+            <meta-data
+                android:name="android.appwidget.provider" 
+                android:resource="@xml/widget_nanami"
+                />
+        </receiver>
+        <service android:name="com.iteye.weimingtom.littlenanami.LittleNanamiService" />
+        <activity android:name="com.iteye.weimingtom.littlenanami.LittleNanamiSettingActivity" />
+        <activity
+            android:name="com.iteye.weimingtom.littlenanami.LittleNanamiBubbleActivity"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:label="@string/widget_nanami_name"
+            >
+            <intent-filter>
+                <action android:name="android.intent.action.CREATE_SHORTCUT" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        
+        <activity
+            android:name="jp.co.cyberagent.android.gpuimage.sample.activity.ActivityMain"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            />
+        <activity
+            android:name="jp.co.cyberagent.android.gpuimage.sample.activity.ActivityGallery" 
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            />
+        <activity
+            android:name="com.iteye.weimingtom.jpegdecoder.JPEGDecoderActivity" 
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            />
+            
+        <activity
+            android:name="com.sonyericsson.zoom.JkanjiAlbumActivity"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            android:process=":album"
+            />
+        
+        <activity 
+            android:name="org.nick.wwwjdic.krad.KradChart"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            android:process=":krad"
+            />
+        
+        <provider 
+            android:name="com.sonyericsson.zoom.ThumbsProvider"
+        	android:authorities="com.sonyericsson.zoom.ThumbsProvider"
+        	android:process=":thumbs"
+        	android:exported="false"
+        	/>
+        
+        <activity 
+            android:name="com.iteye.weimingtom.jkanji.JkanjiCJJCPinyinActivity"
+            android:label="@string/app_name"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            >
+            
+        </activity>
+        
+        <!-- 
+        <activity 
+            android:name="com.iteye.weimingtom.kikyajava.global.MainFrame"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            >
+        </activity>
+         -->
+         
+        <activity 
+            android:name="com.iteye.weimingtom.jkanji.JkanjiBookSearchActivity"
+            android:label="@string/app_name"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            >
+            
+        </activity>
+        
+        
+        <!-- SnowBookSimple -->
+        <activity
+            android:name="com.iteye.weimingtom.snowbook.activity.SnowBookActivity"
+            android:label="@string/snowbook_app_name" >
+        </activity>
+        
+        <activity 
+            android:name="com.iteye.weimingtom.snowbook.activity.WelcomeActivity"
+            android:theme="@android:style/Theme.Black.NoTitleBar">
+            <!-- 
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+             -->
+        </activity>
+        
+        <activity 
+      		android:name="com.iteye.weimingtom.snowbook.activity.MainActivity"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            >
+            <!-- 
+             android:theme="@style/Theme.Sherlock.Light.Tab"
+             -->
+			<intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+        
+        
+        
+        
+        <!-- 
+        <activity
+            android:name="com.iteye.weimingtom.reversi.ReversiActivity"
+            >
+        </activity>
+        <activity
+            android:name="com.iteye.weimingtom.gomoku.GomokuActivity"
+            >
+        </activity>
+         -->
+         
+         
+        <activity
+            android:name="com.iteye.weimingtom.jkanji.AboutGamesActivity"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"
+            >
+        </activity> 
+        
+    </application>
+</manifest>

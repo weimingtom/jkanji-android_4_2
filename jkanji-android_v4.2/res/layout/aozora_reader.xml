@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FFFFFF"
+    >
+	
+    <com.markupartist.android.widget.ActionBar
+        android:id="@+id/actionbar"
+        android:layout_width="fill_parent"
+        android:layout_height="45dip"
+        android:orientation="horizontal"
+        android:background="@drawable/actionbar_background"
+        />
+    
+    <!-- 
+    android:background="@drawable/bgpattern001"
+    #CCCCCC
+     -->
+    <FrameLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        >
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        >
+
+        <LinearLayout
+            android:id="@+id/linearLayout2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            >
+            
+			<TextView
+				android:text="备份，进入阅读模式"
+				android:gravity="center"
+				android:padding="10dip"
+				android:background="#add8e6"
+				android:textColorHighlight="#e6e6e6"
+				android:textColor="#000000"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:includeFontPadding="true"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+				/>
+            <!-- 
+		    <TextView
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:textColor="#FF000000"
+		        android:text="    阅读模式的操作说明见底部。" 
+		        />
+			
+		    <TextView
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:textColor="#FF000000"
+		        android:text="    警告：设置只在进入阅读模式后才被快速保存。全屏、动作栏高度和字体的不同可能导致无法跳转到原来位置（改变总页数）" 
+		        />
+			 -->
+			 
+		    <TextView
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:textColor="#FF000000"
+		        android:text="    如果不使用书架功能，请使用共享和打开功能。" 
+		        />
+		    
+		    <TextView
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:textColor="#FF000000"
+		        android:text="    如果使用书架功能，请使用预览或保存功能修改设定和预览，使用书架的简单查看器修改文本编码。保存按钮不保存：文件名，位置，页码，代码页，解释器类型，是否基于页码。" 
+		        />
+		    
+		    <LinearLayout
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content" >
+		        <Button
+		            android:id="@+id/buttonFavSet"
+		            android:layout_width="0dp"
+		            android:layout_height="wrap_content"
+		            android:layout_weight="1"
+		            android:text="方案2" />
+		        
+		        <Button
+		            android:id="@+id/buttonOpenSample"
+		            android:layout_width="0dp"
+		            android:layout_height="wrap_content"
+		            android:layout_weight="1"
+		            android:text="预览" />
+		        
+		        <Button
+		            android:id="@+id/buttonSaveSetting"
+		            android:layout_width="0dp"
+		            android:layout_height="wrap_content"
+		            android:layout_weight="1"
+		            android:text="保存" />
+		    </LinearLayout>
+		    
+		    <TextView
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:textColor="#FF000000"
+		        android:text="    以下按钮用于无书架情况下使用（旧功能）。" 
+		        />
+		    
+		    <LinearLayout
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content" >
+			    <Button
+			        android:id="@+id/buttonShareReaderSetting"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:text="共享" 
+			        android:layout_weight="1"
+			        />
+				<Button
+		            android:id="@+id/buttonOpen"
+		            android:layout_width="0dp"
+		            android:layout_height="wrap_content"
+		            android:layout_weight="1"
+		            android:text="打开" 
+		            />
+		    </LinearLayout>
+
+			<TextView
+				android:text="字体大小"
+				android:gravity="center"
+				android:padding="10dip"
+				android:background="#add8e6"
+				android:textColorHighlight="#e6e6e6"
+				android:textColor="#000000"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:includeFontPadding="true"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+			/>
+			
+		    <TextView
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:textColor="#FF000000"
+		        android:text="    可以在全局设置中更改，但不建议随意修改（可能导致打开书架历史记录时跳转页面不正常）" />
+		    
+			<TextView
+				android:text="TXT文件路径"
+				android:gravity="center"
+				android:padding="10dip"
+				android:background="#add8e6"
+				android:textColorHighlight="#e6e6e6"
+				android:textColor="#000000"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:includeFontPadding="true"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+			/>
+		    
+		    <TextView
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:textColor="#FF000000"
+		        android:text="    警告：需要手动清除页数。请勿打开过大的文件，如果无法结束或出现异常情况，请按HOME按钮退出，在应用程序管理器中关闭程序后再试。" />
+		    
+		    <EditText
+		        android:id="@+id/editTextFilename"
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:enabled="false"
+		        android:focusable="false"
+		        >
+		    </EditText>
+		
+		    <LinearLayout
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content" >
+		
+		        <Button
+		            android:id="@+id/buttonBrowseTxt"
+		            android:layout_width="0dp"
+		            android:layout_height="wrap_content"
+		            android:layout_weight="1"
+		            android:text="txt" />
+
+		        <Button
+		            android:id="@+id/buttonBrowseEpub"
+		            android:layout_width="0dp"
+		            android:layout_height="wrap_content"
+		            android:layout_weight="1"
+		            android:text="epub" />
+		        
+		        <Button
+		            android:id="@+id/buttonREBrowseTxt"
+		            android:layout_width="0dp"
+		            android:layout_height="wrap_content"
+		            android:layout_weight="1"
+		            android:text="RE" />
+
+		    </LinearLayout>
+
+			<TextView
+				android:text="背景图片路径"
+				android:gravity="center"
+				android:padding="10dip"
+				android:background="#add8e6"
+				android:textColorHighlight="#e6e6e6"
+				android:textColor="#000000"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:includeFontPadding="true"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+			/>
+		    
+		    <EditText
+		        android:id="@+id/editTextBGFilename"
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:enabled="false"
+		        android:focusable="false"
+		        >
+		    </EditText>
+		
+		    <LinearLayout
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content" >
+		
+		        <Button
+		            android:id="@+id/buttonBrowseJPG"
+		            android:layout_width="0dp"
+		            android:layout_height="wrap_content"
+		            android:layout_weight="1"
+		            android:text="JPG" />
+		
+		        <Button
+		            android:id="@+id/buttonBrowsePNG"
+		            android:layout_width="0dp"
+		            android:layout_height="wrap_content"
+		            android:layout_weight="1"
+		            android:text="PNG" />
+
+		        <Button
+		            android:id="@+id/buttonREBrowseJPG"
+		            android:layout_width="0dp"
+		            android:layout_height="wrap_content"
+		            android:layout_weight="1"
+		            android:text="RE" />
+
+		        <Button
+		            android:id="@+id/buttonBrowseBGClear"
+		            android:layout_width="0dp"
+		            android:layout_height="wrap_content"
+		            android:layout_weight="1"
+		            android:text="清空" />		        
+		    </LinearLayout>
+		    
+		    <TextView
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:textColor="#FF000000"
+		        android:text="    警告：白底黑字时为白色遮罩，黑底白字时为黑色遮罩。遮罩是指背景图上方叠加透明度50%的白色或黑色。" />
+		    
+		    <RadioGroup
+		        android:orientation="horizontal"
+		        android:gravity="center_vertical"
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        >
+			    <RadioButton
+			        android:id="@+id/radioButtonMaskBG"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="1"
+			        android:checked="true"
+			        android:textColor="#FF000000"
+			        android:text="遮罩" />
+			
+			    <RadioButton
+			        android:id="@+id/radioButtonNoMaskBG"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="1"
+			        android:textColor="#FF000000"
+			        android:text="无遮罩" />
+		    </RadioGroup>
+		    
+			<TextView
+				android:text="跳转至页面"
+				android:gravity="center"
+				android:padding="10dip"
+				android:background="#add8e6"
+				android:textColorHighlight="#e6e6e6"
+				android:textColor="#000000"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:includeFontPadding="true"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+			/>
+		    
+		    <TextView
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:textColor="#FF000000"
+		        android:text="    警告：请慎重使用基于位置的跳转。基于位置的页面跳转将导致多次转屏后页数不符（有1页左右的偏移），原因是转屏前记录的位置是当前页面的第一个字符位置。" />
+
+		    <TextView
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:textColor="#FF000000"
+		        android:text="    警告：如果选择左右平移翻页方式，在转屏重启后将无法跳转至更新后的页码或位置（只跳转至最初给定页码或位置）。其它翻页模式可能也有这种问题。建议在转屏前退回到这里以快速保存页码和位置，或者设置系统不要自动转屏，或者在下面的屏幕方向设置中选择横屏或竖屏（这样方向是固定的）。" />
+		    	
+		    <RadioGroup
+		        android:orientation="horizontal"
+		        android:gravity="center_vertical"
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        >
+			    <RadioButton
+			        android:id="@+id/radioButtonBasePage"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="1"
+			        android:checked="true"
+			        android:textColor="#FF000000"
+			        android:text="基于页码" />
+			
+			    <RadioButton
+			        android:id="@+id/radioButtonBasePosition"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="1"
+			        android:textColor="#FF000000"
+			        android:text="基于位置" />
+		    </RadioGroup>
+			
+		    <LinearLayout
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content" 
+		        android:orientation="horizontal"
+		        android:gravity="center_vertical"
+		        >
+		        <TextView
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:layout_weight="0"
+		            android:textColor="#FF000000"
+		            android:text="转至页：" />
+
+		        <EditText
+		            android:id="@+id/editTextPage"
+		            android:layout_width="match_parent"
+		            android:layout_height="wrap_content"
+		            android:layout_weight="1"
+		            android:inputType="number"
+		            android:enabled="false"
+		            android:focusable="false"
+		            />
+
+		        <Button
+		            android:id="@+id/buttonSetPage"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:layout_weight="0"
+		            android:text="指定" 
+		            />
+		        
+		        <Button
+		            android:id="@+id/buttonClearPage"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:layout_weight="0"
+		            android:text="清空" />
+		        
+		    </LinearLayout>
+		
+		    <LinearLayout
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content" 
+		        android:orientation="horizontal"
+		        android:gravity="center_vertical"
+		        >
+		        <TextView
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:layout_weight="0"
+		            android:textColor="#FF000000"
+		            android:text="转至位置：" />
+
+		        <EditText
+		            android:id="@+id/editTextPosition"
+		            android:layout_width="match_parent"
+		            android:layout_height="wrap_content"
+		            android:layout_weight="1"
+		            android:inputType="number"
+		            android:enabled="false"
+		            android:focusable="false"
+		            />
+
+		        <Button
+		            android:id="@+id/buttonSetPos"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:layout_weight="0"
+		            android:text="指定" 
+		            />
+		        
+		        <Button
+		            android:id="@+id/buttonClearPosition"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:layout_weight="0"
+		            android:text="清空" />
+		        
+		    </LinearLayout>
+		    
+			<TextView
+				android:text="是否隐藏状态栏"
+				android:gravity="center"
+				android:padding="10dip"
+				android:background="#add8e6"
+				android:textColorHighlight="#e6e6e6"
+				android:textColor="#000000"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:includeFontPadding="true"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+			/>
+		
+		    <RadioGroup
+		        android:orientation="horizontal"
+		        android:gravity="center_vertical"
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        >
+			    <RadioButton
+			        android:id="@+id/radioButtonNotFullScreen"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="1"
+			        android:checked="true"
+			        android:textColor="#FF000000"
+			        android:text="非全屏" />
+			
+			    <RadioButton
+			        android:id="@+id/radioButtonFullScreen"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="1"
+			        android:textColor="#FF000000"
+			        android:text="全屏" />
+		    </RadioGroup>
+		    <RadioGroup
+		        android:orientation="horizontal"
+		        android:gravity="center_vertical"
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        >
+			    <RadioButton
+			        android:id="@+id/radioButtonActionbar"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="1"
+			        android:checked="true"
+			        android:textColor="#FF000000"
+			        android:text="动作栏" />
+			
+			    <RadioButton
+			        android:id="@+id/radioButtonNoActionbar"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="1"
+			        android:textColor="#FF000000"
+			        android:text="无动作栏" />
+		    </RadioGroup>
+		    
+			<TextView
+				android:text="翻页方式"
+				android:gravity="center"
+				android:padding="10dip"
+				android:background="#add8e6"
+				android:textColorHighlight="#e6e6e6"
+				android:textColor="#000000"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:includeFontPadding="true"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+			/>
+		
+		    <TextView
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:textColor="#FF000000"
+		        android:text="    三维：翻页动画，较慢，不支持触碰行分词" />
+
+		    <TextView
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:textColor="#FF000000"
+		        android:text="    音量键（推荐使用）：无动画，较快，支持触碰行分词" />
+		    		
+		    <TextView
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:textColor="#FF000000"
+		        android:text="    警告：左右平移容易造成程序崩溃，请谨慎使用。" 
+		        />
+		    	
+		    <RadioGroup
+		        android:orientation="vertical"
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        >
+			    <RadioButton
+			        android:id="@+id/radioButtonCurl"
+			        android:layout_width="match_parent"
+			        android:layout_height="wrap_content"
+			        android:checked="true"
+			        android:textColor="#FF000000"
+			        android:text="三维（不支持行分词）" />
+			
+			    <RadioButton
+			        android:id="@+id/radioButtonSimple"
+			        android:layout_width="match_parent"
+			        android:layout_height="wrap_content"
+			        android:textColor="#FF000000"
+			        android:text="音量键（支持行分词）" />
+
+			    <RadioButton
+			        android:id="@+id/radioButtonCurlSimple"
+			        android:layout_width="match_parent"
+			        android:layout_height="wrap_content"
+			        android:textColor="#FF000000"
+			        android:text="三维/音量键" />
+
+			    <RadioButton
+			        android:id="@+id/radioButtonViewPager"
+			        android:layout_width="match_parent"
+			        android:layout_height="wrap_content"
+			        android:textColor="#FF000000"
+			        android:text="左右平移（推荐，支持行分词）" />   
+		    </RadioGroup>
+		    
+			<TextView
+				android:text="文本编码方式"
+				android:gravity="center"
+				android:padding="10dip"
+				android:background="#add8e6"
+				android:textColorHighlight="#e6e6e6"
+				android:textColor="#000000"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:includeFontPadding="true"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+			/>
+		    
+		    <TextView
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:textColor="#FF000000"
+		        android:text="    警告：如果出现乱码，请尝试使用其它文本代码页，shift-jis为日文，gbk为中文，青空格式的文本一般为shift-jis。" 
+		        />
+			
+		    <RadioGroup
+		        android:orientation="horizontal"
+		        android:gravity="center_vertical"
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        >
+			    <RadioButton
+			        android:id="@+id/radioButtonShiftJIS"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="1"
+			        android:checked="true"
+			        android:textColor="#FF000000"
+			        android:text="shift-jis" />
+			
+			    <RadioButton
+			        android:id="@+id/radioButtonUTF8"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="1"
+			        android:textColor="#FF000000"
+			        android:text="utf8" />
+
+			    <RadioButton
+			        android:id="@+id/radioButtonGBK"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="1"
+			        android:textColor="#FF000000"
+			        android:text="gbk" />
+			    
+			    <RadioButton
+			        android:id="@+id/radioButtonUnicode"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="1"
+			        android:textColor="#FF000000"
+			        android:text="unicode" /> 
+		    </RadioGroup>
+		    
+			<TextView
+				android:text="是否启用Sen标注"
+				android:gravity="center"
+				android:padding="10dip"
+				android:background="#add8e6"
+				android:textColorHighlight="#e6e6e6"
+				android:textColor="#000000"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:includeFontPadding="true"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+			/>
+
+		    <TextView
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:textColor="#FF000000"
+		        android:text="    警告：启用sen标注需要在sd卡中安装sen数据包。因为sen需要很大的内存，可能导致内存溢出和崩溃。" />
+
+		    <TextView
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:textColor="#FF000000"
+		        android:text="    如果不启用Sen标注，执行基本型分词时将尝试使用系统自带的日文区域icu4c分词（不需要数据包）。" />
+    	
+		    <RadioGroup
+		        android:orientation="horizontal"
+		        android:gravity="center_vertical"
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        >
+			    <RadioButton
+			        android:id="@+id/radioButtonNotSen"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="1"
+			        android:checked="true"
+			        android:textColor="#FF000000"
+			        android:text="不启用" />
+			
+			    <RadioButton
+			        android:id="@+id/radioButtonSen"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="1"
+			        android:textColor="#FF000000"
+			        android:text="启用" />
+			    
+			    <Button
+			        android:id="@+id/buttonTestSen"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="1"
+			        android:textColor="#FF000000"
+			        android:text="加载" />
+		    </RadioGroup>
+		    
+			<TextView
+				android:text="是否旋转"
+				android:gravity="center"
+				android:padding="10dip"
+				android:background="#add8e6"
+				android:textColorHighlight="#e6e6e6"
+				android:textColor="#000000"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:includeFontPadding="true"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+			/>
+
+		    <TextView
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:textColor="#FF000000"
+		        android:text="    警告：翻页方式可能有不同" />
+		    	
+		    <RadioGroup
+		        android:orientation="horizontal"
+		        android:gravity="center_vertical"
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        >
+			    <RadioButton
+			        android:id="@+id/radioButtonNotReverseDirection"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="1"
+			        android:checked="true"
+			        android:textColor="#FF000000"
+			        android:text="不旋转" />
+			
+			    <RadioButton
+			        android:id="@+id/radioButtonReverseDirection"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="1"
+			        android:textColor="#FF000000"
+			        android:text="旋转" />
+		    </RadioGroup>
+		    
+			<TextView
+				android:text="文本格式"
+				android:gravity="center"
+				android:padding="10dip"
+				android:background="#add8e6"
+				android:textColorHighlight="#e6e6e6"
+				android:textColor="#000000"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:includeFontPadding="true"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+			/>
+		    
+		    <RadioGroup
+		        android:orientation="horizontal"
+		        android:gravity="center_vertical"
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        >
+			    <RadioButton
+			        android:id="@+id/radioButtonParserAozora"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="1"
+			        android:checked="true"
+			        android:textColor="#FF000000"
+			        android:text="青空文库" />
+			
+			    <RadioButton
+			        android:id="@+id/radioButtonParserPlain"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="1"
+			        android:textColor="#FF000000"
+			        android:text="纯文本" />
+		    </RadioGroup>
+		    
+		    
+			<TextView
+				android:text="横排竖排"
+				android:gravity="center"
+				android:padding="10dip"
+				android:background="#add8e6"
+				android:textColorHighlight="#e6e6e6"
+				android:textColor="#000000"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:includeFontPadding="true"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+			/>
+
+		    <TextView
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:textColor="#FF000000"
+		        android:text="    警告：竖排情况下翻页方式可能有问题（翻页动画同横排）" />
+		    	
+		    <RadioGroup
+		        android:orientation="horizontal"
+		        android:gravity="center_vertical"
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        >
+			    <RadioButton
+			        android:id="@+id/radioButtonNotIsVertical"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="1"
+			        android:checked="true"
+			        android:textColor="#FF000000"
+			        android:text="横排" />
+			
+			    <RadioButton
+			        android:id="@+id/radioButtonIsVertical"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="1"
+			        android:textColor="#FF000000"
+			        android:text="竖排" />
+		    </RadioGroup>
+		    
+		    
+		    
+		    
+			<TextView
+				android:text="屏幕方向"
+				android:gravity="center"
+				android:padding="10dip"
+				android:background="#add8e6"
+				android:textColorHighlight="#e6e6e6"
+				android:textColor="#000000"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:includeFontPadding="true"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+			/>
+		    
+		    <TextView
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:textColor="#FF000000"
+		        android:text="    警告：固定屏幕方向为横屏和竖屏容易造成程序崩溃，请谨慎使用。" 
+		        />
+			
+		    <RadioGroup
+		        android:orientation="horizontal"
+		        android:gravity="center_vertical"
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        >
+			    <RadioButton
+			        android:id="@+id/radioButtonScreenOrientationSys"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="1"
+			        android:checked="true"
+			        android:textColor="#FF000000"
+			        android:text="系统" />
+		        
+		        <RadioButton
+			        android:id="@+id/radioButtonScreenOrientationLand"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="1"
+			        android:textColor="#FF000000"
+			        android:text="横屏" />
+			
+			    <RadioButton
+			        android:id="@+id/radioButtonScreenOrientationPort"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="1"
+			        android:textColor="#FF000000"
+			        android:text="竖屏" />
+		    </RadioGroup>
+		    
+		    
+		    
+		    
+		    
+			<TextView
+				android:text="黑底白字"
+				android:gravity="center"
+				android:padding="10dip"
+				android:background="#add8e6"
+				android:textColorHighlight="#e6e6e6"
+				android:textColor="#000000"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:includeFontPadding="true"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+			/>
+
+		    <TextView
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:textColor="#FF000000"
+		        android:text="    是否使用黑底白字" />
+		    	
+		    <RadioGroup
+		        android:orientation="horizontal"
+		        android:gravity="center_vertical"
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        >
+			    <RadioButton
+			        android:id="@+id/radioButtonNotBlackBack"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="1"
+			        android:checked="true"
+			        android:textColor="#FF000000"
+			        android:text="白底黑字" />
+			
+			    <RadioButton
+			        android:id="@+id/radioButtonBlackBack"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="1"
+			        android:textColor="#FF000000"
+			        android:text="黑底白字" />
+		    </RadioGroup>
+		    
+		    
+			<TextView
+				android:text="音量键翻页"
+				android:gravity="center"
+				android:padding="10dip"
+				android:background="#add8e6"
+				android:textColorHighlight="#e6e6e6"
+				android:textColor="#000000"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:includeFontPadding="true"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+			/>
+
+		    <TextView
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:textColor="#FF000000"
+		        android:text="    是否使用音量键翻页" />
+		    	
+		    <RadioGroup
+		        android:orientation="horizontal"
+		        android:gravity="center_vertical"
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        >
+			    <RadioButton
+			        android:id="@+id/radioButtonNotUseVolumeKey"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="1"
+			        android:textColor="#FF000000"
+			        android:text="不使用音量键" />
+			
+			    <RadioButton
+			        android:id="@+id/radioButtonUseVolumeKey"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="1"
+			        android:textColor="#FF000000"
+			        android:checked="true"
+			        android:text="使用音量键" />
+		    </RadioGroup>
+		    
+		    
+		    
+		    
+			<TextView
+				android:text="使用说明"
+				android:gravity="center"
+				android:padding="10dip"
+				android:background="#add8e6"
+				android:textColorHighlight="#e6e6e6"
+				android:textColor="#000000"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:includeFontPadding="true"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+			/>
+		    
+		    <TextView
+		        android:id="@+id/textViewHelp"
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:textColor="#FF000000"
+		        android:text="@string/aozora_help" 
+		        android:includeFontPadding="true"
+		        />
+		    
+		    
+		    
+		    
+
+        </LinearLayout>
+    </ScrollView>
+    <TextView
+        android:id="@+id/textViewLoading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="invisible"
+        android:text="sen数据加载中..."
+        android:textColor="#000000"
+        android:layout_gravity="center|center_vertical"
+        />	</FrameLayout>
+</LinearLayout>

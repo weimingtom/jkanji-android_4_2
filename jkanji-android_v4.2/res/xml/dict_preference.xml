@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <PreferenceCategory
+    	android:title="日语语法">
+        <PreferenceScreen
+            android:title="NHK World 简明日语"
+            android:summary="http://www3.nhk.or.jp/lesson/chinese/learn/list/index.html">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://www3.nhk.or.jp/lesson/chinese/learn/list/index.html" />
+        </PreferenceScreen> 
+
+        <PreferenceScreen
+            android:title="NHK World 广播和播客"
+            android:summary="http://www3.nhk.or.jp/nhkworld/chinese/top/podcasting.html">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://www3.nhk.or.jp/nhkworld/chinese/top/podcasting.html" />
+        </PreferenceScreen> 
+        
+        <PreferenceScreen
+            android:title="常用漢字表"
+            android:summary="http://homepage3.nifty.com/jgrammar/ja/tools/jouyou.htm">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://homepage3.nifty.com/jgrammar/ja/tools/jouyou.htm" />
+        </PreferenceScreen>
+        
+        <PreferenceScreen
+            android:title="アニメ・マンガの日本語"
+            android:summary="http://anime-manga.jp/chinese/">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://anime-manga.jp/chinese/" />
+        </PreferenceScreen>        
+
+        <PreferenceScreen
+            android:title="北嶋千鶴子の日本語教室"
+            android:summary="http://www.japanese-nihongo.com/index.html">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://www.japanese-nihongo.com/index.html" />
+        </PreferenceScreen>  
+
+        <PreferenceScreen
+            android:title="にほんごのページ"
+            android:summary="http://web.ydu.edu.tw/~uchiyama/index.html">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://web.ydu.edu.tw/~uchiyama/index.html" />
+        </PreferenceScreen>   
+
+        <PreferenceScreen
+            android:title="文字コード（日本語漢字コード表）"
+            android:summary="http://charset.7jp.net/">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://charset.7jp.net/" />
+        </PreferenceScreen>  
+     
+        <PreferenceScreen
+            android:title="Romaji Translator at Romaji.org"
+            android:summary="http://www.romaji.org/index.php">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://www.romaji.org/index.php" />
+        </PreferenceScreen>  
+        
+    </PreferenceCategory>
+    
+    <PreferenceCategory
+    	android:title="辞典（词汇翻译）">
+        <PreferenceScreen
+            android:title="WWWJDIC"
+            android:summary="http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi" />
+        </PreferenceScreen>
+
+        <PreferenceScreen
+            android:title="沪江小D日语词典"
+            android:summary="http://dict.hjenglish.com/jp/">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://dict.hjenglish.com/jp/" />
+        </PreferenceScreen>
+        
+        <PreferenceScreen
+            android:title="有道词典"
+            android:summary="http://dict.youdao.com/">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://dict.youdao.com/" />
+        </PreferenceScreen>
+        
+        <PreferenceScreen
+            android:title="Weblio辞書"
+            android:summary="http://cjjc.weblio.jp/">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://cjjc.weblio.jp/" />
+        </PreferenceScreen>
+        
+        <PreferenceScreen
+            android:title="goo辞書"
+            android:summary="http://dictionary.goo.ne.jp/">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://dictionary.goo.ne.jp/" />
+        </PreferenceScreen>
+        
+        <PreferenceScreen
+            android:title="エキサイト辞書（excite）"
+            android:summary="http://www.excite.co.jp/dictionary/">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://www.excite.co.jp/dictionary/" />
+        </PreferenceScreen>
+        
+        <!-- 
+        <PreferenceScreen
+            android:title="goo辞書"
+            android:summary="http://dictionary.goo.ne.jp/">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://dictionary.goo.ne.jp/" />
+        </PreferenceScreen>
+         -->
+         
+        <PreferenceScreen
+            android:title="Infoseekマルチ辞書"
+            android:summary="http://dictionary.infoseek.ne.jp/">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://dictionary.infoseek.ne.jp/" />
+        </PreferenceScreen>
+
+        <PreferenceScreen
+            android:title="英辞郎 on the WEB"
+            android:summary="http://www.alc.co.jp/smp/">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://www.alc.co.jp/smp/" />
+        </PreferenceScreen>
+        
+        <PreferenceScreen
+            android:title="和英／英和辞典"
+            android:summary="http://rut.org/cgi-bin/j-e/jis/nihongo-de/dict/">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://rut.org/cgi-bin/j-e/jis/nihongo-de/dict/" />
+        </PreferenceScreen>
+        
+        <PreferenceScreen
+            android:title="PSPの無料オンライン日英，英日辞書"
+            android:summary="http://dictionary.pspinc.com/indexj.htm">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://dictionary.pspinc.com/indexj.htm" />
+        </PreferenceScreen>
+        
+        <PreferenceScreen
+            android:title="三省堂 Web Dictionary"
+            android:summary="http://www.sanseido.net/">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://www.sanseido.net/" />
+        </PreferenceScreen>
+    </PreferenceCategory>
+    
+    <PreferenceCategory
+    	android:title="全文翻译（支持日中）">
+    
+        <PreferenceScreen
+            android:title="Google翻译"
+            android:summary="http://translate.google.co.jp/">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://translate.google.co.jp/" />
+        </PreferenceScreen>
+        
+        <PreferenceScreen
+            android:title="必应Bing在线翻译"
+            android:summary="http://www.microsofttranslator.com/">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://www.microsofttranslator.com/" />
+        </PreferenceScreen>
+        
+        <PreferenceScreen
+            android:title="沪江小D全文翻译"
+            android:summary="http://dict.hjenglish.com/app/trans/">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://dict.hjenglish.com/app/trans/" />
+        </PreferenceScreen>
+
+        <PreferenceScreen
+            android:title="有道在线翻译"
+            android:summary="http://fanyi.youdao.com/">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://fanyi.youdao.com/" />
+        </PreferenceScreen>
+        
+        <PreferenceScreen
+            android:title="Infoseek（楽天）"
+            android:summary="http://translation.infoseek.co.jp/">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://translation.infoseek.co.jp/" />
+        </PreferenceScreen>
+        
+        <PreferenceScreen
+            android:title="livedoor"
+            android:summary="http://translate.livedoor.com/">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://translate.livedoor.com/" />
+        </PreferenceScreen>
+        
+        <PreferenceScreen
+            android:title="Yahoo!"
+            android:summary="http://honyaku.yahoo.co.jp/">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://honyaku.yahoo.co.jp/" />
+        </PreferenceScreen>
+        
+        <PreferenceScreen
+            android:title="nifty"
+            android:summary="http://honyaku.nifty.com/chinese/index.htm">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://honyaku.nifty.com/chinese/index.htm" />
+        </PreferenceScreen>        
+	
+        <PreferenceScreen
+            android:title="So-net"
+            android:summary="http://so-net.web.transer.com/text_trans_sn.php">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://so-net.web.transer.com/text_trans_sn.php" />
+        </PreferenceScreen> 
+        		
+        <PreferenceScreen
+            android:title="Excite"
+            android:summary="http://www.excite.co.jp/world/jiantizi/">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://www.excite.co.jp/world/jiantizi/" />
+        </PreferenceScreen> 	
+		
+        <PreferenceScreen
+            android:title="OCN"
+            android:summary="http://www.ocn.ne.jp/translation/">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://www.ocn.ne.jp/translation/" />
+        </PreferenceScreen>	
+		
+        <PreferenceScreen
+            android:title="WorldLingo"
+            android:summary="http://www.worldlingo.com/ja/products_services/worldlingo_translator.html">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://www.worldlingo.com/ja/products_services/worldlingo_translator.html" />
+        </PreferenceScreen>		
+		
+        <PreferenceScreen
+            android:title="SYSTRAN"
+            android:summary="http://www.systransoft.com/">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://www.systransoft.com/" />
+        </PreferenceScreen>
+	
+        <PreferenceScreen
+            android:title="Dictionary.com"
+            android:summary="http://translate.reference.com/">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://translate.reference.com/" />
+        </PreferenceScreen>
+
+        
+        <PreferenceScreen
+            android:title="Dr.eye 译典通"
+            android:summary="http://www.dreye.com.cn/trans/">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://www.dreye.com.cn/trans/" />
+        </PreferenceScreen>
+        
+    </PreferenceCategory>
+    
+    
+    <PreferenceCategory
+    	android:title="全文翻译（支持日英）">
+        
+        <PreferenceScreen
+            android:title="vil-net"
+            android:summary="http://vil-net.dyndns.org/hon/textsp/">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://vil-net.dyndns.org/hon/textsp/" />
+        </PreferenceScreen>
+        
+        <PreferenceScreen
+            android:title="SDL|FreeTranslation.com"
+            android:summary="http://www.freetranslation.com/">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://www.freetranslation.com/" />
+        </PreferenceScreen>
+        	
+        <PreferenceScreen
+            android:title="Yahoo! Babel Fish"
+            android:summary="http://babelfish.yahoo.com/">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://babelfish.yahoo.com/" />
+        </PreferenceScreen>
+        		
+        <PreferenceScreen
+            android:title="T-Mail T-Text"
+            android:summary="http://www.t-mail.com/t-text.shtml">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://www.t-mail.com/t-text.shtml" />
+        </PreferenceScreen>
+        	
+        <PreferenceScreen
+            android:title="PROMT"
+            android:summary="http://www.online-translator.com/?prmtlang=en">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://www.online-translator.com/?prmtlang=en" />
+        </PreferenceScreen>
+    </PreferenceCategory>    
+    
+    <PreferenceCategory
+    	android:title="外文辞典">
+        
+        <PreferenceScreen
+            android:title="Travlang"
+            android:summary="http://dictionaries.travlang.com/">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://dictionaries.travlang.com/" />
+        </PreferenceScreen>
+        
+        <PreferenceScreen
+            android:title="freedict.com"
+            android:summary="http://www.freedict.com/">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://www.freedict.com/" />
+        </PreferenceScreen>
+	
+        <PreferenceScreen
+            android:title="AllWords.com"
+            android:summary="http://www.allwords.com/">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://www.allwords.com/" />
+        </PreferenceScreen>
+    </PreferenceCategory>    
+    
+    <PreferenceCategory
+    	android:title="链接集 ">
+        <PreferenceScreen
+            android:title="自動翻訳サイトのリンク集"
+            android:summary="http://www.dio.ne.jp/user/bestsites/translate.html">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://www.dio.ne.jp/user/bestsites/translate.html" />
+        </PreferenceScreen>
+                
+        <PreferenceScreen
+            android:title="オンライン辞書のリンク集"
+            android:summary="http://www.dio.ne.jp/user/bestsites/dictionary.html">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://www.dio.ne.jp/user/bestsites/dictionary.html" />
+        </PreferenceScreen>
+        
+        <PreferenceScreen
+            android:title="翻訳，通訳，辞書サイト検索"
+            android:summary="http://search.feelwords.com/">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://search.feelwords.com/" />
+        </PreferenceScreen>
+        
+        <PreferenceScreen
+            android:title="翻訳サービスリンク集"
+            android:summary="http://www.hir-net.com/link/dic/trans.html">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://www.hir-net.com/link/dic/trans.html" />
+        </PreferenceScreen>
+        	
+        <PreferenceScreen
+            android:title="翻訳でねっと！"
+            android:summary="http://www.hnanayu.com/">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://www.hnanayu.com/" />
+        </PreferenceScreen>
+        
+        <PreferenceScreen
+            android:title="英和辞書，和英辞書，英語ページ翻訳"
+            android:summary="http://www.linksyu.com/p30.htm">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://www.linksyu.com/p30.htm" />
+        </PreferenceScreen>       
+    </PreferenceCategory>    
+    
+    <PreferenceCategory
+    	android:title="专业辞典">
+        <PreferenceScreen
+            android:title="Wikipedia（ウィキペディア）"
+            android:summary="http://ja.m.wikipedia.org/">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://ja.m.wikipedia.org/" />
+        </PreferenceScreen> 
+        
+        <PreferenceScreen
+            android:title="IT用語辞典 e-Words"
+            android:summary="http://sp.e-words.jp/">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://sp.e-words.jp/" />
+        </PreferenceScreen> 
+        
+        <PreferenceScreen
+            android:title="法令用語検索"
+            android:summary="http://law.e-gov.go.jp/cgi-bin/idxsearch.cgi">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://law.e-gov.go.jp/cgi-bin/idxsearch.cgi" />
+        </PreferenceScreen> 	
+		
+        <PreferenceScreen
+            android:title="名言集.com"
+            android:summary="http://www.meigensyu.com/">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://www.meigensyu.com/" />
+        </PreferenceScreen>
+
+        <PreferenceScreen
+            android:title="人名歴史年表"
+            android:summary="http://www.eonet.ne.jp/~libell/index.htm">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://www.eonet.ne.jp/~libell/index.htm" />
+        </PreferenceScreen>
+
+        <PreferenceScreen
+            android:title="這いよれ！ ニャル子さん 元ネタwiki"
+            android:summary="http://www15.atwiki.jp/nyaruko/">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://www15.atwiki.jp/nyaruko/" />
+        </PreferenceScreen>
+
+        <PreferenceScreen
+            android:title="口袋百科"
+            android:summary="http://www.pokemon.name/wiki/%E9%A6%96%E9%A1%B5">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://www.pokemon.name/wiki/%E9%A6%96%E9%A1%B5" />
+        </PreferenceScreen>
+
+        <PreferenceScreen
+            android:title="響 - HiBiKi Radio Station -"
+            android:summary="http://hibiki-radio.jp/">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://hibiki-radio.jp/" />
+        </PreferenceScreen>
+        
+        <PreferenceScreen
+            android:title="地球の名言"
+            android:summary="http://www.earth-words.net/">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://www.earth-words.net/" />
+        </PreferenceScreen>
+        
+        <PreferenceScreen
+            android:title="Baka-Tsuki Translation Project"
+            android:summary="http://www.baka-tsuki.org/">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://www.baka-tsuki.org/" />
+        </PreferenceScreen>
+        
+        
+        <PreferenceScreen
+            android:title="DQNネーム"
+            android:summary="http://dqname.jp/">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://dqname.jp/" />
+        </PreferenceScreen>
+        
+    </PreferenceCategory>  
+    
+    <PreferenceCategory
+    	android:title="交叉翻译">
+        <PreferenceScreen
+            android:title="kotoba"
+            android:summary="http://www.kotoba.ne.jp/">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://www.kotoba.ne.jp/" />
+        </PreferenceScreen>
+                
+        <PreferenceScreen
+            android:title="sukimania"
+            android:summary="http://sukimania.ddo.jp/trans/trans_china.php">
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://sukimania.ddo.jp/trans/trans_china.php" />
+        </PreferenceScreen>
+    </PreferenceCategory>
+    
+</PreferenceScreen>

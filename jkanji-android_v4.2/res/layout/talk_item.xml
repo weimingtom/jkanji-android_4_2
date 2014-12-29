@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/linearLayoutKuko"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:padding="5dp">
+
+        <ImageView
+            android:id="@+id/imageViewKuko"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_weight="0"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/kuko"/>
+
+        <LinearLayout
+            android:id="@+id/linearLayoutKukoDlg"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/kuko_dialog"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+		    <TextView
+		        android:id="@+id/textViewTalkTitle1"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:text="Medium Text"
+		        android:textColor="#000000"
+		        android:textAppearance="?android:attr/textAppearanceMedium" 
+		        />
+
+		    <TextView
+		        android:id="@+id/textViewTalkDetail1"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:text="TextView" 
+		        android:textColor="#000000"
+		        />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    
+    <LinearLayout
+        android:id="@+id/linearLayoutNyaruko"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:padding="5dp">
+
+        <LinearLayout
+            android:id="@+id/linearLayoutNyarukoDlg"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/nyaruko_dialog"
+            android:layout_gravity="center_vertical"
+            android:orientation="vertical" 
+            android:layout_weight="1"
+            >
+		    <TextView
+		        android:id="@+id/textViewTalkTitle2"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:text="Medium Text"
+		        android:textColor="#000000"
+		        android:textAppearance="?android:attr/textAppearanceMedium" 
+		        />
+
+		    <TextView
+		        android:id="@+id/textViewTalkDetail2"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:text="TextView" 
+		        android:textColor="#000000"
+		        />
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/imageViewNyaruko"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/nyaruko"
+            android:layout_weight="0"
+            android:layout_gravity="center_vertical"
+            />
+        
+    </LinearLayout>
+    
+</LinearLayout>

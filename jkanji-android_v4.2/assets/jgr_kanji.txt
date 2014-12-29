@@ -1,0 +1,3157 @@
+一,一,教育一年,1,イチ、イツ、ひと、ひと･つ,4E00,one; a， an; alone
+七,一,教育一年,2,シチ、なな、なな･つ、なの,4E03,seven
+三,一,教育一年,3,サン、み、みっ･つ、み･つ,4E09,three
+上,一,教育一年,3,ショウ、ジョウ、あ･がる、あ･げる、うえ、うわ、かみ、のぼ･す、のぼ･せる、のぼ･る,4E0A,top; superior， highest; go up， send up
+下,一,教育一年,3,カ、ゲ、お･りる、お･ろす、くだ･さる、くだ･す、くだ･る、さ･がる、さ･げる、した、しも、もと,4E0B,under， underneath， below; down; inferior; bring down
+中,丨,教育一年,4,ジュウ、チュウ、なか,4E2D,central; center， middle; in the midst of; hit (target); attain
+九,乙,教育一年,2,キュウ、ク、ここの、ここの･つ,4E5D,nine
+二,二,教育一年,2,ニ、ふた、ふた･つ,4E8C,two; twice
+五,二,教育一年,4,ゴ、いつ、いつ･つ,4E94,five; surname
+人,人,教育一年,2,ジン、ニン、ひと,4EBA,man; people; mankind; someone else
+休,人,教育一年,6,キュウ、やす･まる、やす･む、やす･める,4F11,rest， stop; retire; do not!
+先,儿,教育一年,6,セン、さき,5148,first， former， previous
+入,入,教育一年,2,ニュウ、い･る、い･れる、はい･る,5165,enter， come in(to)， join
+八,八,教育一年,2,ハチ、や、やっ･つ、よう,516B,eight; all around， all sides
+六,八,教育一年,4,ロク、む、むい、むっ･つ、む･つ,516D,number six
+円,冂,教育一年,4,エン、まる･い,5186,yen
+出,凵,教育一年,5,シュツ、スイ、だ･す、で･る,51FA,go out， send out; stand; produce
+力,力,教育一年,2,リキ、リョク、ちから,529B,power， capability， influence
+十,十,教育一年,2,ジッ、ジュウ、と、とお,5341,ten， tenth; complete; perfect
+千,十,教育一年,3,セン、ち,5343,thousand; many， numerous; very; (Cant.) a cheater， swindler
+口,口,教育一年,3,ク、コウ、くち,53E3,mouth; open end; entrance， gate
+右,口,教育一年,5,ウ、ユウ、みぎ,53F3,right; west; right-wing
+名,口,教育一年,6,ミョウ、メイ、な,540D,name， rank， title， position
+四,囗,教育一年,5,シ、よ、よっ･つ、よん、よ･つ,56DB,four
+土,土,教育一年,3,ト、ド、つち,571F,soil， earth; items made of earth
+夕,夕,教育一年,3,セキ、ゆう,5915,evening， night， dusk; slanted
+大,大,教育一年,3,タイ、ダイ、おお、おお･いに、おお･きい,5927,big， great， vast， large， high
+天,大,教育一年,4,テン、あま、あめ,5929,sky， heaven; god， celestial
+女,女,教育一年,3,ジョ、ニョ、ニョウ、おんな、め,5973,woman， girl; feminine; rad. 38
+子,子,教育一年,3,シ、ス、こ,5B50,offspring， child; fruit， seed of; 1st terrestrial branch
+字,子,教育一年,6,ジ、あざ,5B57,letter， character， word
+学,子,教育一年,8,ガク、まな･ぶ,5B66,learning， knowledge; school
+小,小,教育一年,3,ショウ、お、こ、ちい･さい,5C0F,small， tiny， insignificant
+山,山,教育一年,3,サン、やま,5C71,mountain， hill， peak
+川,巛,教育一年,3,セン、かわ,5DDD,stream， river; flow; boil
+左,工,教育一年,5,サ、ひだり,5DE6,left; east; unorthodox， improper
+年,干,教育一年,6,ネン、とし,5E74,year; new-years; person's age
+手,手,教育一年,4,シュ、た、て,624B,hand
+文,文,教育一年,4,ブン、モン、ふみ,6587,literature， culture， writing
+日,日,教育一年,4,ジツ、ニチ、か、ひ,65E5,sun; day; daytime
+早,日,教育一年,6,サッ、ソウ、はや･い、はや･まる、はや･める,65E9,early; soon; morning
+月,月,教育一年,4,ガツ、ゲツ、つき,6708,moon; month; KangXi radical 74
+木,木,教育一年,4,ボク、モク、き、こ,6728,tree; wood， lumber; wooden
+本,木,教育一年,5,ホン、もと,672C,root， origin， source; basis
+村,木,教育一年,7,ソン、むら,6751,village， hamlet; uncouth， vulgar
+林,木,教育一年,8,リン、はやし,6797,forest， grove; surname
+校,木,教育一年,10,コウ,6821,school; military field officer
+森,木,教育一年,12,シン、もり,68EE,forest; luxuriant vegetation
+正,止,教育一年,5,ショウ、セイ、ただ･しい、ただ･す、まさ,6B63,right， proper， correct
+気,气,教育一年,6,キ、ケ,6C17,air， gas， steam， vapor; spirit
+水,水,教育一年,4,スイ、みず,6C34,water， liquid， lotion， juice
+火,火,教育一年,4,カ、ひ、ほ,706B,fire， flame; burn; anger， rage
+犬,犬,教育一年,4,ケン、いぬ,72AC,dog; radical number 94
+玉,玉,教育一年,5,ギョク、たま,7389,jade， precious stone， gem
+王,玉,教育一年,4,オウ,738B,king， ruler; royal; surname
+生,生,教育一年,5,ショウ、セイ、い･かす、い･きる、い･ける、う･まれる、う･む、お･う、き、なま、は･える、は･やす,751F,life， living， lifetime; birth
+田,田,教育一年,5,デン、た,7530,field， arable land， cultivated
+男,田,教育一年,7,ダン、ナン、おとこ,7537,male， man; son; baron; surname
+町,田,教育一年,7,チョウ、まち,753A,raised path between fields
+白,白,教育一年,5,ハク、ビャク、しら、しろ、しろ･い,767D,white; pure， unblemished; bright
+百,白,教育一年,6,ヒャク,767E,one hundred; numerous， many
+目,目,教育一年,5,ボク、モク、ま、め,76EE,eye; look， see; division， topic
+石,石,教育一年,5,コク、シャク、セキ、いし,77F3,stone， rock， mineral; rad. 112
+空,穴,教育一年,8,クウ、あ･く、あ･ける、から、そら,7A7A,empty， hollow， bare， deserted
+立,立,教育一年,5,リツ、リュウ、た･つ、た･てる,7ACB,stand; let stand; establish， set
+竹,竹,教育一年,6,チク、たけ,7AF9,bamboo; flute; KangXi radical 118
+糸,糸,教育一年,6,シ、いと,7CF8,silk; KangXi radical 120
+耳,耳,教育一年,6,ジ、みみ,8033,ear; merely， only; handle
+花,艸,教育一年,7,カ、はな,82B1,flower; blossoms
+草,艸,教育一年,9,ソウ、くさ,8349,grass， straw， thatch， herbs
+虫,虫,教育一年,6,チュウ、むし,866B,insects， worms; KangXi radical 142
+見,見,教育一年,7,ケン、み･える、み･せる、み･る,898B,see， observe， behold; perceive
+貝,貝,教育一年,7,かい,8C9D,sea shell; money， currency
+赤,赤,教育一年,7,シャク、セキ、あか、あか･い、あか･らむ、あか･らめる,8D64,red; communist， 'red'; bare
+足,足,教育一年,7,ソク、あし、た･す、た･りる、た･る,8DB3,foot; attain， satisfy， enough
+車,車,教育一年,7,シャ、くるま,8ECA,cart， vehicle; carry in cart
+金,金,教育一年,8,キン、コン、かな、かね,91D1,gold; metals in general; money
+雨,雨,教育一年,8,ウ、あま、あめ,96E8,rain; rainy; KangXi radical 173
+青,青,教育一年,8,ショウ、セイ、あお、あお･い,9752,blue， green， black; young
+音,音,教育一年,9,イン、オン、おと、ね,97F3,sound， tone， pitch， pronunciation
+万,一,教育二年,3,バン、マン,4E07,ten thousand; innumerable
+丸,丶,教育二年,3,ガン、まる、まる･い、まる･める,4E38,small round object; pellet， pill
+交,亠,教育二年,6,コウ、か･う、か･わす、まじ･える、まじ･わる、ま･ざる、ま･じる、ま･ぜる,4EA4,mix; intersect; exchange， communicate; deliver
+京,亠,教育二年,8,キョウ、ケイ,4EAC,capital city
+今,人,教育二年,4,キン、コン、いま,4ECA,now， today， modern era
+会,人,教育二年,6,エ、カイ、あ･う,4F1A,assemble， meet together; meeting
+体,人,教育二年,7,タイ、テイ、からだ,4F53,body; group， class， body， unit; inferior
+何,人,教育二年,7,カ、なに、なん,4F55,what， why， where， which， how
+作,人,教育二年,7,サ、サク、つく･る,4F5C,make; work; compose， write; act， perform
+元,儿,教育二年,4,ガン、ゲン、もと,5143,first; dollar; origin; head
+兄,儿,教育二年,5,キョウ、ケイ、あに,5144,elder brother
+光,儿,教育二年,6,コウ、ひかり、ひか･る,5149,light， brilliant， shine; only
+公,八,教育二年,4,コウ、おおやけ,516C,fair， equitable; public; duke
+内,入,教育二年,4,ダイ、ナイ、うち,5185,inside
+冬,冫,教育二年,5,トウ、ふゆ,51AC,winter， 11th lunar month
+刀,刀,教育二年,2,トウ、かたな,5200,knife; old coin; measure
+分,刀,教育二年,4,フン、ブ、ブン、わ･かつ、わ･かる、わ･かれる、わ･ける,5206,divide; small unit of time etc.
+切,刀,教育二年,4,サイ、セツ、き･る、き･れる,5207,cut， mince， slice， carve
+前,刀,教育二年,9,ゼン、まえ,524D,in front， forward; preceding
+北,匕,教育二年,5,ホク、きた,5317,north; northern; northward
+午,十,教育二年,4,ゴ,5348,noon; 7th terrestrial branch
+半,十,教育二年,5,ハン、なか･ば,534A,half
+南,十,教育二年,9,ナ、ナン、みなみ,5357,south; southern part; southward
+原,厂,教育二年,10,ゲン、はら,539F,source， origin， beginning
+友,又,教育二年,4,ユウ、とも,53CB,friend， companion; fraternity
+古,口,教育二年,5,コ、ふる･い、ふる･す,53E4,old， classic， ancient
+台,口,教育二年,5,タイ、ダイ,53F0,platform; unit; term of address
+合,口,教育二年,6,カッ、ガッ、ゴウ、あ･う、あ･わす、あ･わせる,5408,combine， unite， join; gather
+同,口,教育二年,6,ドウ、おな･じ,540C,same， similar; together with
+回,囗,教育二年,6,エ、カイ、まわ･す、まわ･る,56DE,return， turn around; a time
+図,囗,教育二年,7,ズ、ト、はか･る,56F3,diagram; chart， map， picture
+国,囗,教育二年,8,コク、くに,56FD,nation， country， nation-state
+園,囗,教育二年,13,エン、その,5712,garden; park， orchard
+地,土,教育二年,6,ジ、チ,5730,earth; soil， ground; region
+場,土,教育二年,12,ジョウ、ば,5834,open space， field， market
+声,士,教育二年,7,ショウ、セイ、こえ、こわ,58F0,sound， voice， noise; tone; music
+売,士,教育二年,7,バイ、う･る、う･れる,58F2,sell; [NOT casing， shell， husk]
+夏,夊,教育二年,10,カ、ゲ、なつ,590F,summer; great， grand， big
+外,夕,教育二年,5,ガイ、ゲ、そと、はず･す、はず･れる、ほか,5916,out， outside， external; foreign
+多,夕,教育二年,6,タ、おお･い,591A,much， many; more than， over
+夜,夕,教育二年,8,ヤ、よ、よる,591C,night， dark; in night; by night
+太,大,教育二年,4,タ、タイ、ふと･い、ふと･る,592A,very， too， much; big; extreme
+妹,女,教育二年,8,マイ、いもうと,59B9,younger sister
+姉,女,教育二年,8,シ、あね,59C9,elder sister
+室,宀,教育二年,9,シツ、むろ,5BA4,room， home， house， chamber
+家,宀,教育二年,10,カ、ケ、いえ、や,5BB6,house， home， residence; family
+寺,寸,教育二年,6,ジ、てら,5BFA,court， office; temple， monastery
+少,小,教育二年,4,ショウ、すく･ない、すこ･し,5C11,few， less， inadequate
+岩,山,教育二年,8,ガン、いわ,5CA9,cliff; rocks; mountain
+工,工,教育二年,3,ク、コウ,5DE5,labor， work; worker， laborer
+市,巾,教育二年,5,シ、いち,5E02,market， fair; city， town; trade
+帰,巾,教育二年,10,キ、かえ･す、かえ･る,5E30,return; return to， revert to
+広,广,教育二年,5,コウ、ひろ･い、ひろ･がる、ひろ･げる、ひろ･まる、ひろ･める,5E83,broad， wide， extensive
+店,广,教育二年,8,テン、みせ,5E97,shop， store; inn， hotel
+弓,弓,教育二年,3,キュウ、ゆみ,5F13,bow; curved， arched; KangXi radical number 57
+引,弓,教育二年,4,イン、ひ･く、ひ･ける,5F15,to pull， draw out， attract; to stretch
+弟,弓,教育二年,7,ダイ、テイ、デ、おとうと,5F1F,young brother; junior; i， me
+弱,弓,教育二年,10,ジャク、よわ･い、よわ･まる、よわ･める、よわ･る,5F31,weak; fragile， delicate
+強,弓,教育二年,11,キョウ、ゴウ、し･いる、つよ･い、つよ･まる、つよ･める,5F37,strong， powerful， energetic
+当,小,教育二年,6,トウ、あ･たる、あ･てる,5F53,bear， accept， undertake; just
+形,彡,教育二年,7,ギョウ、ケイ、かた、かたち,5F62,form， shape， appearance
+後,彳,教育二年,9,コウ、ゴ、あと、うし･ろ、おく･れる、のち,5F8C,behind， rear， after; descendents
+心,心,教育二年,4,シン、こころ,5FC3,heart; mind， intelligence; soul
+思,心,教育二年,9,シ、おも･う,601D,think， consider， ponder; final particle
+戸,戸,教育二年,4,コ、と,6238,door; family
+才,手,教育二年,3,サイ,624D,talent， ability; just， only
+教,攴,教育二年,11,キョウ、おし･える、おそ･わる,6559,teach， class
+数,攴,教育二年,13,ス、スウ、かず、かぞ･える,6570,number; several， count; fate
+新,斤,教育二年,13,シン、あたら･しい、あら･た、にい,65B0,new， recent， fresh， modern
+方,方,教育二年,4,ホウ、かた,65B9,a square， rectangle; a region; local
+明,日,教育二年,8,ミョウ、メイ、あか･らむ、あか･るい、あか･るむ、あき･らか、あ･かす、あ･かり、あ･く、あ･くる、あ･ける,660E,bright， light， brilliant; clear
+星,日,教育二年,9,ショウ、セイ、ほし,661F,a star， planet; any point of light
+春,日,教育二年,9,シュン、はる,6625,spring; wanton
+昼,日,教育二年,9,チュウ、ひる,663C,daytime， daylight
+時,日,教育二年,10,ジ、とき,6642,time， season; era， age， period
+晴,日,教育二年,12,セイ、は･らす、は･れる,6674,clear weather， fine weather
+曜,日,教育二年,18,ヨウ,66DC,glorious， as sun; daylight， sunlight; one of the seven planets of pre-modern astronomy (the sun， the moon， Mercury， Venus， Mars， Jupiter， and Saturn)
+書,曰,教育二年,10,ショ、か･く,66F8,book， letter， document; writings
+朝,月,教育二年,12,チョウ、あさ,671D,dynasty; morning
+来,木,教育二年,7,ライ、きた･す、きた･る、く･る,6765,come， coming; return， returning
+東,木,教育二年,8,トウ、ひがし,6771,east， eastern， eastward
+楽,木,教育二年,13,ガク、ラク、たの･しい、たの･しむ,697D,happy， glad; enjoyable; music
+歌,欠,教育二年,14,カ、うた、うた･う,6B4C,song， lyrics; sing， chant; praise
+止,止,教育二年,4,シ、と･まる、と･める,6B62,stop， halt， desist; detain
+歩,止,教育二年,8,フ、ブ、ホ、あゆ･む、ある･く,6B69,step
+母,毋,教育二年,5,ボ、はは,6BCD,mother; female elders; female
+毎,毋,教育二年,6,マイ,6BCE,every
+毛,毛,教育二年,4,モウ、け,6BDB,hair， fur， feathers; coarse
+池,水,教育二年,6,チ、いけ,6C60,pool， pond; moat; cistern
+汽,水,教育二年,7,キ,6C7D,steam， vapor， gas
+活,水,教育二年,9,カツ,6D3B,live， exist， survive; lively
+海,水,教育二年,9,カイ、うみ,6D77,sea， ocean; maritime
+点,火,教育二年,9,テン,70B9,dot， speck， spot; point， degree
+父,父,教育二年,4,フ、ちち,7236,father; KangXi radical 88
+牛,牛,教育二年,4,ギュウ、うし,725B,cow， ox， bull; KangXi radical93
+理,玉,教育二年,11,リ,7406,reason， logic; manage
+用,用,教育二年,5,ヨウ、もち･いる,7528,use， employ， apply， operate; use
+画,田,教育二年,8,カク、ガ,753B,a painting， picture， drawing; to draw
+番,田,教育二年,12,バン,756A,to take turns; a turn， a time; to repeat
+直,目,教育二年,8,ジキ、チョク、ただ･ちに、なお･す、なお･る,76F4,straight， erect， vertical
+矢,矢,教育二年,5,シ、や,77E2,arrow， dart; vow， swear
+知,矢,教育二年,8,チ、し･る,77E5,know， perceive， comprehend
+社,示,教育二年,7,シャ、やしろ,793E,god of the soil and altars to him; group of families; company， society
+秋,禾,教育二年,9,シュウ、あき,79CB,autumn， fall; year
+科,禾,教育二年,9,カ,79D1,section， department， science
+答,竹,教育二年,12,トウ、こた･え、こた･える,7B54,answer， reply; return; assent to
+算,竹,教育二年,14,サン,7B97,count， calculate， figure; plan
+米,米,教育二年,6,ベイ、マイ、こめ,7C73,hulled or husked uncooked rice
+紙,糸,教育二年,10,シ、かみ,7D19,paper
+細,糸,教育二年,11,サイ、こま･か、こま･かい、ほそ･い、ほそ･る,7D30,fine， tiny; slender， thin
+組,糸,教育二年,11,ソ、くみ、く･む,7D44,class; section， department
+絵,糸,教育二年,12,エ、カイ,7D75,draw， sketch， paint
+線,糸,教育二年,15,セン,7DDA,thread， line， wire; clue
+羽,羽,教育二年,6,ウ、は、はね,7FBD,feather， plume; wings; rad. 124
+考,老,教育二年,6,コウ、かんが･える,8003,examine， test; investigate
+聞,耳,教育二年,14,ブン、モン、き･く、き･こえる,805E,hear; smell; make known; news
+肉,肉,教育二年,6,ニク,8089,flesh; meat; KangXi radical 130
+自,自,教育二年,6,シ、ジ、みずか･ら,81EA,self， private， personal; from
+船,舟,教育二年,11,セン、ふな、ふね,8239,ship， boat， vessel
+色,色,教育二年,6,シキ、ショク、いろ,8272,color， tint， hue， shade; form， body; beauty， desire for beauty
+茶,艸,教育二年,9,サ、チャ,8336,tea
+行,行,教育二年,6,アン、ギョウ、コウ、い･く、おこな･う、ゆ･く,884C,go; walk; move， travel; circulate
+西,襾,教育二年,6,サイ、セイ、にし,897F,west(ern); westward， occident
+親,見,教育二年,16,シン、おや、した･しい、した･しむ,89AA,relatives， parents; intimate
+角,角,教育二年,7,カク、かど、つの,89D2,horn; angle， corner; point
+言,言,教育二年,7,ゲン、ゴン、い･う、こと,8A00,words， speech; speak， say
+計,言,教育二年,9,ケイ、はか･らう、はか･る,8A08,plan， plot; strategem; scheme
+記,言,教育二年,10,キ、しる･す,8A18,record; keep in mind， remember
+話,言,教育二年,13,ワ、はなし、はな･す,8A71,speech， talk， language; dialect
+語,言,教育二年,14,ゴ、かた･らう、かた･る,8A9E,language， words; saying， expression
+読,言,教育二年,14,トウ、トク、ドク、よ･む,8AAD,read， study; pronounce
+谷,谷,教育二年,7,コク、たに,8C37,valley， gorge， ravine
+買,貝,教育二年,12,バイ、か･う,8CB7,buy， purchase; bribe， persuade
+走,走,教育二年,7,ソウ、はし･る,8D70,walk， go on foot; run; leave
+近,辵,教育二年,7,キン、ちか･い,8FD1,near， close; approach; intimate
+通,辵,教育二年,10,ツ、ツウ、かよ･う、とお･す、とお･る,901A,pass through， common， communicate
+週,辵,教育二年,11,シュウ,9031,week; turn， cycle; anniversary
+道,辵,教育二年,12,トウ、ドウ、みち,9053,path， road， street; method， way
+遠,辵,教育二年,13,エン、オン、とお･い,9060,distant， remote， far; profound
+里,里,教育二年,7,リ、さと,91CC,unit of distance; village; lane
+野,里,教育二年,11,ヤ、の,91CE,open country， field; wilderness
+長,長,教育二年,8,チョウ、なが･い,9577,long; length; excel in; leader
+門,門,教育二年,8,モン、かど,9580,gate， door， entrance， opening
+間,門,教育二年,12,カン、ケン、あいだ、ま,9593,interval， space; place， between
+雪,雨,教育二年,11,セツ、ゆき,96EA,snow; wipe away shame， avenge
+雲,雨,教育二年,12,ウン、くも,96F2,clouds; Yunnan province
+電,雨,教育二年,13,デン,96FB,electricity， electric; lightning
+頭,頁,教育二年,16,ズ、ト、トウ、あたま、かしら,982D,head; top; chief， first; boss
+顔,頁,教育二年,18,ガン、かお,9854,face， facial appearance
+風,風,教育二年,9,フ、フウ、かざ、かぜ,98A8,wind; air; manners， atmosphere
+食,食,教育二年,9,ショク、ジキ、く･う、く･らう、た･べる,98DF,eat; meal; food; KangXi radical number 184
+首,首,教育二年,9,シュ、くび,9996,head; first; leader， chief; a poem
+馬,馬,教育二年,10,バ、うま、ま,99AC,horse; surname; KangXi radical 187
+高,高,教育二年,10,コウ、たか、たか･い、たか･まる、たか･める,9AD8,high， tall; lofty， elevated
+魚,魚,教育二年,11,ギョ、うお、さかな,9B5A,fish; surname; KangXi radical 195
+鳥,鳥,教育二年,11,チョウ、とり,9CE5,bird; KangXi radical 196
+鳴,鳥,教育二年,14,メイ、な･く、な･らす、な･る,9CF4,cry of bird or animal; make sound
+麦,麥,教育二年,7,バク、むぎ,9EA6,wheat， barley， oats; simplified form of KangXi radical number 199
+黄,黃,教育二年,11,オウ、コウ、き、こ,9EC4,yellow; surname
+黒,黑,教育二年,11,コク、くろ、くろ･い,9ED2,black; dark; evil
+丁,一,教育三年,2,チョウ、テイ,4E01,male adult; robust， vigorous; 4th heavenly stem
+世,一,教育三年,5,セ、セイ、よ,4E16,generation; world; era
+両,一,教育三年,6,リョウ,4E21,two， both， pair， couple; a tael， ounce
+主,丶,教育三年,5,シュ、ス、おも、ぬし,4E3B,master， chief owner; host; lord
+乗,丿,教育三年,9,ジョウ、の･せる、の･る,4E57,ride， ascend; avail oneself of; numerary adjunct for vehicles
+予,亅,教育三年,4,ヨ,4E88,I， me; to give
+事,亅,教育三年,8,ジ、ズ、こと,4E8B,affair， matter， business; to serve; accident， incident
+仕,人,教育三年,5,シ、ジ、つか･える,4ED5,official; serve government
+他,人,教育三年,5,タ、ほか,4ED6,other， another; he， she， it
+代,人,教育三年,5,タイ、ダイ、か･える、か･わる、しろ、よ,4EE3,replace， replacement (of person or generation); era， generation
+住,人,教育三年,7,ジュウ、す･まう、す･む,4F4F,reside， live at， dwell， lodge; stop
+使,人,教育三年,8,シ、つか･う,4F7F,cause， send on a mission， order; envoy， messenger， ambassador
+係,人,教育三年,9,ケイ、かかり、かか･る,4FC2,bind， tie up; involve， relation
+倍,人,教育三年,10,バイ,500D,times， fold， multiple times
+全,人,教育三年,6,ゼン、すべ･て、まった･く,5168,maintain， keep whole or intact
+具,八,教育三年,8,グ,5177,tool， implement; draw up， write
+写,冖,教育三年,5,シャ、うつ･す、うつ･る,5199,write; draw， sketch; compose
+列,刀,教育三年,6,レツ,5217,a line; to arrange in order， classify
+助,力,教育三年,7,ジョ、すけ、たす･かる、たす･ける,52A9,help， aid， assist
+勉,力,教育三年,10,ベン,52C9,endeavor， make effort; urge
+動,力,教育三年,11,ドウ、うご･かす、うご･く,52D5,move， happen; movement， action
+勝,力,教育三年,12,ショウ、か･つ、まさ･る,52DD,victory; excel， be better than
+化,匕,教育三年,4,カ、ケ、ば･かす、ば･ける,5316,change， convert， reform; -ize
+区,匸,教育三年,4,ク,533A,area， district， region， ward
+医,匸,教育三年,7,イ,533B,cure， heal; doctor， medical
+去,厶,教育三年,5,キョ、コ、さ･る,53BB,go away， leave， depart
+反,又,教育三年,4,タン、ハン、ホン、そ･らす、そ･る,53CD,reverse， opposite， contrary， anti
+取,又,教育三年,8,シュ、と･る,53D6,take， receive， obtain; select
+受,又,教育三年,8,ジュ、う･かる、う･ける,53D7,receive， accept， get; bear， stand
+号,口,教育三年,5,ゴウ,53F7,mark， sign; symbol; number
+向,口,教育三年,6,コウ、む･かう、む･く、む･ける、む･こう,5411,toward， direction， trend
+君,口,教育三年,7,クン、きみ,541B,sovereign， monarch， ruler， chief， prince
+味,口,教育三年,8,ミ、あじ、あじ･わう,5473,taste， smell， odor; delicacy
+命,口,教育三年,8,ミョウ、メイ、いのち,547D,life; destiny， fate， luck; an order， instruction
+和,口,教育三年,8,オ、ワ、なご･む、なご･やか、やわ･らぐ、やわ･らげる,548C,harmony， peace; peaceful， calm
+品,口,教育三年,9,ヒン、しな,54C1,article， product， commodity
+員,口,教育三年,10,イン,54E1,member; personnel， staff member
+商,口,教育三年,11,ショウ、あきな･う,5546,commerce， business， trade
+問,口,教育三年,11,モン、とん、と･い、と･う,554F,ask (about)， inquire after
+坂,土,教育三年,7,ハン、さか,5742,hillside， inconvenient places
+央,大,教育三年,5,オウ,592E,center， conclude， run out; beg
+始,女,教育三年,8,シ、はじ･まる、はじ･める,59CB,begin， start; then， only then
+委,女,教育三年,8,イ、ゆだ･ねる,59D4,appoint， send， commission
+守,宀,教育三年,6,シュ、ス、まも･る、もり,5B88,defend， protect， guard， conserve
+安,宀,教育三年,6,アン、やす･い,5B89,peaceful， tranquil， quiet
+定,宀,教育三年,8,ジョウ、テイ、さだ･か、さだ･まる、さだ･める,5B9A,decide， settle， fix
+実,宀,教育三年,8,ジツ、み、みの･る,5B9F,real， true; honest， sincere
+客,宀,教育三年,9,カク、キャク,5BA2,guest， traveller; customer
+宮,宀,教育三年,10,キュウ、ク、グウ、みや,5BAE,palace， temple， dwelling， enclose
+宿,宀,教育三年,11,シュク、やど、やど･す、やど･る,5BBF,stop， rest， lodge， stay overnight; constellation
+寒,宀,教育三年,12,カン、さむ･い,5BD2,cold， wintry， chilly
+対,寸,教育三年,7,タイ、ツイ,5BFE,correct， right; facing， opposed
+局,尸,教育三年,7,キョク,5C40,bureau， office; circumstance
+屋,尸,教育三年,9,オク、や,5C4B,house; room; building， shelter
+岸,山,教育三年,8,ガン、きし,5CB8,bank， shore; beach， coast
+島,山,教育三年,10,トウ、しま,5CF6,island
+州,巛,教育三年,6,シュウ、す,5DDE,administrative division， state
+帳,巾,教育三年,11,チョウ,5E33,tent; screen， mosquito net
+平,干,教育三年,5,ビョウ、ヘイ、たい･ら、ひら,5E73,flat， level， even; peaceful
+幸,干,教育三年,8,コウ、さいわ･い、さち、しあわ･せ,5E78,luck(ily)， favor， fortunately
+度,广,教育三年,9,タク、ト、ド、たび,5EA6,degree， system; manner; to consider
+庫,广,教育三年,10,ク、コ,5EAB,armory， treasury， storehouse
+庭,广,教育三年,10,テイ、にわ,5EAD,courtyard; spacious hall or yard
+式,弋,教育三年,6,シキ,5F0F,style， system， formula， rule
+役,彳,教育三年,7,エキ、ヤク,5F79,service; a servant， laborer; to serve
+待,彳,教育三年,9,タイ、ま･つ,5F85,treat， entertain， receive; wait
+急,心,教育三年,9,キュウ、いそ･ぐ,6025,quick， quickly; urgent， pressing
+息,心,教育三年,10,ソク、いき,606F,rest， put stop to， end， cease
+悪,心,教育三年,11,アク、オ、わる･い,60AA,evil， wicked， bad， foul
+悲,心,教育三年,12,ヒ、かな･しい、かな･しむ,60B2,sorrow， grief; sorry， sad
+想,心,教育三年,13,ソ、ソウ,60F3,think， speculate， plan， consider
+意,心,教育三年,13,イ,610F,thought， idea， opinion; think
+感,心,教育三年,13,カン,611F,feel， perceive， emotion
+所,戸,教育三年,8,ショ、ところ,6240,place， location; numerary adjunct
+打,手,教育三年,5,ダ、う･つ,6253,strike， hit， beat; fight; attack
+投,手,教育三年,7,トウ、な･げる,6295,throw， cast， fling， pitch; jump
+拾,手,教育三年,9,シュウ、ジュウ、ひろ･う,62FE,pick up， collect， tidy up; accounting form of the numeral ten
+持,手,教育三年,9,ジ、も･つ,6301,sustain， support; hold， grasp
+指,手,教育三年,9,シ、さ･す、ゆび,6307,finger， toe; point， indicate
+放,攴,教育三年,8,ホウ、はな･す、はな･つ、はな･れる、ほう･る,653E,put， release， free， liberate
+整,攴,教育三年,16,セイ、ととの･う、ととの･える,6574,orderly， neat， tidy; whole
+旅,方,教育三年,10,リョ、たび,65C5,trip， journey; travel; traveler
+族,方,教育三年,11,ゾク,65CF,a family clan， ethnic group， tribe
+昔,日,教育三年,8,シャク、セキ、むかし,6614,formerly; ancient; in beginning
+昭,日,教育三年,9,ショウ,662D,bright， luminous; illustrious
+暑,日,教育三年,12,ショ、あつ･い,6691,hot
+暗,日,教育三年,13,アン、くら･い,6697,dark; obscure; in secret， covert
+曲,曰,教育三年,6,キョク、ま･がる、ま･げる,66F2,crooked， bent; wrong， false
+有,月,教育三年,6,ウ、ユウ、あ･る,6709,have， own， possess; exist
+服,月,教育三年,8,フク,670D,clothes; wear， dress
+期,月,教育三年,12,キ、ゴ,671F,period of time; date; time limit
+板,木,教育三年,8,ハン、バン、いた,677F,plank， board; iron or tin plate
+柱,木,教育三年,9,チュウ、はしら,67F1,pillar， post; support; lean on
+根,木,教育三年,10,コン、ね,6839,root， base(d on); foundation
+植,木,教育三年,12,ショク、う･える、う･わる,690D,plant， trees， plants; grow
+業,木,教育三年,13,ギョウ、ゴウ、わざ,696D,profession， business， trade
+様,木,教育三年,14,ヨウ、さま,69D8,shape， form， pattern， style
+横,木,教育三年,15,オウ、よこ,6A2A,across
+橋,木,教育三年,16,キョウ、はし,6A4B,bridge; beam， crosspiece
+次,欠,教育三年,6,シ、ジ、つぎ、つ･ぐ,6B21,order， sequence; next
+歯,齒,教育三年,12,シ、は,6B6F,teeth; gears， cogs; age; a form of KangXi radical 211
+死,歹,教育三年,6,シ、し･ぬ,6B7B,die; dead; death
+氷,水,教育三年,5,ヒョウ、こおり、ひ,6C37,ice， frost， icicles; cold
+決,水,教育三年,7,ケツ、き･まる、き･める,6C7A,decide， determine， judge
+油,水,教育三年,8,ユ、あぶら,6CB9,oil， fat， grease， lard; paints
+波,水,教育三年,8,ハ、なみ,6CE2,waves， breakers; undulations
+注,水,教育三年,8,チュウ、そそ･ぐ,6CE8,concentrate， focus， direct
+泳,水,教育三年,8,エイ、およ･ぐ,6CF3,dive; swim
+洋,水,教育三年,9,ヨウ,6D0B,ocean， sea; foreign; western
+流,水,教育三年,10,リュウ、ル、なが･す、なが･れる,6D41,flow， circulate， drift; class
+消,水,教育三年,10,ショウ、き･える、け･す,6D88,vanish， die out; melt away
+深,水,教育三年,11,シン、ふか･い、ふか･まる、ふか･める,6DF1,deep; depth; far; very， extreme
+温,水,教育三年,12,オン、あたた･か、あたた･かい、あたた･まる、あたた･める,6E29,lukewarm
+港,水,教育三年,12,コウ、みなと,6E2F,port， harbor; small stream; bay
+湖,水,教育三年,12,コ、みずうみ,6E56,a lake; Hubei， Hunan; bluish-green
+湯,水,教育三年,12,トウ、ゆ,6E6F,hot water; soup， gravy， broth
+漢,水,教育三年,13,カン,6F22,the Chinese people， Chinese language
+炭,火,教育三年,9,タン、すみ,70AD,charcoal; coal; carbon
+物,牛,教育三年,8,ブツ、モツ、もの,7269,thing， substance， creature
+球,玉,教育三年,11,キュウ、たま,7403,ball， sphere， globe; round
+由,田,教育三年,5,ユ、ユイ、ユウ、よし,7531,cause， reason; from
+申,田,教育三年,5,シン、もう･す,7533,to state to a superior， report; extend; 9th terrestrial branch
+界,田,教育三年,9,カイ,754C,boundary， limit; domain; society; the world
+畑,田,教育三年,9,はた、はたけ,7551,dry (as opposed to rice) field; used in Japanese names
+病,疒,教育三年,10,ビョウ、ヘイ、やまい、や･む,75C5,illness， sickness， disease
+発,癶,教育三年,9,ハツ、ホツ,767A,issue， dispatch， send out， emit
+登,癶,教育三年,12,ト、トウ、のぼ･る,767B,rise， mount， board， climb
+皮,皮,教育三年,5,ヒ、かわ,76AE,skin， hide， fur， feather; outer
+皿,皿,教育三年,5,さら,76BF,shallow container; rad. no. 108
+相,目,教育三年,9,ショウ、ソウ、あい,76F8,mutual， reciprocal， each other
+県,目,教育三年,9,ケン,770C,county， district， subdivision
+真,目,教育三年,10,シン、ま,771F,real， actual， true， genuine
+着,羊,教育三年,12,ジャク、チャク、き･せる、き･る、つ･く、つ･ける,7740,make move， take action
+短,矢,教育三年,12,タン、みじか･い,77ED,short; brief; deficient， lacking
+研,石,教育三年,9,ケン、と･ぐ,7814,grind， rub; study， research
+礼,示,教育三年,5,ライ、レイ,793C,social custom; manners; courtesy
+神,示,教育三年,9,シン、ジン、かみ、かん、こう,795E,spirit， god， supernatural being
+祭,示,教育三年,11,サイ、まつ･り、まつ･る,796D,sacrifice to， worship
+福,示,教育三年,13,フク,798F,happiness， good fortune， blessing
+秒,禾,教育三年,9,ビョウ,79D2,beard of grain or corn; a second
+究,穴,教育三年,7,キュウ、きわ･める,7A76,examine， investigate
+章,立,教育三年,11,ショウ,7AE0,composition; chapter， section
+童,立,教育三年,12,ドウ、わらべ,7AE5,child， boy， servant boy; virgin
+笛,竹,教育三年,11,テキ、ふえ,7B1B,bamboo flute; whistle
+第,竹,教育三年,11,ダイ,7B2C,sequence， number; grade， degree
+筆,竹,教育三年,12,ヒツ、ふで,7B46,writing brush; write; stroke
+等,竹,教育三年,12,トウ、ひと･しい,7B49,rank， grade; wait; equal; 'etc.'
+箱,竹,教育三年,15,はこ,7BB1,case， box， chest， trunk
+級,糸,教育三年,9,キュウ,7D1A,level， rank， class; grade
+終,糸,教育三年,11,シュウ、お･える、お･わる,7D42,end; finally， in the end
+緑,糸,教育三年,14,リョク、ロク、みどり,7DD1,green; chlorine
+練,糸,教育三年,14,レン、ね･る,7DF4,practice， drill， exercise， train
+羊,羊,教育三年,6,ヨウ、ひつじ,7F8A,sheep， goat; KangXi radical 123
+美,羊,教育三年,9,ビ、うつく･しい,7F8E,beautiful， pretty; pleasing
+習,羽,教育三年,11,シュウ、なら･う,7FD2,practice; flapping wings
+者,老,教育三年,8,シャ、もの,8005,that which; he who; those who
+育,肉,教育三年,8,イク、そだ･つ、そだ･てる、はぐく･む,80B2,produce， give birth to; educate
+苦,艸,教育三年,8,ク、くる･しい、くる･しむ、くる･しめる、にが･い、にが･る,82E6,bitter; hardship， suffering
+荷,艸,教育三年,10,カ、に,8377,lotus， water lily， holland
+落,艸,教育三年,12,ラク、お･ちる、お･とす,843D,fall， drop; net income， surplus
+葉,艸,教育三年,12,ヨウ、は,8449,leaf， petal; page of book; period
+薬,艸,教育三年,16,ヤク、くすり,85AC,drugs， pharmaceuticals， medicine
+血,血,教育三年,6,ケツ、ち,8840,blood; radical number 143
+表,衣,教育三年,8,ヒョウ、あらわ･す、あらわ･れる、おもて,8868,show， express， manifest， display
+詩,言,教育三年,13,シ,8A69,poetry; poem， verse， ode
+調,言,教育三年,15,チョウ、しら･べる、ととの･う、ととの･える,8ABF,transfer， move， change; tune
+談,言,教育三年,15,ダン,8AC7,talk; conversation; surname
+豆,豆,教育三年,7,ズ、トウ、まめ,8C46,beans， peas; bean-shaped
+負,貝,教育三年,9,フ、お･う、ま･かす、ま･ける,8CA0,load， burden; carry， bear
+起,走,教育三年,10,キ、お･きる、お･こす、お･こる,8D77,rise， stand up; go up; begin
+路,足,教育三年,13,ロ、じ,8DEF,road， path， street; journey
+身,身,教育三年,7,シン、み,8EAB,body; trunk， hull; rad. no. 158
+転,車,教育三年,11,テン、ころ･がす、ころ･がる、ころ･げる、ころ･ぶ,8EE2,shift， move， turn
+軽,車,教育三年,12,ケイ、かる･い、かろ･やか,8EFD,light; easy， simple; gentle
+農,辰,教育三年,13,ノウ,8FB2,agriculture， farming; farmer
+返,辵,教育三年,7,ヘン、かえ･す、かえ･る,8FD4,return， revert to， restore
+追,辵,教育三年,9,ツイ、お･う,8FFD,pursue， chase after; expel
+送,辵,教育三年,9,ソウ、おく･る,9001,see off， send off; dispatch， give
+速,辵,教育三年,10,ソク、すみ･やか、はや･い、はや･まる、はや･める,901F,quick， prompt， speedy
+進,辵,教育三年,11,シン、すす･む、すす･める,9032,advance， make progress， enter
+遊,辵,教育三年,12,ユ、ユウ、あそ･ぶ,904A,wander， roam， travel
+運,辵,教育三年,12,ウン、はこ･ぶ,904B,luck， fortune; ship， transport
+部,邑,教育三年,11,ブ,90E8,part， division， section
+都,邑,教育三年,11,ツ、ト、みやこ,90FD,metropolis， capital; all， the whole; elegant， refined
+配,酉,教育三年,10,ハイ、くば･る,914D,match， pair; equal; blend
+酒,酉,教育三年,10,シュ、さか、さけ,9152,wine， spirits， liquor， alcoholic beverage
+重,里,教育三年,9,ジュウ、チョウ、え、おも･い、かさ･なる、かさ･ねる,91CD,heavy， weighty; double
+鉄,金,教育三年,13,テツ,9244,iron; strong， solid， firm
+銀,金,教育三年,14,ギン,9280,silver; cash， money， wealth
+開,門,教育三年,12,カイ、あ･く、あ･ける、ひら･く、ひら･ける,958B,open; initiate， begin， start
+院,阜,教育三年,10,イン,9662,courtyard， yard， court; school
+陽,阜,教育三年,12,ヨウ,967D,'male' principle; light; sun
+階,阜,教育三年,12,カイ,968E,stairs， steps; rank， degree
+集,隹,教育三年,12,シュウ、あつ･まる、あつ･める、つど･う,96C6,assemble， collect together
+面,面,教育三年,9,メン、おも、おもて、つら,9762,face; surface; plane; side， dimension
+題,頁,教育三年,18,ダイ,984C,forehead; title， headline; theme
+飲,食,教育三年,12,イン、の･む,98F2,drink; swallow; kind of drink
+館,食,教育三年,16,カン、やかた,9928,public building
+駅,馬,教育三年,14,エキ,99C5,relay station
+鼻,鼻,教育三年,14,ビ、はな,9F3B,nose; first; KangXi radical 209
+不,一,教育四年,4,フ、ブ,4E0D,no， not; un-; negative prefix
+争,亅,教育四年,6,ソウ、あらそ･う,4E89,dispute， fight， contend， strive
+付,人,教育四年,5,フ、つ･く、つ･ける,4ED8,give， deliver， pay， hand over; entrust
+令,人,教育四年,5,レイ,4EE4,command， order; 'commandant'， magistrate; allow， cause
+以,人,教育四年,5,イ,4EE5,by means of; thereby， therefore; consider as; in order to
+仲,人,教育四年,6,チュウ、なか,4EF2,middle brother; go between， mediator; surname
+伝,人,教育四年,6,デン、つた･う、つた･える、つた･わる,4F1D,summon; propagate， transmit
+位,人,教育四年,7,イ、くらい,4F4D,throne; position， post; rank， status; seat
+低,人,教育四年,7,テイ、ひく･い、ひく･まる、ひく･める,4F4E,low; to lower， hang， bend， bow
+例,人,教育四年,8,レイ、たと･える,4F8B,precedent， example; regulation
+便,人,教育四年,9,ビン、ベン、たよ･り,4FBF,convenience， ease; expedient
+信,人,教育四年,9,シン,4FE1,trust， believe; letter
+倉,人,教育四年,10,ソウ、くら,5009,granary; berth; sea
+候,人,教育四年,10,コウ、そうろう,5019,wait; expect; visit; greet
+借,人,教育四年,10,シャク、か･りる,501F,borrow; lend; make pretext of
+停,人,教育四年,11,テイ,505C,stop， suspend， delay; suitable
+健,人,教育四年,11,ケン、すこ･やか,5065,strong， robust， healthy; strength
+側,人,教育四年,11,ソク、がわ,5074,side; incline， slant， lean
+働,人,教育四年,13,ドウ、はたら･く,50CD,labor; work
+億,人,教育四年,15,オク,5104,hundred million; many
+兆,儿,教育四年,6,チョウ、きざ･し、きざ･す,5146,omen; million; mega; also trillion. China = million; Japan and Taiwan = trillion
+児,儿,教育四年,7,ジ、ニ,5150,son， child， oneself; final part
+共,八,教育四年,6,キョウ、とも,5171,together with， all， total; to share
+兵,八,教育四年,7,ヒョウ、ヘイ,5175,soldier， troops
+典,八,教育四年,8,テン,5178,law， canon; documentation; classic， scripture
+冷,冫,教育四年,7,レイ、さ･ます、さ･める、つめ･たい、ひ･える、ひ･や、ひ･やかす、ひ･やす,51B7,cold， cool; lonely
+初,刀,教育四年,7,ショ、うい、そ･める、はじ･め、はじ･めて、はつ,521D,beginning， initial， primary
+別,刀,教育四年,7,ベツ、わか･れる,5225,separate， other; do not
+利,刀,教育四年,7,リ、き･く,5229,gains， advantage， profit， merit
+刷,刀,教育四年,8,サツ、す･る,5237,brush; clean with brush， scrub
+副,刀,教育四年,11,フク,526F,assist; supplement; assistant
+功,力,教育四年,5,ク、コウ,529F,achievement， merit， good result
+加,力,教育四年,5,カ、くわ･える、くわ･わる,52A0,add to， increase， augment
+努,力,教育四年,7,ド、つと･める,52AA,to exert， strive， make an effort; to pout
+労,力,教育四年,7,ロウ,52B4,labor， toil， do manual work
+勇,力,教育四年,9,ユウ、いさ･む,52C7,brave， courageous， fierce
+包,勹,教育四年,5,ホウ、つつ･む,5305,wrap， pack， bundle; package
+卒,十,教育四年,8,ソツ,5352,soldier; servant; at last， finally
+協,十,教育四年,8,キョウ,5354,be united; cooperate
+単,⺍,教育四年,9,タン,5358,same as 單 U+55AE， single， individual， only; lone
+博,十,教育四年,12,ハク、バク,535A,gamble， play games; wide， broad
+印,卩,教育四年,6,イン、しるし,5370,print， seal， stamp， chop， mark
+参,厶,教育四年,8,サン、まい･る,53C2,take part in， intervene; ginseng
+史,口,教育四年,5,シ,53F2,history， chronicle， annals
+司,口,教育四年,5,シ,53F8,take charge of， control， manage; officer
+各,口,教育四年,6,カク、おのおの,5404,each， individually， every， all
+告,口,教育四年,7,コク、つ･げる,544A,tell， announce， inform; accuse
+周,口,教育四年,8,シュウ、まわ･り,5468,Zhou dynasty; circumference
+唱,口,教育四年,11,ショウ、とな･える,5531,sing， chant， call; ditty， song
+喜,口,教育四年,12,キ、よろこ･ぶ,559C,like， love， enjoy; joyful thing
+器,口,教育四年,15,キ、うつわ,5668,receptacle， vessel; instrument
+囲,囗,教育四年,7,イ、かこ･う、かこ･む,56F2,surround， encircle， corral; whip
+固,囗,教育四年,8,コ、かた･い、かた･まる、かた･める,56FA,to become solid， solidify; strength
+型,土,教育四年,9,ケイ、かた,578B,pattern， model， type; law; mold
+堂,土,教育四年,11,ドウ,5802,hall; government office
+塩,土,教育四年,13,エン、しお,5869,salt
+士,士,教育四年,3,シ,58EB,scholar， gentleman; soldier
+変,夂,教育四年,9,ヘン、か･える、か･わる,5909,change， transform， alter; rebel
+夫,大,教育四年,4,フ、フウ、おっと,592B,man， male adult， husband; those
+失,大,教育四年,5,シツ、うしな･う,5931,lose; make mistake， neglect
+好,女,教育四年,6,コウ、この･む、す･く,597D,good， excellent， fine; well
+季,子,教育四年,8,キ,5B63,quarter of year; season; surname
+孫,子,教育四年,10,ソン、まご,5B6B,grandchild， descendent; surname
+完,宀,教育四年,7,カン,5B8C,complete， finish， settle; whole
+官,宀,教育四年,8,カン,5B98,official， public servant
+害,宀,教育四年,10,ガイ,5BB3,injure， harm; destroy， kill
+察,宀,教育四年,14,サツ,5BDF,examine， investigate; notice
+巣,⺍,教育四年,11,ソウ、す,5DE3,nest， living quarter in tree
+差,工,教育四年,10,サ、さ･す,5DEE,to differ; different， wrong; nearly， almost; an officer
+希,巾,教育四年,7,キ,5E0C,rare; hope， expect， strive for
+席,巾,教育四年,10,セキ,5E2D,seat; mat; take seat; banquet
+帯,巾,教育四年,10,タイ、おび、お･びる,5E2F,belt
+底,广,教育四年,8,テイ、そこ,5E95,bottom， underneath， underside
+府,广,教育四年,8,フ,5E9C,prefecture; prefect; government
+康,广,教育四年,11,コウ,5EB7,peaceful， quiet; happy， healthy
+建,廴,教育四年,9,ケン、コン、た･つ、た･てる,5EFA,build， establish， erect， found
+径,彳,教育四年,8,ケイ,5F84,narrow path; diameter; direct
+徒,彳,教育四年,10,ト,5F92,disciple， follower; go on foot
+得,彳,教育四年,11,トク、う･る、え･る,5F97,obtain， get， gain， acquire
+必,心,教育四年,5,ヒツ、かなら･ず,5FC5,surely， most certainly; must
+念,心,教育四年,8,ネン,5FF5,think of， recall， study
+愛,心,教育四年,13,アイ,611B,love， be fond of， like
+成,戈,教育四年,6,ジョウ、セイ、な･す、な･る,6210,completed， finished， fixed
+戦,戈,教育四年,13,セン、いくさ、たたか･う,6226,war， fighting， battle
+折,手,教育四年,7,セツ、おり、お･る、お･れる,6298,break off， snap; bend
+挙,手,教育四年,10,キョ、あ･がる、あ･げる,6319,raise， lift up; recommend
+改,攴,教育四年,7,カイ、あらた･まる、あらた･める,6539,change， alter; improve， remodel
+救,攴,教育四年,11,キュウ、すく･う,6551,save， rescue， relieve; help， aid
+敗,攴,教育四年,11,ハイ、やぶ･れる,6557,be defeated， decline， fail
+散,攴,教育四年,12,サン、ち･らかす、ち･らかる、ち･らす、ち･る,6563,scatter， disperse， break up
+料,斗,教育四年,10,リョウ,6599,consider， conjecture; materials， ingredients
+旗,方,教育四年,14,キ、はた,65D7,banner， flag， streamer
+昨,日,教育四年,9,サク,6628,yesterday; in former times， past
+景,日,教育四年,12,ケイ,666F,scenery， view; conditions
+最,曰,教育四年,12,サイ、もっと･も,6700,most， extremely， exceedingly
+望,月,教育四年,11,ボウ、モウ、のぞ･む,671B,to look at， look forward; to hope， expect
+未,木,教育四年,5,ミ,672A,not yet; 8th terrestrial branch
+末,木,教育四年,5,バツ、マツ、すえ,672B,final， last， end; insignificant
+札,木,教育四年,5,サツ、ふだ,672D,letter， note; correspondence
+材,木,教育四年,7,ザイ,6750,material， stuff; timber; talent
+束,木,教育四年,7,ソク、たば,675F,bind， control， restrain; bale
+松,木,教育四年,8,ショウ、まつ,677E,pine tree; fir tree
+果,木,教育四年,8,カ、は･たす、は･て、は･てる,679C,fruit; result
+栄,木,教育四年,9,エイ、さか･える、は･え、は･える,6804,glory， honor; flourish， prosper
+案,木,教育四年,10,アン,6848,table， bench; legal case
+梅,木,教育四年,10,バイ、うめ,6885,plums; prunes; surname
+械,木,教育四年,11,カイ,68B0,weapons; implements， instruments
+極,木,教育四年,12,キョク、ゴク、きわ･まる、きわ･み、きわ･める,6975,extreme， utmost， furthest， final
+標,木,教育四年,15,ヒョウ,6A19,a mark， symbol， label， sign; standard
+機,木,教育四年,16,キ、はた,6A5F,machine; moment， chance
+欠,欠,教育四年,4,ケツ、か･く、か･ける,6B20,owe， lack， be deficient; KangXi radical number 76
+歴,止,教育四年,14,レキ,6B74,take place， past， history
+残,歹,教育四年,10,ザン、のこ･す、のこ･る,6B8B,injure， spoil; oppress; broken
+殺,殳,教育四年,10,サイ、サツ、セツ、ころ･す,6BBA,kill， slaughter， murder; hurt; to pare off， reduce， clip
+毒,毋,教育四年,8,ドク,6BD2,poison， venom; poisonous
+氏,氏,教育四年,4,シ、うじ,6C0F,clan， family; mister
+民,氏,教育四年,5,ミン、たみ,6C11,people， subjects， citizens
+求,水,教育四年,7,キュウ、もと･める,6C42,seek; demand， request; beseech
+治,水,教育四年,8,ジ、チ、おさ･まる、おさ･める、なお･す、なお･る,6CBB,govern， regulate， administer
+法,水,教育四年,8,ハッ、ホウ、ホッ,6CD5,law， rule， regulation， statute; France， French
+泣,水,教育四年,8,キュウ、な･く,6CE3,cry， sob， weep
+浅,水,教育四年,9,セン、あさ･い,6D45,shallow， not deep; superficial
+浴,水,教育四年,10,ヨク、あ･びせる、あ･びる,6D74,bathe， wash; bath
+清,水,教育四年,11,ショウ、セイ、きよ･い、きよ･まる、きよ･める,6E05,clear， pure， clean; peaceful
+満,水,教育四年,12,マン、み･たす、み･ちる,6E80,fullness， enough; pride
+漁,水,教育四年,14,ギョ、リョウ,6F01,to fish; seize; pursue; surname
+灯,火,教育四年,6,トウ、ひ,706F,lantern， lamp
+無,火,教育四年,12,ブ、ム、な･い,7121,negative， no， not; lack， have no
+然,火,教育四年,12,ゼン、ネン,7136,yes， certainly; pledge， promise
+焼,火,教育四年,12,ショウ、や･く、や･ける,713C,burn; bake; heat; roast
+照,火,教育四年,13,ショウ、て･らす、て･る、て･れる,7167,shine， illumine， reflect
+熱,火,教育四年,15,ネツ、あつ･い,71B1,hot; heat; fever; restless; zeal
+牧,牛,教育四年,8,ボク、まき,7267,tend cattle， shepherd
+特,牛,教育四年,10,トク,7279,special， unique， distinguished
+産,生,教育四年,11,サン、うぶ、う･まれる、う･む,7523,give birth
+的,白,教育四年,8,テキ、まと,7684,possessive， adjectival suffix
+省,目,教育四年,9,ショウ、セイ、かえり･みる、はぶ･く,7701,province; save， economize
+祝,示,教育四年,9,シュウ、シュク、いわ･う,795D,pray for happiness or blessings
+票,示,教育四年,11,ヒョウ,7968,slip of paper or bamboo; ticket
+種,禾,教育四年,14,シュ、たね,7A2E,seed; race; offspring; to plant
+積,禾,教育四年,16,セキ、つ･む、つ･もる,7A4D,accumulate， store up， amass
+競,立,教育四年,20,キョウ、ケイ、きそ･う、せ･る,7AF6,contend， vie， compete
+笑,竹,教育四年,10,ショウ、え･む、わら･う,7B11,smile， laugh， giggle; snicker
+管,竹,教育四年,14,カン、くだ,7BA1,pipe， tube， duct; woodwind music
+節,竹,教育四年,13,セチ、セツ、ふし,7BC0,knot， node， joint; section
+粉,米,教育四年,10,フン、こ、こな,7C89,powder， face powder; plaster
+紀,糸,教育四年,9,キ,7D00,record， annal， historical account
+約,糸,教育四年,9,ヤク,7D04,treaty， agreement， covenant
+結,糸,教育四年,12,ケツ、むす･ぶ、ゆ･う、ゆ･わえる,7D50,knot， tie; join， connect
+給,糸,教育四年,12,キュウ,7D66,give; by， for
+続,糸,教育四年,13,ゾク、つづ･く、つづ･ける,7D9A,continue， carry on; succeed
+置,网,教育四年,13,チ、お･く,7F6E,place， lay out; set aside
+老,老,教育四年,6,ロウ、お･いる、ふ･ける,8001,old， aged; experienced
+胃,肉,教育四年,9,イ,80C3,stomach; gizzard of fowl
+脈,肉,教育四年,10,ミャク,8108,blood vessels， veins， arteries
+腸,肉,教育四年,13,チョウ,8178,intestines; emotions; sausage
+臣,臣,教育四年,7,シン、ジン,81E3,minister， statesman， official
+航,舟,教育四年,10,コウ,822A,sail; navigate; ship， boat
+良,艮,教育四年,7,リョウ、よ･い,826F,good， virtuous， respectable
+芸,艸,教育四年,7,ゲイ,82B8,rue， herb used to keep insects away; to cut grass or weeds; art， talent， ability， craft， technique， performance， acting， trick， stunt
+芽,艸,教育四年,8,ガ、め,82BD,bud， sprout， shoot
+英,艸,教育四年,8,エイ,82F1,petal， flower， leaf; brave， a hero; England， English
+菜,艸,教育四年,11,サイ、な,83DC,vegetables; dish， order; food
+街,行,教育四年,12,カイ、ガイ、まち,8857,street， road， thoroughfare
+衣,衣,教育四年,6,イ、ころも,8863,clothes， clothing; cover， skin
+要,襾,教育四年,9,ヨウ、い･る、かなめ,8981,necessary， essential; necessity
+覚,見,教育四年,12,カク、おぼ･える、さ･ます、さ･める,899A,to wake up from sleep; conscious
+観,見,教育四年,18,カン,89B3,see， observe， view; appearance
+訓,言,教育四年,10,クン,8A13,teach， instruct; exegesis
+試,言,教育四年,13,シ、こころ･みる、ため･す,8A66,test， try， experiment
+説,言,教育四年,14,セツ、ゼイ、と･く,8AAC,speak
+課,言,教育四年,15,カ,8AB2,lesson; course; classwork
+議,言,教育四年,20,ギ,8B70,consult， talk over， discuss
+象,豕,教育四年,12,ショウ、ゾウ,8C61,elephant; ivory; figure， image
+貨,貝,教育四年,11,カ,8CA8,goods， commodities， products
+貯,貝,教育四年,12,チョ,8CAF,store， stockpile， hoard
+費,貝,教育四年,12,ヒ、つい･える、つい･やす,8CBB,expenses， expenditures， fee
+賞,貝,教育四年,15,ショウ,8CDE,reward， grant， bestow; appreciate
+軍,車,教育四年,9,グン,8ECD,army， military; soldiers， troops
+輪,車,教育四年,15,リン、わ,8F2A,wheel; revolve， turn; recur
+辞,辛,教育四年,13,ジ、や･める,8F9E,words， speech， expression， phrase
+辺,辵,教育四年,5,ヘン、あた･り、べ,8FBA,edge， margin， side， border
+連,辵,教育四年,10,レン、つら･なる、つら･ねる、つ･れる,9023,join， connect; continuous; even
+達,辵,教育四年,12,タツ,9054,arrive at， reach; intelligent
+選,辵,教育四年,15,セン、えら･ぶ,9078,choose， select; elect; election
+郡,邑,教育四年,10,グン,90E1,administrative division
+量,里,教育四年,12,リョウ、はか･る,91CF,measure， quantity， capacity
+録,金,教育四年,16,ロク,9332,copy
+鏡,金,教育四年,19,キョウ、がかみ,93E1,mirror; lens; glass; glasses
+関,門,教育四年,14,カン、かか･わる、せき,95A2,frontier pass; close; relation
+陸,阜,教育四年,11,リク,9678,land， continental; army; an accounting form of U+516D 六 (six)
+隊,阜,教育四年,12,タイ,968A,team， group; army unit
+静,青,教育四年,14,ジョウ、セイ、しず、しず･か、しず･まる、しず･める,9759,quiet， still， motionless; gentle
+順,頁,教育四年,12,ジュン,9806,obey， submit to， go along with
+願,頁,教育四年,19,ガン、ねが･う,9858,desire， want; wish; ambition
+類,頁,教育四年,18,ルイ、たぐい,985E,class， group， kind， category
+飛,飛,教育四年,9,ヒ、と･ばす、と･ぶ,98DB,fly; go quickly; dart; high
+飯,食,教育四年,12,ハン、めし,98EF,cooked rice; food; meal
+養,食,教育四年,15,ヨウ、やしな･う,990A,raise， rear， bring up; support
+験,馬,教育四年,18,ケン、ゲン,9A13,test， examine， inspect; verify
+久,丿,教育五年,3,キュウ、ク、ひさ･しい,4E45,long time (ago); time passage， grow late
+仏,人,教育五年,4,ブツ、ほとけ,4ECF,Buddha
+仮,人,教育五年,6,カ、ケ、かり,4EEE,falsehood， deception; vacation
+件,人,教育五年,6,ケン,4EF6,numerary adjunct for article; matter
+任,人,教育五年,6,ニン、まか･す、まか･せる,4EFB,trust to， rely on， appoint; to bear， duty， office; allow
+似,人,教育五年,7,ジ、に･る,4F3C,resemble， similar to; as if， seem
+余,人,教育五年,7,ヨ、あま･す、あま･る,4F59,I， my， me; surname; surplus
+価,人,教育五年,8,カ、あたい,4FA1,price， value
+保,人,教育五年,9,ホ、たも･つ,4FDD,protect， safeguard， defend， care
+修,人,教育五年,10,シュ、シュウ、おさ･まる、おさ･める,4FEE,study; repair; cultivate
+俵,人,教育五年,10,ヒョウ、たわら,4FF5,divide， distribute
+個,人,教育五年,10,コ,500B,numerary adjunct， piece; single
+備,人,教育五年,12,ビ、そな･える、そな･わる,5099,prepare， ready， perfect
+像,人,教育五年,14,ゾウ,50CF,a picture， image， figure; to resemble
+再,冂,教育五年,6,サ、サイ、ふたた･び,518D,again， twice， re-
+刊,刀,教育五年,5,カン,520A,publication， periodical; publish
+判,刀,教育五年,7,ハン、バン,5224,judge; discriminate; conclude
+制,刀,教育五年,8,セイ,5236,system; establish; overpower
+券,刀,教育五年,8,ケン,5238,certificate， ticket; title deeds
+則,刀,教育五年,9,ソク,5247,rule， law， regulation; grades
+効,力,教育五年,8,コウ、き･く,52B9,efficacious， effectiveness; to toil， to serve in the army
+務,力,教育五年,11,ム、つと･まる、つと･める,52D9,affairs， business; must， should
+勢,力,教育五年,13,セイ、いきお･い,52E2,power， force; tendency
+厚,厂,教育五年,9,コウ、あつ･い,539A,thick; substantial; greatly
+句,口,教育五年,5,ク,53E5,sentence
+可,口,教育五年,5,カ,53EF,may， can， -able; possibly
+営,⺍,教育五年,12,エイ、いとな･む,55B6,encampment， barracks; manage
+因,囗,教育五年,6,イン、よ･る,56E0,cause， reason; by; because (of)
+団,囗,教育五年,6,ダン、トン,56E3,sphere， ball， circle; mass， lump
+圧,土,教育五年,5,アツ,5727,same as 壓 U+58D3， to press; to oppress; to crush; pressure
+在,土,教育五年,6,ザイ、あ･る,5728,be at， in， on; consist in， rest
+均,土,教育五年,7,キン,5747,equal， even， fair; all， also
+基,土,教育五年,11,キ、もと、もとい,57FA,foundation， base
+報,土,教育五年,12,ホウ、むく･いる,5831,report， tell， announce
+境,土,教育五年,14,キョウ、ケイ、さかい,5883,boundary， frontier; area， region
+墓,土,教育五年,13,ボ、はか,5893,grave， tomb
+増,土,教育五年,14,ゾウ、ふ･える、ふ･やす、ま･す,5897,increase
+夢,夕,教育五年,13,ム、ゆめ,5922,dream; visionary; wishful
+妻,女,教育五年,8,サイ、つま,59BB,wife
+婦,女,教育五年,11,フ,5A66,married women; woman; wife
+容,宀,教育五年,10,ヨウ,5BB9,looks， appearance; figure， form
+寄,宀,教育五年,11,キ、よ･せる、よ･る,5BC4,send， transmit， mail; rely on
+富,宀,教育五年,12,フ、フウ、とみ、と･む,5BCC,abundant， ample; rich， wealthy
+導,寸,教育五年,15,ドウ、みちび･く,5C0E,direct， guide， lead， conduct
+居,尸,教育五年,8,キョ、い･る,5C45,live， dwell， reside， sit
+属,尸,教育五年,12,ゾク,5C5E,class， category， type; belong to
+布,巾,教育五年,5,フ、ぬの,5E03,cotton cloth， textiles， linen
+師,巾,教育五年,10,シ,5E2B,teacher， master， specialist; multitude， troops
+常,巾,教育五年,11,ジョウ、つね、とこ,5E38,common， normal， frequent， regular
+幹,干,教育五年,13,カン、みき,5E79,trunk of tree or of human body
+序,广,教育五年,7,ジョ,5E8F,series， serial order， sequence
+弁,廾,教育五年,5,ベン,5F01,conical cap worn during Zhou dynasty
+張,弓,教育五年,11,チョウ、は･る,5F35,stretch， extend， expand; sheet
+往,彳,教育五年,8,オウ,5F80,go， depart; past， formerly
+復,彳,教育五年,12,フク,5FA9,return; repeat; repeatedly
+徳,彳,教育五年,14,トク,5FB3,virtue; ethics
+志,心,教育五年,7,シ、こころざし、こころざ･す,5FD7,purpose， will， determination; annals
+応,心,教育五年,7,オウ、こた･える,5FDC,should， ought to， must
+快,心,教育五年,7,カイ、こころよ･い,5FEB,rapid， quick， speedy， fast; soon
+性,心,教育五年,8,ショウ、セイ,6027,nature， character， sex
+恩,心,教育五年,10,オン,6069,kindness， mercy， charity
+情,心,教育五年,11,ジョウ、セイ、なさ･け,60C5,feeling， sentiment， emotion
+態,心,教育五年,14,タイ,614B,manner， bearing， attitude
+慣,心,教育五年,14,カン、な･らす、な･れる,6163,habit， custom; habitually， usually
+承,手,教育五年,8,ショウ、うけたまわ･る,627F,inherit， receive; succeed
+技,手,教育五年,7,ギ、わざ,6280,skill， ability， talent， ingenuity
+招,手,教育五年,8,ショウ、まね･く,62DB,beckon， summon; recruit， levy
+授,手,教育五年,11,ジュ、さず･かる、さず･ける,6388,give to， transmit; confer
+採,手,教育五年,11,サイ、と･る,63A1,gather， collect; pick， select
+接,手,教育五年,11,セツ、つ･ぐ,63A5,receive; continue; catch; connect
+提,手,教育五年,12,テイ、さ･げる,63D0,hold in hand; lift in hand
+損,手,教育五年,13,ソン、そこ･なう、そこ･ねる,640D,diminish; impair; injure
+支,支,教育五年,4,シ、ささ･える,652F,disperse， pay; support; branch
+政,攴,教育五年,9,ショウ、セイ、まつりごと,653F,government， political affairs
+故,攴,教育五年,9,コ、ゆえ,6545,ancient， old; reason， because
+敵,攴,教育五年,15,テキ、かたき,6575,enemy， foe， rival; resist
+断,斤,教育五年,11,ダン、ことわ･る、た･つ,65AD,sever， cut off; interrupt
+旧,日,教育五年,5,キュウ,65E7,old， ancient; former， past
+易,日,教育五年,8,イ、エキ、やさ･しい,6613,change; easy
+暴,日,教育五年,15,バク、ボウ、あば･く、あば･れる,66B4,violent， brutal， tyrannical
+条,木,教育五年,7,ジョウ,6761,clause， condition; string， stripe
+枝,木,教育五年,8,シ、えだ,679D,branches， limbs; branch off
+査,木,教育五年,9,サ,67FB,investigate， examine， seek into
+格,木,教育五年,10,カク、コウ,683C,pattern， standard， form; style
+桜,木,教育五年,10,オウ、さくら,685C,cherry， cherry blossom
+検,木,教育五年,12,ケン,691C,check; examine
+構,木,教育五年,14,コウ、かま･う、かま･える,69CB,frame， building， structure
+武,止,教育五年,8,ブ、ム,6B66,military; martial， warlike
+比,比,教育五年,4,ヒ、くら･べる,6BD4,to compare， liken; comparison; than
+永,水,教育五年,5,エイ、なが･い,6C38,long， perpetual， eternal， forever
+河,水,教育五年,8,カ、かわ,6CB3,river; stream; yellow river
+液,水,教育五年,11,エキ,6DB2,sap， juice， liquid， fluid
+混,水,教育五年,11,コン、こ･む、ま･ざる、ま･じる、ま･ぜる,6DF7,to mix， blend， mingle; to bumble along
+減,水,教育五年,12,ゲン、へ･らす、へ･る,6E1B,decrease， subtract， diminish
+測,水,教育五年,12,ソク、はか･る,6E2C,measure， estimate， conjecture
+準,水,教育五年,13,ジュン,6E96,rule， guideline， standard
+演,水,教育五年,14,エン,6F14,perform， put on; exercise
+潔,水,教育五年,15,ケツ、いさぎよ･い,6F54,clean， purify， pure
+災,火,教育五年,7,サイ、わざわ･い,707D,calamity， disaster， catastrophe
+燃,火,教育五年,16,ネン、も･える、も･す、も･やす,71C3,burn; light fire， ignite
+版,片,教育五年,8,ハン,7248,printing blocks; edition
+犯,犬,教育五年,5,ハン、おか･す,72AF,commit crime， violate; criminal
+状,犬,教育五年,7,ジョウ,72B6,form; appearance; shape; official
+独,犬,教育五年,9,ドク、ひと･り,72EC,alone， single， solitary， only
+率,玄,教育五年,11,ソツ、リツ、ひき･いる,7387,to lead; ratio; rate; limit
+現,玉,教育五年,11,ゲン、あらわ･す、あらわ･れる,73FE,appear， manifest， become visible
+留,田,教育五年,10,リュウ、ル、と･まる、と･める,7559,stop， halt; stay， detain， keep
+略,田,教育五年,11,リャク,7565,approximately， roughly; outline
+益,皿,教育五年,10,エキ、ヤク,76CA,profit， benefit; advantage
+眼,目,教育五年,11,ガン、ゲン、まなこ,773C,eye; eyelet， hole， opening
+破,石,教育五年,10,ハ、やぶ･る、やぶ･れる,7834,break， ruin， destroy; rout
+確,石,教育五年,15,カク、たし･か、たし･かめる,78BA,sure， certain; real， true
+示,示,教育五年,5,シ、ジ、しめ･す,793A,show， manifest; demonstrate
+祖,示,教育五年,9,ソ,7956,ancestor， forefather; grandfather
+禁,示,教育五年,13,キン,7981,restrict， prohibit， forbid
+移,禾,教育五年,11,イ、うつ･す、うつ･る,79FB,change place， shift; move about
+程,禾,教育五年,12,テイ、ほど,7A0B,journey， trip; schedule， agenda
+税,禾,教育五年,12,ゼイ,7A0E,taxes
+築,竹,教育五年,16,チク、きず･く,7BC9,build， erect; building
+精,米,教育五年,14,ショウ、セイ,7CBE,essence; semen; spirit
+素,糸,教育五年,10,ス、ソ,7D20,white (silk); plain; vegetarian; formerly; normally
+経,糸,教育五年,11,キョウ、ケイ、へ･る,7D4C,classic works; pass through
+統,糸,教育五年,12,トウ、す･べる,7D71,govern， command， control; unite
+絶,糸,教育五年,12,ゼツ、た･える、た･つ、た･やす,7D76,cut
+綿,糸,教育五年,14,メン、わた,7DBF,cotton wad; wool; soft， downy
+総,糸,教育五年,14,ソウ,7DCF,collect; overall， altogether
+編,糸,教育五年,15,ヘン、あ･む,7DE8,knit， weave; arrange; compile
+績,糸,教育五年,17,セキ,7E3E,spin; achievements
+織,糸,教育五年,18,シキ、ショク、お･る,7E54,weave， knit; organize， unite
+罪,网,教育五年,13,ザイ、つみ,7F6A,crime， sin， vice; evil; hardship
+群,羊,教育五年,13,グン、むら、む･れ、む･れる,7FA4,(same as U+7FA3 羣) group， crowd， multitude， mob
+義,羊,教育五年,13,ギ,7FA9,right conduct， righteousness
+耕,耒,教育五年,10,コウ、たがや･す,8015,plow， cultivate
+職,耳,教育五年,18,ショク,8077,duty， profession; office， post
+肥,肉,教育五年,8,ヒ、こえ、こ･える、こ･やし、こ･やす,80A5,fat， plump， obese; fertile
+能,肉,教育五年,10,ノウ,80FD,to be able; can， permitted to; ability
+興,臼,教育五年,16,キョウ、コウ、おこ･す、おこ･る,8208,thrive， prosper， flourish
+舌,舌,教育五年,6,ゼツ、した,820C,tongue; clapper of bell; KangXi radical 135
+舎,舌,教育五年,8,シャ,820E,house， dwelling; dwell， reside
+術,行,教育五年,11,ジュツ,8853,art， skill， special feat; method， technique
+衛,行,教育五年,16,エイ,885B,guard， protect， defend
+製,衣,教育五年,14,セイ,88FD,make， manufacture; produce
+複,衣,教育五年,14,フク,8907,repeat， double， overlap
+規,見,教育五年,11,キ,898F,rules， regulations， customs， law
+解,角,教育五年,13,カイ、ゲ、と･かす、と･く、と･ける,89E3,loosen， unfasten， untie; explain
+設,言,教育五年,11,セツ、もう･ける,8A2D,build; establish; display; particle of hypothesis， supposing
+許,言,教育五年,11,キョ、ゆる･す,8A31,allow， permit; promise; betroth
+証,言,教育五年,12,ショウ,8A3C,prove， confirm， verify; proof
+評,言,教育五年,12,ヒョウ,8A55,appraise， criticize， evaluate
+講,言,教育五年,17,コウ,8B1B,explain; discuss; talk
+謝,言,教育五年,17,シャ、あやま･る,8B1D,thank; decline
+識,言,教育五年,19,シキ,8B58,recognize， understand， know
+護,言,教育五年,20,ゴ,8B77,protect， guard， defend， shelter
+豊,豆,教育五年,13,ホウ、ゆたか,8C4A,abundant， lush， bountiful， plenty
+財,貝,教育五年,10,サイ、ザイ,8CA1,wealth， valuables， riches
+貧,貝,教育五年,11,ヒン、ビン、まず･しい,8CA7,poor， impoverished， needy
+責,貝,教育五年,11,セキ、せ･める,8CAC,one's responsibility， duty
+貸,貝,教育五年,12,タイ、か･す,8CB8,lend; borrow; pardon
+貿,貝,教育五年,12,ボウ,8CBF,trade， barter; mixed; rashly
+賀,貝,教育五年,12,ガ,8CC0,congratulate; send present
+資,貝,教育五年,13,シ,8CC7,property; wealth; capital
+賛,貝,教育五年,15,サン,8CDB,help， support， assist， aid
+質,貝,教育五年,15,シチ、シツ、チ,8CEA,matter， material， substance
+輸,車,教育五年,16,ユ,8F38,transport， carry， haul
+述,辵,教育五年,8,ジュツ、の･べる,8FF0,narrate， state， express
+迷,辵,教育五年,9,メイ、まよ･う,8FF7,bewitch， charm， infatuate
+退,辵,教育五年,9,タイ、しりぞ･く、しりぞ･ける,9000,step back， retreat， withdraw
+逆,辵,教育五年,9,ギャク、さか、さか･らう,9006,disobey， rebel; rebel， traitor
+造,辵,教育五年,10,ゾウ、つく･る,9020,construct， build， make， begin; prepare
+過,辵,教育五年,12,カ、あやま･ち、あやま･つ、す･ぎる、す･ごす,904E,pass， pass through， go across
+適,辵,教育五年,14,テキ,9069,match， comfortable; just
+酸,酉,教育五年,14,サン、す･い,9178,tart， sour; acid; stiff; spoiled
+鉱,金,教育五年,13,コウ,9271,mine; mineral， ore
+銅,金,教育五年,14,ドウ,9285,copper， brass， bronze cuprum
+銭,金,教育五年,14,セン、ぜに,92AD,money， currency， coins
+防,阜,教育五年,7,ボウ、ふせ･ぐ,9632,defend; prevent; embankment
+限,阜,教育五年,9,ゲン、かぎ･る,9650,boundary， limit， line
+険,阜,教育五年,11,ケン、けわ･しい,967A,narrow pass， strategic point
+際,阜,教育五年,14,サイ、きわ,969B,border， boundary， juncture
+雑,隹,教育五年,14,ザツ、ゾウ,96D1,mixed， blended; mix， mingle
+非,非,教育五年,8,ヒ,975E,not， negative， non-; oppose
+預,頁,教育五年,13,ヨ、あず･かる、あず･ける,9810,prepare， arrange; in advance
+領,頁,教育五年,14,リョウ,9818,neck; collar; lead， guide
+額,頁,教育五年,18,ガク、ひたい,984D,forehead; tablet， plaque; fixed
+飼,食,教育五年,13,シ、か･う,98FC,raise animals; feed; nourish
+並,一,教育六年,8,ヘイ、なみ、なら･びに、なら･ぶ、なら･べる,4E26,equal to; side by side; also， what is more; both
+乱,乙,教育六年,7,ラン、みだ･す、みだ･れる,4E71,confusion， state of chaos， revolt
+乳,乙,教育六年,8,ニュウ、ち、ちち,4E73,breast， nipples; milk， suckle
+亡,亠,教育六年,3,ボウ、モウ、な･い,4EA1,death， destroyed; lose， perish
+仁,人,教育六年,4,ジン、ニ,4EC1,humaneness， benevolence， kindness
+供,人,教育六年,8,キョウ、ク、そな･える、とも,4F9B,supply， provide for; offer in worship
+俳,人,教育六年,10,ハイ,4FF3,actor; vaudeville show; insincere
+値,人,教育六年,10,チ、あたい、ね,5024,price， cost， worth
+傷,人,教育六年,13,ショウ、いた･む、いた･める、きず,50B7,wound， injury; fall ill from
+優,人,教育六年,17,ユウ、すぐ･れる、やさ･しい,512A,superior， excellent; actor
+党,儿,教育六年,10,トウ,515A,political party， gang， faction
+冊,冂,教育六年,5,サク、サツ,518A,book， volume
+処,几,教育六年,5,ショ,51E6,place， locale; department
+刻,刀,教育六年,8,コク、きざ･む,523B,carve， engrave; quarter hour
+割,刀,教育六年,12,カツ、さ･く、わり、わ･る、わ･れる,5272,cut， divide， partition; cede
+創,刀,教育六年,12,ソウ、つく･る,5275,establish， create; knife cut
+劇,刀,教育六年,15,ゲキ,5287,theatrical plays， opera， drama
+勤,力,教育六年,12,キン、ゴン、つと･まる、つと･める,52E4,industrious， diligent， attentive
+危,卩,教育六年,6,キ、あぶ･ない、あや･うい、あや･ぶむ,5371,dangerous， precarious; high
+卵,卩,教育六年,7,ラン、たまご,5375,egg; ovum; roe; spawn
+厳,⺍,教育六年,17,ゲン、ゴン、おごそ･か、きび･しい,53B3,strict， rigorous， rigid; stern
+収,又,教育六年,4,シュウ、おさ･まる、おさ･める,53CE,gather together， collect; harvest
+后,口,教育六年,6,コウ,540E,queen， empress， sovereign; (simp. for 後) behind， rear， after
+否,口,教育六年,7,ヒ、いな,5426,not， no， negative; final particle
+吸,口,教育六年,6,キュウ、す･う,5438,inhale， suck in; absorb; attract
+呼,口,教育六年,8,コ、よ･ぶ,547C,breathe sigh， exhale; call， shout
+善,口,教育六年,12,ゼン、よ･い,5584,good， virtuous， charitable， kind
+困,囗,教育六年,7,コン、こま･る,56F0,to surround， beseige; to be surrounded; difficult
+垂,土,教育六年,8,スイ、た･らす、た･れる,5782,let down; suspend， hand; down
+城,土,教育六年,9,ジョウ、しろ,57CE,castle; city， town; municipality
+域,土,教育六年,11,イキ,57DF,district， region， boundary; land
+奏,大,教育六年,9,ソウ、かな･でる,594F,memorialize emperor; report
+奮,大,教育六年,16,フン、ふる･う,596E,strive， exert effort; arouse
+姿,女,教育六年,9,シ、すがた,59FF,one's manner， carriage， bearing
+存,子,教育六年,6,ソン、ゾン,5B58,exist， live， be; survive; remain
+孝,子,教育六年,7,コウ,5B5D,filial piety， obedience; mourning
+宅,宀,教育六年,6,タク,5B85,residence， dwelling， home; grave
+宇,宀,教育六年,6,ウ,5B87,house; building， structure; eaves
+宗,宀,教育六年,8,シュウ、ソウ,5B97,lineage， ancestry; ancestor， clan
+宙,宀,教育六年,8,チュウ,5B99,time as concept; infinite time
+宝,宀,教育六年,8,ホウ、たから,5B9D,treasure， jewel; precious， rare
+宣,宀,教育六年,9,セン,5BA3,declare， announce， proclaim
+密,宀,教育六年,11,ミツ,5BC6,dense， thick， close; intimate
+寸,寸,教育六年,3,スン,5BF8,inch; small， tiny; KangXi radical 41
+専,寸,教育六年,9,セン、もっぱ･ら,5C02,monopolize， take sole possession
+射,寸,教育六年,10,シャ、い･る,5C04,shoot， eject， issue forth， emit
+将,寸,教育六年,10,ショウ,5C06,will， going to， future; general
+尊,寸,教育六年,12,ソン、たっと･い、たっと･ぶ、とうと･い、とうと･ぶ,5C0A,respect， revere， venerate; honor
+就,尢,教育六年,12,シュウ、ジュ、つ･く、つ･ける,5C31,just， simply; to come， go to; to approach， near
+尺,尸,教育六年,4,シャク,5C3A,Chinese measure approx. 'foot'
+届,尸,教育六年,8,とど･く、とど･ける,5C4A,numerary adjunct for time， term
+展,尸,教育六年,10,テン,5C55,open， unfold; stretch， extend
+層,尸,教育六年,14,ソウ,5C64,storey， layer， floor， stratum
+己,己,教育六年,3,キ、コ、おのれ,5DF1,self， oneself; personal， private; 6th heavenly stem
+巻,卩,教育六年,9,カン、まき、ま･く,5DFB,scroll; curl; make a comeback
+幕,巾,教育六年,13,バク、マク,5E55,curtain， screen， tent
+干,干,教育六年,3,カン、ひ･る、ほ･す,5E72,oppose， offend; invade; dried
+幼,幺,教育六年,5,ヨウ、おさな･い,5E7C,infant， young child; immature
+庁,广,教育六年,5,チョウ,5E81,hall， central room
+座,广,教育六年,10,ザ、すわ･る,5EA7,seat; stand， base
+延,廴,教育六年,8,エン、の･ばす、の･びる、の･べる,5EF6,delay， postpone， defer
+律,彳,教育六年,9,リチ、リツ,5F8B,statute， principle， regulation
+従,彳,教育六年,10,ショウ、ジュ、ジュウ、したが･う、したが･える,5F93,from， by， since， whence， through
+忘,心,教育六年,7,ボウ、わす･れる,5FD8,forget; neglect; miss， omit
+忠,心,教育六年,8,チュウ,5FE0,loyalty， devotion， fidelity
+憲,心,教育六年,16,ケン,61B2,constitution， statute， law
+我,戈,教育六年,7,ガ、わ、われ,6211,our， us， i， me， my， we
+批,手,教育六年,7,ヒ,6279,comment， criticize; wholesale
+担,手,教育六年,8,タン、かつ･ぐ、にな･う,62C5,carry， bear， undertake
+拝,手,教育六年,8,ハイ、おが･む,62DD,do obeisance， bow， kowtow
+拡,手,教育六年,8,カク,62E1,expand， enlarge， stretch
+捨,手,教育六年,11,シャ、す･てる,6368,discard， give up willingly; give alms
+探,手,教育六年,11,タン、さが･す、さぐ･る,63A2,find， locate; search， grope for
+推,手,教育六年,11,スイ、お･す,63A8,push， expel; push forward
+揮,手,教育六年,12,キ,63EE,direct; wipe away; squander
+操,手,教育六年,16,ソウ、あやつ･る、みさお,64CD,conduct， run， control， manage
+敬,攴,教育六年,12,ケイ、うやま･う,656C,respect， honor; respectfully
+映,日,教育六年,9,エイ、うつ･す、うつ･る、は･える,6620,project; reflect light
+晩,日,教育六年,12,バン,6669,night
+暖,日,教育六年,13,ダン、あたた･か、あたた･かい、あたた･まる、あたた･める,6696,warm， genial
+暮,日,教育六年,14,ボ、く･らす、く･れる,66AE,evening， dusk， sunset; ending
+朗,月,教育六年,10,ロウ、ほが･らか,6717,clear， bright; distinct
+机,木,教育六年,6,キ、つくえ,673A,desk; machine; moment
+枚,木,教育六年,8,マイ,679A,stalk of shrub， trunk of tree
+染,木,教育六年,9,セン、し･み、し･みる、そ･まる、そ･める,67D3,dye; be contagious; infect
+株,木,教育六年,10,かぶ,682A,numerary adjunct for trees; root
+棒,木,教育六年,12,ボウ,68D2,stick， club， truncheon; hit
+模,木,教育六年,14,ボ、モ,6A21,model， standard， pattern; copy
+権,木,教育六年,15,ケン、ゴン,6A29,power， right， authority
+樹,木,教育六年,16,ジュ,6A39,tree; plant; set up， establish
+欲,欠,教育六年,11,ヨク、ほっ･する、ほ･しい,6B32,desire， want， long for; intend
+段,殳,教育六年,9,ダン,6BB5,section， piece， division
+沿,水,教育六年,8,エン、そ･う,6CBF,follow a course， go along
+泉,水,教育六年,9,セン、いずみ,6CC9,spring， fountain; wealth， money
+洗,水,教育六年,9,セン、あら･う,6D17,wash， rinse; clean， purify
+派,水,教育六年,9,ハ,6D3E,school of thought， sect， branch
+済,水,教育六年,11,サイ、す･ます、す･む,6E08,help， aid， relieve; ferry， cross
+源,水,教育六年,13,ゲン、みなもと,6E90,spring; source， head; surname
+潮,水,教育六年,15,チョウ、しお,6F6E,tide; moist， wet， damp; flow
+激,水,教育六年,16,ゲキ、はげ･しい,6FC0,arouse， excite， incite; quickly
+灰,火,教育六年,6,カイ、はい,7070,ashes; dust; lime， mortar
+熟,火,教育六年,15,ジュク、う･れる,719F,well-cooked; ripe; familiar with
+片,片,教育六年,4,ヘン、かた,7247,slice， splinter， strip; rad. 91
+班,玉,教育六年,10,ハン,73ED,class， group， grade; squad; job
+異,田,教育六年,11,イ、こと,7570,different， unusual， strange
+疑,疋,教育六年,14,ギ、うたが･う,7591,doubt， question， suspect
+痛,疒,教育六年,12,ツウ、いた･い、いた･む、いた･める,75DB,pain， ache; sorry， sad; bitter
+皇,白,教育六年,9,オウ、コウ,7687,royal， imperial; ruler， superior
+盛,皿,教育六年,11,ジョウ、セイ、さか･る、さか･ん、も･る,76DB,abundant， flourishing; contain; fill
+盟,皿,教育六年,13,メイ,76DF,swear; oath， covenant， alliance
+看,目,教育六年,9,カン,770B,look， see; examine， scrutinize
+砂,石,教育六年,9,サ、シャ、すな,7802,sand; pebbles， gravel; gritty
+磁,石,教育六年,14,ジ,78C1,magnetic; magnetism; porcelain
+私,禾,教育六年,7,シ、わたくし、わたし,79C1,private， personal; secret
+秘,禾,教育六年,10,ヒ、ひ･める,79D8,secret， mysterious， abstruse
+穀,禾,教育六年,14,コク,7A40,corn， grain， cereal; lucky
+穴,穴,教育六年,5,ケツ、あな,7A74,cave， den， hole; KangXi radical 116
+窓,穴,教育六年,11,ソウ、まど,7A93,window
+筋,竹,教育六年,12,キン、すじ,7B4B,muscles; tendons
+策,竹,教育六年,12,サク,7B56,scheme， plan; to whip; urge
+簡,竹,教育六年,18,カン,7C21,simple， terse， succinct; letter
+糖,米,教育六年,16,トウ,7CD6,sugar; candy; sweets
+系,糸,教育六年,7,ケイ,7CFB,system; line， link， connection
+紅,糸,教育六年,9,ク、コウ、くれない、べに,7D05,red， vermillion; blush， flush
+納,糸,教育六年,10,トウ、ナ、ナッ、ナン、ノウ、おさ･まる、おさ･める,7D0D,admit， take， receive， accept
+純,糸,教育六年,10,ジュン,7D14,pure， clean， simple
+絹,糸,教育六年,13,ケン、きぬ,7D79,kind of thick stiff silk
+縦,糸,教育六年,16,ジュウ、たて,7E26,indulge in， give free reign to
+縮,糸,教育六年,17,シュク、ちぢ･まる、ちぢ･む、ちぢ･める、ちぢ･らす、ちぢ･れる,7E2E,contract， draw in， reduce
+署,网,教育六年,13,ショ,7F72,public office
+翌,羽,教育六年,11,ヨク,7FCC,bright; daybreak， dawn; the next day
+聖,耳,教育六年,13,セイ,8056,holy， sacred; sage
+肺,肉,教育六年,9,ハイ,80BA,lungs
+背,肉,教育六年,9,ハイ、せ、せい、そむ･く、そむ･ける,80CC,back; back side; behind; betray
+胸,肉,教育六年,10,キョウ、むな、むね,80F8,breast， bosom， chest; thorax
+脳,肉,教育六年,11,ノウ,8133,brain
+腹,肉,教育六年,13,フク、はら,8179,stomach， belly， abdomen; inside
+臓,肉,教育六年,19,ゾウ,81D3,internal organs， viscera
+臨,臣,教育六年,18,リン、のぞ･む,81E8,draw near， approach; descend
+至,至,教育六年,6,シ、いた･る,81F3,reach， arrive; extremely， very
+若,艸,教育六年,8,ジャク、ニャク、も･しくは、わか･い,82E5,if， supposing， assuming; similar
+著,艸,教育六年,11,チョ、あらわ･す、いちじる･しい,8457,manifest; (Cant.) to wear
+蒸,艸,教育六年,13,ジョウ、む･す、む･らす、む･れる,84B8,steam; evaporate
+蔵,艸,教育六年,15,ゾウ、くら,8535,hide， conceal; hoard， store up
+蚕,虫,教育六年,10,サン、かいこ,8695,silkworms
+衆,血,教育六年,12,シュ、シュウ,8846,multitude， crowd; masses， public
+裁,衣,教育六年,12,サイ、さば･く、た･つ,88C1,cut out; decrease
+装,衣,教育六年,12,ショウ、ソウ、よそお･う,88C5,dress， clothes， attire; fill
+裏,衣,教育六年,13,リ、うら,88CF,inside， interior， within
+補,衣,教育六年,12,ホ、おぎな･う,88DC,mend， patch， fix， repair， restore
+視,見,教育六年,11,シ,8996,look at， inspect， observe， see
+覧,見,教育六年,17,ラン,89A7,look at， inspect; perceive
+討,言,教育六年,10,トウ、う･つ,8A0E,to discuss; ask for， beg; demand; dun; marry
+訪,言,教育六年,11,ホウ、おとず･れる、たず･ねる,8A2A,visit; ask， inquire
+訳,言,教育六年,11,ヤク、わけ,8A33,translate; decode; encode
+詞,言,教育六年,12,シ,8A5E,words; phrase， expression
+誌,言,教育六年,14,シ,8A8C,write down; record; magazine
+認,言,教育六年,14,ニン、みと･める,8A8D,recognize， know， understand
+誕,言,教育六年,15,タン,8A95,to bear children， give birth; birth
+誠,言,教育六年,13,セイ、まこと,8AA0,sincere， honest; true， real
+誤,言,教育六年,14,ゴ、あやま･る,8AA4,err， make mistake; interfere
+論,言,教育六年,15,ロン,8AD6,debate; discuss; discourse
+諸,言,教育六年,15,ショ,8AF8,several， various
+警,言,教育六年,19,ケイ,8B66,guard， watch; alert， alarm
+貴,貝,教育六年,12,キ、たっと･い、たっと･ぶ、とうと･い、とうと･ぶ,8CB4,expensive， costly， valuable
+賃,貝,教育六年,13,チン,8CC3,rent， hire; hired person
+遺,辵,教育六年,15,イ、ユイ,907A,lose; articles lost; omit
+郵,邑,教育六年,11,ユウ,90F5,postal， mail; post office
+郷,邑,教育六年,11,キョウ、ゴウ,90F7,country; rural; village
+針,金,教育六年,10,シン、はり,91DD,needle; pin; tack; acupuncture
+鋼,金,教育六年,16,コウ、はがね,92FC,steel; hard， strong， tough
+閉,門,教育六年,11,ヘイ、し･まる、し･める、と･ざす、と･じる,9589,shut， close; obstruct， block up
+閣,門,教育六年,14,カク,95A3,chamber， pavilion; cabinet
+降,阜,教育六年,10,コウ、お･りる、お･ろす、ふ･る,964D,descend， fall， drop; lower， down
+陛,阜,教育六年,10,ヘイ,965B,steps leading throne; throne
+除,阜,教育六年,10,ジ、ジョ、のぞ･く,9664,eliminate， remove， except
+障,阜,教育六年,14,ショウ、さわ･る,969C,separate; shield; barricade
+難,隹,教育六年,18,ナン、かた･い、むずか･しい,96E3,difficult， arduous， hard; unable
+革,革,教育六年,9,カク、かわ,9769,leather， animal hides; rad. 177
+頂,頁,教育六年,11,チョウ、いただき、いただ･く,9802,top， peak; carry on head; very
+骨,骨,教育六年,10,コツ、ほね,9AA8,bone; skeleton; frame， framework
+丈,一,常用,3,ジョウ、たけ,4E08,unit of length equal 3.3 meters; gentleman， man， husband
+与,一,常用,3,ヨ、あた･える,4E0E,and; with; to; for; give， grant
+且,一,常用,5,か･つ,4E14,moreover， also (post-subject); about to， will soon (pre-verb)
+丘,一,常用,5,キュウ、おか,4E18,hill; elder; empty; a name
+丙,一,常用,5,ヘイ,4E19,third; 3rd heavenly stem
+串,丨,常用＊,7,くし,4E32,string; relatives; conspire
+丹,丶,常用,4,タン,4E39,cinnabar (native HgS); vermilion (artificial HgS used as pigment)
+丼,丶,常用＊,5,どん、どんぶり,4E3C,bowl of food; well
+乏,丿,常用,4,ボウ、とぼ･しい,4E4F,lack; poor
+乙,乙,常用,1,オツ,4E59,second; 2nd heavenly stem
+乞,乙,常用＊,3,こ･う,4E5E,beg; request
+乾,乙,常用,11,カン、かわ･かす、かわ･く,4E7E,dry; first hexagram; warming principle of the sun， penetrating and fertilizing， heavenly generative principle (male)
+亀,龜,常用＊,11,キ、かめ,4E80,turtle or tortoise; cuckold
+了,亅,常用,2,リョウ,4E86,to finish; particle of completed action
+互,二,常用,4,ゴ、たが･い,4E92,mutually， reciprocally
+井,二,常用,4,ショウ、セイ、い,4E95,well， mine shaft， pit
+亜,二,常用,7,ア,4E9C,Asia; second
+享,亠,常用,8,キョウ,4EAB,enjoy
+亭,亠,常用,9,テイ,4EAD,pavilion; erect
+介,人,常用,4,カイ,4ECB,forerunner， herald， harbinger; to lie between; sea shell; to wear armor
+仙,人,常用,5,セン,4ED9,Taoist super-being， transcendent， immortal
+仰,人,常用,6,ギョウ、コウ、あお･ぐ、おお･せ,4EF0,raise the head to look; look up to， rely on， admire
+企,人,常用,6,キ、くわだ･てる,4F01,plan a project; stand on tiptoe
+伎,人,常用＊,6,キ,4F0E,talent， skill， ability
+伏,人,常用,6,フク、ふ･す、ふ･せる,4F0F,crouch， crawl， lie hidden， conceal
+伐,人,常用,6,バツ,4F10,cut down， subjugate， attack
+伯,人,常用,7,ハク,4F2F,older brother; father's elder brother; senior male 'sire'; feudal rank 'count'
+伴,人,常用,7,ハン、バン、ともな･う,4F34,companion， comrade， partner; accompany
+伸,人,常用,7,シン、の･ばす、の･びる、の･べる,4F38,extend， stretch out， open up; trust
+伺,人,常用,7,シ、うかが･う,4F3A,serve， wait upon， attend; examine
+但,人,常用,7,ただ･し,4F46,only; but， however， yet， still
+佐,人,常用,7,サ,4F50,assist， aid， second; subordinate
+佳,人,常用,8,カ,4F73,good， auspicious; beautiful; delightful
+併,人,常用,8,ヘイ、あわ･せる,4F75,combine， annex
+侍,人,常用,8,ジ、さむらい,4F8D,serve， attend upon; attendant， servant; samurai
+依,人,常用,8,イ、エ,4F9D,rely on， be set in; consent， obey a wish
+侮,人,常用,8,ブ、あなど･る,4FAE,insult， ridicule， disgrace
+侯,人,常用,9,コウ,4FAF,marquis， lord; target in archery
+侵,人,常用,9,シン、おか･す,4FB5,invade， encroach upon， raid
+侶,人,常用＊,9,リョ,4FB6,companion; associate with
+促,人,常用,9,ソク、うなが･す,4FC3,urge， press， hurry; close
+俊,人,常用,9,シュン,4FCA,talented， capable; handsome
+俗,人,常用,9,ゾク,4FD7,social customs; vulgar， unrefined
+俸,人,常用,10,ホウ,4FF8,wages， salary， official emolument
+俺,人,常用＊,10,おれ,4FFA,personal pronoun， I
+倒,人,常用,10,トウ、たお･す、たお･れる,5012,fall over; lie down; take turns
+倣,人,常用,10,ホウ、なら･う,5023,imitate
+倫,人,常用,10,リン,502B,normal human relationships
+倹,人,常用,10,ケン,5039,temperate， frugal， economical
+偉,人,常用,12,イ、えら･い,5049,great， robust; extraordinary
+偏,人,常用,11,ヘン、かたよ･る,504F,inclined one side; slanting
+偵,人,常用,11,テイ,5075,spy， reconnoiter; detective
+偶,人,常用,11,グウ,5076,accidentally， coincidently; an idol
+偽,人,常用,11,ギ、いつわ･る、にせ,507D,false， counterfeit， bogus
+傍,人,常用,12,ボウ、かたわ･ら,508D,by side of， beside， near， close
+傑,人,常用,13,ケツ,5091,hero; outstanding， remarkable
+傘,人,常用,12,サン、かさ,5098,umbrella， parasol， parachute
+催,人,常用,13,サイ、もよお･す,50AC,press， urge
+傲,人,常用＊,13,ゴウ,50B2,proud， haughty， overbearing
+債,人,常用,13,サイ,50B5,debt， loan， liabilities
+傾,人,常用,13,ケイ、かたむ･く、かたむ･ける,50BE,upset， pour out， overflow
+僅,人,常用＊,12,キン、わず･か,50C5,only， merely， solely， just
+僕,人,常用,14,ボク,50D5,slave， servant， I
+僚,人,常用,14,リョウ,50DA,companion， colleague; officials; bureaucracy; a pretty face
+僧,人,常用,13,ソウ,50E7,Buddhist priest， monk; san of Sanskrit sangha
+儀,人,常用,15,ギ,5100,ceremony， rites gifts; admire
+儒,人,常用,16,ジュ,5112,Confucian scholar
+償,人,常用,17,ショウ、つぐな･う,511F,repay， recompense; restitution
+充,儿,常用,6,ジュウ、あ･てる,5145,fill， be full， supply
+克,儿,常用,7,コク,514B,gram; overcome; transliteration
+免,儿,常用,8,メン、まぬか･れる,514D,spare; excuse from; evade
+兼,八,常用,10,ケン、か･ねる,517C,unite， combine; connect; and
+冒,目,常用,9,ボウ、おか･す,5192,risk， brave， dare
+冗,冖,常用,4,ジョウ,5197,excessive; superfluous
+冠,冖,常用,9,カン、かんむり,51A0,cap， crown， headgear
+冥,冖,常用＊,10,ミョウ、メイ,51A5,dark， gloomy， night; deep
+冶,冫,常用＊,7,ヤ,51B6,smelt， fuse metals; cast， found
+凄,冫,常用＊,10,セイ,51C4,bitter cold， miserable， dreary
+准,冫,常用,10,ジュン,51C6,approve， allow， permit; in accord
+凍,冫,常用,10,トウ、こお･る、こご･える,51CD,freeze; cold， congeal; jelly
+凝,冫,常用,16,ギョウ、こ･らす、こ･る,51DD,coagulate; congeal; freeze
+凡,几,常用,3,ハン、ボン,51E1,all， any， every; ordinary， common
+凶,凵,常用,4,キョウ,51F6,culprit; murder; bad， sad
+凸,凵,常用,5,トツ,51F8,protrude， bulge out， convex
+凹,凵,常用,5,オウ,51F9,concave， hollow， depressed; a pass， valley
+刃,刀,常用,3,ジン、は,5203,edged tool， cutlery， knife edge
+刈,刀,常用,4,か･る,5208,cut off， reap， mow; sickle
+刑,刀,常用,6,ケイ,5211,punishment， penalty; law
+到,刀,常用,8,トウ,5230,go to， arrive， been to
+刹,刀,常用＊,8,サツ、セツ,5239,temple， shrine， monastary
+刺,刀,常用,8,シ、さ･さる、さ･す,523A,stab; prick， irritate; prod
+削,刀,常用,9,サク、けず･る,524A,scrape off， pare， trim
+剖,刀,常用,10,ボウ,5256,split in two， slice; dissect
+剛,刀,常用,10,ゴウ,525B,hard， tough， rigid， strong
+剣,刀,常用,10,ケン、つるぎ,5263,sword， dagger， saber
+剤,刀,常用,10,ザイ,5264,medicinal preparation
+剥,刀,常用＊,10,ハク、は･がす、は･がれる、は･ぐ、は･げる,5265,peel
+剰,刀,常用,11,ジョウ,5270,leftovers， residue， remains
+劣,力,常用,6,レツ、おと･る,52A3,bad， inferior; slightly
+励,力,常用,7,レイ、はげ･ます、はげ･む,52B1,strive; encourage
+劾,力,常用,8,ガイ,52BE,examine into， impeach， charge
+勃,力,常用＊,9,ボツ,52C3,suddenly， sudden， quick
+勅,力,常用,9,チョク,52C5,imperial decree; daoist magic
+勘,力,常用,11,カン,52D8,investigate; compare; collate
+募,力,常用,12,ボ、つの･る,52DF,levy， raise; summon; recruit
+勧,力,常用,13,カン、すす･める,52E7,recommend， advise， urge
+勲,力,常用,15,クン,52F2,meritorious deed; merits; rank
+勾,勹,常用＊,4,コウ,52FE,hook， join， connect; entice
+匂,勹,常用＊,4,にお･う,5302,fragrance， smell
+匠,匚,常用,6,ショウ,5320,craftsman， artisan; workman
+匹,匸,常用,4,ヒツ、ひき,5339,bolt of cloth; counter for horses
+匿,匸,常用,10,トク,533F,hide; go into hiding
+升,十,常用,4,ショウ、ます,5347,arise， go up; hoist; advance
+卑,十,常用,9,ヒ、いや･しい、いや･しむ、いや･しめる,5351,humble， low， inferior; despise
+卓,十,常用,8,タク,5353,profound， brilliant， lofty
+占,卜,常用,5,セン、うらな･う、し･める,5360,divine; observe; versify
+即,卩,常用,7,ソク,5373,promptly， quickly， immediately
+却,卩,常用,7,キャク,5374,still， but; decline; retreat
+卸,卩,常用,9,おろし、おろ･す,5378,lay down; retire from office
+厄,厂,常用,4,ヤク,5384,adversity， difficulty， distress
+厘,厂,常用,9,リン,5398,thousandth part of tael
+又,又,常用,2,また,53C8,and， also， again， in addition
+及,丿,常用,3,キュウ、およ･び、およ･ぶ、およ･ぼす,53CA,extend; reach; come up to; and
+双,又,常用,4,ソウ、ふた,53CC,set of two， pair， couple; both
+叔,又,常用,8,シュク,53D4,father's younger brother
+叙,又,常用,9,ジョ,53D9,express， state， relate， narrate
+叫,口,常用,6,キョウ、さけ･ぶ,53EB,cry， shout; hail， greet， call
+召,口,常用,5,ショウ、め･す,53EC,imperial decree; summon
+叱,口,常用＊,5,シツ、しか･る,53F1,scold， shout at， bawl out
+吉,口,常用,6,キチ、キツ,5409,lucky， propitious， good
+吏,口,常用,6,リ,540F,government official， magistrate
+吐,口,常用,6,ト、は･く,5410,vomit， spew out， cough up
+吟,口,常用,7,ギン,541F,sing， hum; recite; type of poetry
+含,口,常用,7,ガン、ふく･む、ふく･める,542B,hold in mouth; cherish; contain
+吹,口,常用,7,スイ、ふ･く,5439,blow; puff; brag， boast
+呂,口,常用＊,7,ロ,5442,surname; a musical note
+呈,口,常用,7,テイ,5448,submit， show; appear; petition
+呉,口,常用,7,ゴ,5449,one of warring states; surname
+呪,口,常用＊,7,ジュ、のろ･う,546A,curse， damn， incantation
+咲,口,常用,9,さ･く,54B2,smile， laugh， giggle; snicker
+咽,口,常用＊,9,イン,54BD,throat; pharynx
+哀,口,常用,9,アイ、あわ･れ、あわ･れむ,54C0,sad， mournful， pitiful; pity
+哲,口,常用,10,テツ,54F2,wise， sagacious; wise man， sage
+哺,口,常用＊,10,ホ,54FA,chew food; feed
+唄,口,常用＊,10,うた,5504,final particle of assertion pathaka
+唆,口,常用,10,サ、そそのか･す,5506,make mischief， incite， instigate
+唇,口,常用,10,シン、くちびる,5507,lips
+唐,口,常用,10,トウ、から,5510,Tang dynasty; Chinese
+唯,口,常用,11,イ、ユイ,552F,only; yes
+唾,口,常用＊,11,ダ、つば,553E,spit， spit on; saliva
+啓,口,常用,11,ケイ,5553,open; begin， commence; explain
+喉,口,常用＊,12,コウ、のど,5589,throat， gullet， larynx; guttural
+喚,口,常用,12,カン,559A,call， summon; invite; be called
+喝,口,常用,11,カツ,559D,drink; shout， call out
+喩,口,常用＊,12,ユ,55A9,metaphor
+喪,口,常用,12,ソウ、も,55AA,mourning; mourn; funeral
+喫,口,常用,12,キツ,55AB,eat; drink; suffer， endure， bear
+嗅,口,常用＊,13,キュウ、か･ぐ,55C5,smell， scent， sniff; olfactive
+嗣,口,常用,13,シ,55E3,to connect， inherit; descendants， heirs
+嘆,口,常用,13,タン、なげ･かわしい、なげ･く,5606,sigh， admire
+嘱,口,常用,15,ショク,5631,order， tell， instruct， leave word
+嘲,口,常用＊,15,チョウ、あざ･ける,5632,ridicule， deride， scorn， jeer at
+噴,口,常用,15,フン、ふ･く,5674,spurt， blow out， puff out
+嚇,口,常用,17,カク,5687,scare， frighten; intimidate
+囚,囗,常用,5,シュウ,56DA,prisoner， convict; confine
+圏,囗,常用,12,ケン,570F,to circle; a circle; corral
+坊,土,常用,7,ボウ、ボッ,574A,neighborhood， urban subdivision; (J) priest's residence; (Buddhist) priest; boy
+坑,土,常用,7,コウ,5751,pit， hole; bury， trap; harry
+坪,土,常用,8,つぼ,576A,level ground; Japanese measure
+垣,土,常用,9,かき,57A3,low wall
+埋,土,常用,10,マイ、う･まる、う･める、う･もれる,57CB,bury， secrete， conceal
+執,土,常用,11,シツ、シュウ、と･る,57F7,hold in hand; keep; carry out
+培,土,常用,11,バイ、つちか･う,57F9,bank up with dirt; cultivate
+埼,土,常用＊,11,さい,57FC,headland
+堀,土,常用,11,ほり,5800,cave， hole
+堅,土,常用,12,ケン、かた･い,5805,hard， strong， firm; resolute
+堆,土,常用＊,11,タイ,5806,heap， pile， crowd; pile up
+堕,土,常用,12,ダ,5815,fall， sink， let fall; degenerate
+堤,土,常用,12,テイ、つつみ,5824,dike
+堪,土,常用,12,カン、た･える,582A,adequately capable of， worthy of
+塀,土,常用,12,ヘイ,5840,wall， fence
+塁,土,常用,12,ルイ,5841,rampart， military wall
+塊,土,常用,13,カイ、かたまり,584A,piece， lump; dollar
+塑,土,常用,13,ソ,5851,model in clay， sculpt; plastics
+塔,土,常用,12,トウ,5854,tower， spire， tall building
+塗,土,常用,13,ト、ぬ･る,5857,smear， daub， apply， spread; paint
+塚,土,常用,12,つか,585A,cemetery; tomb， burial mound
+塞,土,常用＊,13,サイ、ソク、ふさ･がる、ふさ･ぐ,585E,stop up， block， seal， cork; pass， frontier; fortress
+填,土,常用＊,13,テン,586B,fill in， fill up; make good
+塾,土,常用,14,ジュク,587E,village school; private tutorage
+墜,土,常用,15,ツイ,589C,fall down， drop， sink， go to ruin
+墨,土,常用,14,ボク、すみ,58A8,ink; writing
+墳,土,常用,15,フン,58B3,grave， mound; bulge; bulging
+墾,土,常用,16,コン,58BE,cultivate， reclaim， to farm land
+壁,土,常用,16,ヘキ、かべ,58C1,partition wall; walls of a house
+壇,土,常用,16,タン、ダン,58C7,altar; arena， examination hall
+壊,土,常用,16,カイ、こわ･す、こわ･れる,58CA,bad， spoil(ed)， ruin， destroy
+壌,土,常用,16,ジョウ,58CC,soil， loam， earth; rich
+壮,士,常用,6,ソウ,58EE,big， large; robust; name of tribe
+壱,士,常用,7,イチ,58F1,number one
+奇,大,常用,8,キ,5947,strange， unusual， uncanny， occult
+奈,大,常用＊,8,ナ,5948,but， how; bear， stand， endure
+奉,大,常用,8,ブ、ホウ、たてまつ･る,5949,offer; receive; serve; respect
+契,大,常用,9,ケイ、ちぎ･る,5951,deed， contract， bond; engrave
+奔,大,常用,8,ホン,5954,run fast， flee; rush about; run
+奥,大,常用,12,オウ、おく,5965,mysterious， obscure， profound
+奨,大,常用,13,ショウ,5968,prize， reward; give award to
+奪,大,常用,14,ダツ、うば･う,596A,take by force， rob， snatch
+奴,女,常用,5,ド,5974,slave， servant
+如,女,常用,6,ジョ、ニョ,5982,if， supposing; as if; like， as
+妃,女,常用,6,ヒ,5983,wife， spouse; imperial concubine
+妄,女,常用,6,ボウ、モウ,5984,absurd， foolish， reckless; false
+妊,女,常用,7,ニン,598A,conceive， be pregnant
+妖,女,常用＊,7,ヨウ、あや･しい,5996,strange， weird， supernatural
+妙,女,常用,7,ミョウ,5999,mysterious， subtle; exquisite
+妥,女,常用,7,ダ,59A5,satisfactory， appropriate
+妨,女,常用,7,ボウ、さまた･げる,59A8,interfere with， impede， obstruct
+妬,女,常用＊,8,ト、ねた･む,59AC,jealous， envious
+姓,女,常用,8,ショウ、セイ,59D3,one's family name; clan， people
+姫,女,常用,10,ひめ,59EB,beauty; imperial concubine
+姻,女,常用,9,イン,59FB,relatives by marriage
+威,女,常用,9,イ,5A01,pomp， power; powerful; dominate
+娘,女,常用,10,むすめ,5A18,mother; young girl; woman; wife
+娠,女,常用,10,シン,5A20,pregnant
+娯,女,常用,10,ゴ,5A2F,pleasure， enjoyment， amusement
+婆,女,常用,11,バ,5A46,old woman; grandmother
+婚,女,常用,11,コン,5A5A,get married; marriage， wedding
+婿,女,常用,12,セイ、むこ,5A7F,son-in-law; husband
+媒,女,常用,12,バイ,5A92,go-between， matchmaker; medium
+媛,女,常用＊,12,エン,5A9B,beauty， beautiful woman
+嫁,女,常用,13,カ、とつ･ぐ、よめ,5AC1,to marry， give a daughter in marriage
+嫉,女,常用＊,13,シツ,5AC9,jealousy; be jealous of
+嫌,女,常用,13,ケン、ゲン、いや、きら･う,5ACC,hate， detest; suspect; criticize
+嫡,女,常用,14,チャク,5AE1,legal wife， child of legal wife
+嬢,女,常用,16,ジョウ,5B22,troubled， oppressed; fat; mother
+孔,子,常用,4,コウ,5B54,opening， hole， orifice; great
+孤,子,常用,9,コ,5B64,orphan， fatherless; solitary
+宛,宀,常用＊,8,あ･てる,5B9B,seem， as if， crooked
+宜,宀,常用,8,ギ,5B9C,suitable， right， fitting， proper
+宰,宀,常用,10,サイ,5BB0,to slaughter; to rule
+宴,宀,常用,10,エン,5BB4,to entertain， feast; a feast， banquet
+宵,宀,常用,10,ショウ、よい,5BB5,night， evening， dark
+寂,宀,常用,11,ジャク、セキ、さび、さび･しい、さび･れる,5BC2,still， silent， quiet， desolate
+寛,宀,常用,13,カン,5BDB,broad
+寝,宀,常用,13,シン、ね･かす、ね･る,5BDD,sleep， rest; bed chamber
+寡,宀,常用,14,カ,5BE1,widowed; alone， friendless
+寧,宀,常用,14,ネイ,5BE7,repose， serenity， peace; peaceful
+審,宀,常用,15,シン,5BE9,examine， investigate; judge
+寮,宀,常用,15,リョウ,5BEE,shanty， hut， shack
+寿,寸,常用,7,ジュ、ことぶき,5BFF,old age， long life; lifespan
+封,寸,常用,9,フウ、ホウ,5C01,letter， envelope; feudal
+尉,寸,常用,11,イ,5C09,officer， military rank
+尋,寸,常用,12,ジン、たず･ねる,5C0B,seek， search， look for; ancient
+尚,小,常用,8,ショウ,5C1A,still， yet; even; fairly， rather
+尻,尸,常用＊,5,しり,5C3B,end of spine; buttocks， sacrum
+尼,尸,常用,5,ニ、あま,5C3C,Buddhist nun; transliteration
+尽,尸,常用,6,ジン、つ･かす、つ･きる、つ･くす,5C3D,exhaust， use up; deplete
+尾,尸,常用,7,ビ、お,5C3E,tail， extremity; end， stern
+尿,尸,常用,7,ニョウ,5C3F,urine; urinate
+屈,尸,常用,8,クツ,5C48,bend， flex; bent， crooked; crouch
+履,尸,常用,15,リ、は･く,5C65,footwear， shoes; walk on， tread
+屯,屮,常用,4,トン,5C6F,village， hamlet; camp; station
+岐,山,常用,7,キ,5C90,high; majestic; fork in road
+岡,山,常用＊,8,おか,5CA1,ridge or crest of hill
+岬,山,常用,8,みさき,5CAC,cape; promontory， headland
+岳,山,常用,8,ガク、たけ,5CB3,mountain peak; surname
+峠,山,常用,9,とうげ,5CE0,mountain pass; crisis， climax
+峡,山,常用,9,キョウ,5CE1,gorge， strait， ravine; isthmus
+峰,山,常用,10,ホウ、みね,5CF0,peak， summit; hump of camel
+崇,山,常用,11,スウ,5D07,esteem， honor， revere， venerate
+崎,山,常用,11,さき,5D0E,rough， uneven， jagged， rugged
+崖,山,常用＊,11,ガイ、がけ,5D16,cliff， precipice; precipitous
+崩,山,常用,11,ホウ、くず･す、くず･れる,5D29,rupture， split apart， collapse
+嵐,山,常用＊,12,あらし,5D50,mountain mist， mountain haze
+巡,巛,常用,6,ジュン、めぐ･る,5DE1,patrol， go on circuit， cruise
+巧,工,常用,5,コウ、たく･み,5DE7,skillful， ingenious， clever
+巨,工,常用,5,キョ,5DE8,large， great， enormous; chief
+巾,巾,常用＊,3,キン,5DFE,kerchief; towel; turban; KangXi radical number 50
+帆,巾,常用,6,ハン、ほ,5E06,sail; boat
+帝,巾,常用,9,テイ,5E1D,supreme ruler， emperor; god
+帥,巾,常用,9,スイ,5E25,commander， commander-in-chief
+帽,巾,常用,12,ボウ,5E3D,hat， cap; cap-like tops
+幅,巾,常用,12,フク、はば,5E45,piece， strip， breadth of， hem
+幣,巾,常用,15,ヘイ,5E63,currency， coins， legal tender
+幻,幺,常用,4,ゲン、まぼろし,5E7B,illusion， fantasy， mirage
+幽,幺,常用,9,ユウ,5E7D,quiet， secluded， tranquil; dark
+幾,幺,常用,12,キ、いく,5E7E,how many? how much?; a few， some
+床,广,常用,7,ショウ、とこ、ゆか,5E8A,bed， couch; framework， chassis
+庶,广,常用,11,ショ,5EB6,numerous， various; multitude
+庸,广,常用,11,ヨウ,5EB8,usual， common， ordinary， mediocre
+廃,广,常用,12,ハイ、すた･る、すた･れる,5EC3,abrogate， terminate， discard
+廉,广,常用,13,レン,5EC9,upright， honorable， honest
+廊,广,常用,12,ロウ,5ECA,corridor， porch， veranda
+廷,廴,常用,7,テイ,5EF7,court
+弄,廾,常用＊,7,ロウ、もてあそ･ぶ,5F04,do， play or fiddle with; alley
+弊,廾,常用,15,ヘイ,5F0A,evil， wrong， bad; criminal
+弐,弋,常用,6,ニ,5F10,number two
+弔,弓,常用,4,チョウ、とむら･う,5F14,condole， mourn， pity; hang
+弥,弓,常用＊,8,や,5F25,extensive， full; fill; complete
+弦,弓,常用,8,ゲン、つる,5F26,string; hypotenuse， crescent
+弧,弓,常用,9,コ,5F27,wooden bow; arc， crescent
+弾,弓,常用,12,ダン、たま、はず･む、ひ･く,5F3E,variant of 彈 U+5F48， a pellet， bullet， shot， shell
+彙,彑,常用＊,13,イ,5F59,collect， compile， assemble; hedgehog
+彩,彡,常用,11,サイ、いろど･る,5F69,hue， color; variegated colors
+彫,彡,常用,11,チョウ、ほ･る,5F6B,carve， decorate; emaciated
+彰,彡,常用,14,ショウ,5F70,clear， manifest， obvious
+影,彡,常用,15,エイ、かげ,5F71,shadow; image， reflection; photograph
+彼,彳,常用,8,ヒ、かの、かれ,5F7C,that， there， those
+征,彳,常用,8,セイ,5F81,invade， attack， conquer
+徐,彳,常用,10,ジョ,5F90,slowly， quietly， calmly; composed， dignified
+御,彳,常用,12,ギョ、ゴ、おん,5FA1,drive， ride; chariot; manage
+循,彳,常用,12,ジュン,5FAA,obey， comply with， follow
+微,彳,常用,13,ビ,5FAE,small， prefix micro-， trifling
+徴,彳,常用,14,チョウ,5FB4,summon
+徹,彳,常用,15,テツ,5FB9,penetrate， pervade; penetrating
+忌,心,常用,7,キ、い･まわしい、い･む,5FCC,jealous， envious; fear
+忍,心,常用,7,ニン、しの･ばせる、しの･ぶ,5FCD,endure， bear， suffer; forbear
+忙,心,常用,6,ボウ、いそが･しい,5FD9,busy， pressed for time; hustling
+怒,心,常用,9,ド、いか･る、おこ･る,6012,anger， rage， passion; angry
+怖,心,常用,8,フ、こわ･い,6016,terror， fear; frighten; terrified
+怠,心,常用,9,タイ、おこた･る、なま･ける,6020,idle， remiss， negligent; neglect
+怨,心,常用＊,8,エン、オン,6028,hatred， enmity， resentment
+怪,心,常用,8,カイ、あや･しい、あや･しむ,602A,strange， unusual， peculiar
+恋,心,常用,10,レン、こい、こい･しい、こ･う,604B,love; long for， yearn for; love
+恐,心,常用,10,キョウ、おそ･れる、おそ･ろしい,6050,fear; fearful， apprehensive
+恒,心,常用,9,コウ,6052,constant， regular， persistent
+恣,心,常用＊,10,シ,6063,indulge oneself， unrestrained
+恥,心,常用,10,チ、はじ、は･じらう、は･じる、は･ずかしい,6065,shame， humiliation; ashamed
+恨,心,常用,9,コン、うら･む、うら･めしい,6068,hatred， dislike; resent， hate
+恭,心,常用,10,キョウ、うやうや･しい,606D,respectful， polite， reverent
+恵,心,常用,10,エ、ケイ、めぐ･む,6075,favor， benefit， confer kindness
+悔,心,常用,9,カイ、くや･しい、く･いる、く･やむ,6094,repent， show remorse， regret
+悟,心,常用,10,ゴ、さと･る,609F,to apprehend， realize， become aware
+悠,心,常用,11,ユウ,60A0,long， far， remote， distant; liesurely
+患,心,常用,11,カン、わずら･う,60A3,suffer， worry about; suffering
+悦,心,常用,10,エツ,60A6,pleased， contented， gratified
+悩,心,常用,10,ノウ、なや･ます、なや･む,60A9,angered， filled with hate
+悼,心,常用,11,トウ、いた･む,60BC,grieve， mourn， lament; grieved
+惑,心,常用,12,ワク、まど･う,60D1,confuse， mislead， baffle; doubt
+惜,心,常用,11,セキ、お･しい、お･しむ,60DC,pity， regret， rue， begrudge
+惧,心,常用＊,11,グ,60E7,fear， be afraid of， dread
+惨,心,常用,11,サン、ザン、みじ･め,60E8,sad， pitiful， wretched; cruel
+惰,心,常用,12,ダ,60F0,indolent， careless， lazy， idle
+愁,心,常用,13,シュウ、うれ･い、うれ･える,6101,anxiety; to worry about， be anxious
+愉,心,常用,12,ユ,6109,pleasant， delightful; please
+愚,心,常用,13,グ、おろ･か,611A,stupid， doltish， foolish
+慄,心,常用＊,12,リツ,6144,shiver， shudder， tremble; tremble
+慈,心,常用,13,ジ、いつく･しむ,6148,kind， charitable， benevolent
+慌,心,常用,12,コウ、あわ･ただしい、あわ･てる,614C,nervous， panicky， frantic
+慎,心,常用,13,シン、つつし･む,614E,act with care， be cautious
+慕,心,常用,14,ボ、した･う,6155,long for， desire; admire
+慢,心,常用,14,マン,6162,slow(ly)， leisurely， sluggish
+慨,心,常用,13,ガイ,6168,sigh， regret; generous
+慮,心,常用,15,リョ,616E,be concerned， worry about
+慰,心,常用,15,イ、なぐさ･む、なぐさ･める,6170,comfort， console， calm
+慶,心,常用,15,ケイ,6176,congratulate， celebrate
+憂,心,常用,15,ユウ、うれ･い、うれ･える、う･い,6182,sad， grieved; grief， melancholy
+憎,心,常用,14,ゾウ、にく･い、にく･しみ、にく･む、にく･らしい,618E,hate， detest， abhor; hatred
+憤,心,常用,15,フン、いきどお･る,61A4,resent， hate; indignant
+憧,心,常用＊,15,ショウ、あこが･れる,61A7,irresolute， indecisive; yearn for
+憩,心,常用,16,ケイ、いこ･い、いこ･う,61A9,rest， take rest
+憬,心,常用＊,15,ケイ,61AC,rouse， awaken; become conscious
+憶,心,常用,16,オク,61B6,remember， reflect upon; memory
+憾,心,常用,16,カン,61BE,to regret， remorse; dissatisfied
+懇,心,常用,17,コン、ねんご･ろ,61C7,sincere， earnest， cordial
+懐,心,常用,16,カイ、なつ･かしい、なつ･かしむ、なつ･く、なつ･ける、ふところ,61D0,bosom， breast; carry in bosom
+懲,心,常用,18,チョウ、こ･らしめる、こ･らす、こ･りる,61F2,punish， reprimand; warn
+懸,心,常用,20,ケ、ケン、か･かる、か･ける,61F8,hang， suspend， hoist; be hung
+戒,戈,常用,7,カイ、いまし･める,6212,warn， caution， admonish
+戚,戈,常用＊,11,セキ,621A,relative; be related to; sad
+戯,戈,常用,15,ギ、たわむ･れる,622F,theatrical play， show
+戴,戈,常用＊,17,タイ,6234,wear on top; support
+戻,戸,常用,7,レイ、もど･す、もど･る,623B,perverse
+房,戸,常用,8,ボウ、ふさ,623F,house， building; room
+扇,戸,常用,10,セン、おうぎ,6247,fan; door panel
+扉,戸,常用,12,ヒ、とびら,6249,door panel
+払,手,常用,5,フツ、はら･う,6255,shake off， brush away; dust
+扱,手,常用,6,あつか･う,6271,collect， draw in， gather; receive
+扶,手,常用,7,フ,6276,support， help; protect; hold on
+抄,手,常用,7,ショウ,6284,copy， confiscate， seize
+把,手,常用,7,ハ,628A,hold， take; guard; regard as
+抑,手,常用,7,ヨク、おさ･える,6291,press down， repress; curb， hinder
+抗,手,常用,7,コウ,6297,resist， oppose， defy， reject
+抜,手,常用,7,バツ、ぬ･かす、ぬ･かる、ぬ･く、ぬ･ける,629C,uproot， pull out
+択,手,常用,7,タク,629E,select， choose， pick out
+披,手,常用,8,ヒ,62AB,wear; split; crack
+抱,手,常用,8,ホウ、いだ･く、かか･える、だ･く,62B1,embrace， hold in arms， enfold
+抵,手,常用,8,テイ,62B5,resist， oppose; deny; off-set
+抹,手,常用,8,マツ,62B9,smear， apply， wipe off， erase
+押,手,常用,8,オウ、お･さえる、お･す,62BC,mortgage， pledge; deposit; to pawn; to arrest， detain， guard
+抽,手,常用,8,チュウ,62BD,draw out， pull out; sprout
+拉,手,常用＊,8,ラ,62C9,pull， drag; seize， hold; lengthen
+拍,手,常用,8,ハク、ヒョウ,62CD,clap， tap， beat; beat or rhythm
+拐,手,常用,8,カイ,62D0,kidnap， abduct; turn
+拒,手,常用,8,キョ、こば･む,62D2,ward off with hand， defend
+拓,手,常用,8,タク,62D3,expand; open up; support or push
+拘,手,常用,8,コウ,62D8,restrain， seize， detain
+拙,手,常用,8,セツ、つたな･い,62D9,stupid， clumsy， crude; convention
+拠,手,常用,8,キョ、コ,62E0,to occupy， take possession of; a base， position
+括,手,常用,9,カツ,62EC,include， embrace， enclose
+拭,手,常用＊,9,ショク、ぬぐ･う、ふ･く,62ED,wipe away stains with cloth
+拳,手,常用＊,10,ケン、こぶし,62F3,fist; various forms of boxing
+拶,手,常用＊,9,サツ,62F6,press， squeeze hard; force
+拷,手,常用,9,ゴウ,62F7,torture and interrogate; hit
+挑,手,常用,9,チョウ、いど･む,6311,a load carried on the shoulders; to carry
+挟,手,常用,9,キョウ、はさ･まる、はさ･む,631F,clasp under arm; hold to bosom
+挨,手,常用＊,10,アイ,6328,near， close by， next to， towards， against; to wait; to lean on
+挫,手,常用＊,10,ザ,632B,push down; chop down; grind
+振,手,常用,10,シン、ふ･る、ふ･るう、ふ･れる,632F,raise， excite， arouse action
+挿,手,常用,10,ソウ、さ･す,633F,insert， stick into; plant
+捉,手,常用＊,10,ソク、とら･える,6349,grasp， clutch; catch， seize
+捕,手,常用,10,ホ、つか･まえる、つか･まる、と･らえる、と･らわれる、と･る,6355,arrest， catch， seize
+捗,手,常用＊,10,チョク,6357,make progress
+捜,手,常用,10,ソウ、さが･す,635C,search， seek; investigate
+据,手,常用,11,す･える、す･わる,636E,to occupy， take possession of; a base， position
+捻,手,常用＊,11,ネン,637B,to twist or nip with the fingers
+掃,手,常用,11,ソウ、は･く,6383,sweep， clear away; exterminate
+掌,手,常用,12,ショウ,638C,palm of hand， sole of foot， paw
+排,手,常用,11,ハイ,6392,row， rank， line
+掘,手,常用,11,クツ、ほ･る,6398,dig， excavate; excavate cave
+掛,手,常用,11,かかり、か･かる、か･ける,639B,hang， suspend; suspense
+控,手,常用,11,コウ、ひか･える,63A7,accuse， charge; control
+措,手,常用,11,ソ,63AA,place; collect， arrange; employ
+掲,手,常用,11,ケイ、かか･げる,63B2,to set (a table); to install， equip; to lay (a foundation)
+描,手,常用,11,ビョウ、えが･く、か･く,63CF,copy， trace， sketch; depict
+揚,手,常用,12,ヨウ、あ･がる、あ･げる,63DA,scatter， spread; praise
+換,手,常用,12,カン、か･える、か･わる,63DB,change， exchange; substitute
+握,手,常用,12,アク、にぎ･る,63E1,grasp， hold fast， take by hand
+援,手,常用,12,エン,63F4,aid， assist; lead; cite
+揺,手,常用,12,ヨウ、ゆ･さぶる、ゆ･すぶる、ゆ･する、ゆ･らぐ、ゆ･る、ゆ･るぐ、ゆ･れる,63FA,wag， swing， wave; shake; scull
+搬,手,常用,13,ハン,642C,transfer， move， remove， shift
+搭,手,常用,12,トウ,642D,join together， attach to; add to
+携,手,常用,13,ケイ、たずさ･える、たずさ･わる,643A,lead by hand， take with; carry
+搾,手,常用,13,サク、しぼ･る,643E,to crush with the hand， press， squeeze， extract
+摂,手,常用,13,セツ,6442,take in， absorb; act as deputy
+摘,手,常用,14,テキ、つ･む,6458,pluck， pick; select; specify
+摩,手,常用,15,マ,6469,rub， scour， grind; friction
+摯,手,常用＊,15,シ,646F,sincere， warm， cordial; surname
+撃,手,常用,15,ゲキ、う･つ,6483,strike， hit， beat; attack， fight
+撤,手,常用,15,テツ,64A4,omit; remove; withdraw
+撮,手,常用,15,サツ、と･る,64AE,little bit， small amount， pinch
+撲,手,常用,15,ボク,64B2,pound， beat， strike; attack
+擁,手,常用,16,ヨウ,64C1,embrace， hug， squeeze; crowd
+擦,手,常用,17,サツ、す･る、す･れる,64E6,wipe， scrub， rub， scour; brush
+擬,手,常用,17,ギ,64EC,draft; intend， plan， propose
+攻,攴,常用,7,コウ、せ･める,653B,attack， assault; criticize
+敏,攴,常用,10,ビン,654F,fast， quick， clever， smart
+敢,攴,常用,12,カン,6562,to dare， venture; bold， brave
+敷,攴,常用,15,フ、し･く,6577,spread， diffuse; apply， paint
+斉,齊,常用,8,セイ,6589,even， uniform， of equal length
+斎,齊,常用,11,サイ,658E,vegetarian diet; study
+斑,文,常用＊,12,ハン,6591,mottled， striped， freckle
+斗,斗,常用,4,ト,6597,Chinese peck; liquid measure
+斜,斗,常用,11,シャ、なな･め,659C,slanting， sloping， inclined
+斤,斤,常用,4,キン,65A4,a catty (approximately 500 g); an axe; keen， shrewd; KangXi radical number 69
+斥,斤,常用,5,セキ,65A5,to scold， upbraid， accuse， reproach
+斬,斤,常用＊,11,ザン、き･る,65AC,cut， chop， sever; behead
+施,方,常用,9,シ、セ、ほどこ･す,65BD,grant， bestow; give; act; name
+旋,方,常用,11,セン,65CB,revolve， move in orbit; return
+既,无,常用,10,キ、すで･に,65E2,already; de facto; since; then
+旦,日,常用＊,5,タン、ダン,65E6,dawn; morning; day
+旨,日,常用,6,シ、むね,65E8,purpose， aim; excellent
+旬,日,常用,6,シュン、ジュン,65EC,ten-day period; period of time
+旺,日,常用＊,8,オウ,65FA,prosper; prosperous; increase
+昆,日,常用,8,コン,6606,elder brother; descendants
+昇,日,常用,8,ショウ、のぼ･る,6607,rise， ascent; peaceful; peace
+昧,日,常用＊,9,マイ,6627,obscure， dark; darken
+是,日,常用,9,ゼ,662F,indeed， yes， right; to be; demonstrative pronoun， this， that
+普,日,常用,12,フ,666E,universal， general， widespread
+晶,日,常用,12,ショウ,6676,crystal; clear， bright; radiant
+暁,日,常用,12,ギョウ、あかつき,6681,dawn， daybreak; clear， explicit
+暇,日,常用,13,カ、ひま,6687,leisure， relaxation， spare time
+暦,日,常用,14,レキ、こよみ,66A6,calendar， era
+暫,日,常用,15,ザン,66AB,temporary
+曇,日,常用,16,ドン、くも･る,66C7,become cloudy， overcast
+曖,日,常用＊,17,アイ,66D6,obscure， dim， ambiguous， vague
+更,曰,常用,7,コウ、さら、ふ･かす、ふ･ける,66F4,more， still further， much more
+曹,曰,常用,11,ソウ,66F9,ministry officials; surname
+曽,曰,常用＊,11,ソウ、ゾ,66FD,already; sign of past
+替,曰,常用,12,タイ、か･える、か･わる,66FF,change， replace， substitute for
+朕,月,常用,10,チン,6715,pronoun 'I'
+朱,木,常用,6,シュ,6731,cinnabar， vermilion; surname
+朴,木,常用,6,ボク,6734,simple， unadorned; sincere; surname; a tree
+朽,木,常用,6,キュウ、く･ちる,673D,decayed， rotten; rot， decay
+杉,木,常用,7,すぎ,6749,various species of pine and fir
+杯,木,常用,8,ハイ、さかずき,676F,cup， glass
+析,木,常用,8,セキ,6790,split wood; break apart; divide
+枕,木,常用＊,8,まくら,6795,pillow
+枠,木,常用,8,わく,67A0,a frame; a reel， spindle， spool
+枢,木,常用,8,スウ,67A2,door hinge; pivot; center of power
+枯,木,常用,9,コ、か･らす、か･れる,67AF,dried out， withered， decayed
+架,木,常用,9,カ、か･かる、か･ける,67B6,rack， stand， prop; prop up
+柄,木,常用,9,ヘイ、え、がら,67C4,handle， lever， knob; authority
+某,木,常用,9,ボウ,67D0,certain thing or person
+柔,木,常用,9,ジュウ、ニュウ、やわ･らか、やわ･らかい,67D4,soft; gentle， pliant
+柳,木,常用,9,リュウ、やなぎ,67F3,willow tree; pleasure
+柵,木,常用＊,9,サク,67F5,fence; palisade; grid
+柿,木,常用＊,9,かき,67FF,persimmon
+栃,木,常用＊,9,とち,6803,type of oak; stable
+栓,木,常用,10,セン,6813,wooden peg， post or stick
+核,木,常用,10,カク,6838,seed， kernel， core， nut; atom
+栽,木,常用,10,サイ,683D,to cultivate， plant; to care for plants
+桁,木,常用＊,10,けた,6841,cross-beams of roof
+桃,木,常用,10,トウ、もも,6843,peach; marriage; surname
+桑,木,常用,10,ソウ、くわ,6851,mulberry tree; surname
+桟,木,常用,10,サン,685F,a crosspiece， cleat， frame， door bolt; shelf
+梗,木,常用＊,11,コウ,6897,stem of flower， branch of plant
+梨,木,常用＊,11,なし,68A8,pear; opera; cut， slash
+棄,木,常用,13,キ,68C4,reject， abandon， discard
+棋,木,常用,12,キ,68CB,chess; any game similar to chess
+棚,木,常用,12,たな,68DA,tent， awning; booth; shed
+棟,木,常用,12,トウ、むな、むね,68DF,the main beams supporting a house
+棺,木,常用,12,カン,68FA,coffin
+椅,木,常用＊,12,イ,6905,chair， seat
+椎,木,常用＊,12,ツイ,690E,hammer， mallet; vertebra
+楷,木,常用＊,13,カイ,6977,model style of Chinese writing
+楼,木,常用,13,ロウ,697C,building of two or more stories
+概,木,常用,14,ガイ,6982,generally， approximately
+槽,木,常用,15,ソウ,69FD,trough; manger; vat， tank; groove; a distillery
+欄,木,常用,20,ラン,6B04,railing， balustrade; animal pan
+欧,欠,常用,8,オウ,6B27,translit.: Europe; ohm; surname
+欺,欠,常用,12,ギ、あざむ･く,6B3A,cheat， double-cross， deceive
+款,欠,常用,12,カン,6B3E,item， article; clause; fund
+歓,欠,常用,15,カン,6B53,happy， pleased， glad; joy; enjoy
+歳,止,常用,13,サイ、セイ,6B73,year; age; harvest
+殉,歹,常用,10,ジュン,6B89,die for cause， be martyr for
+殊,歹,常用,10,シュ、こと,6B8A,different， special， unusual
+殖,歹,常用,12,ショク、ふ･える、ふ･やす,6B96,breed， spawn; increase; prosper
+殴,殳,常用,8,オウ、なぐ･る,6BB4,beat， fight with fists， hit
+殻,殳,常用,11,カク、から,6BBB,casing， shell， husk， hull， skin
+殿,殳,常用,13,テン、デン、との、どの,6BBF,hall; palace; temple
+毀,殳,常用＊,13,キ,6BC0,destroy， ruin， injure; slander
+氾,水,常用＊,5,ハン,6C3E,overflow， flood， inundate
+汁,水,常用,5,ジュウ、しる,6C41,juice， liquor， fluid， sap， gravy， sauce
+汎,水,常用＊,6,ハン,6C4E,float， drift; afloat; careless
+汗,水,常用,6,カン、あせ,6C57,perspiration， sweat
+汚,水,常用,6,オ、きたな･い、けが･す、けが･らわしい、けが･れる、よご･す、よご･れる,6C5A,filthy， dirty， impure， polluted
+江,水,常用,6,コウ、え,6C5F,large river; yangzi; surname
+汰,水,常用＊,7,タ,6C70,excessive; scour， wash out
+沃,水,常用＊,7,ヨク,6C83,water， irrigate; fertile， rich
+沈,水,常用,7,チン、しず･む、しず･める,6C88,sink， submerge; addicted to; surname
+沖,水,常用,7,チュウ、おき,6C96,pour， infuse， steep; wash away
+沙,水,常用＊,7,サ,6C99,sand， gravel， pebbles; granulated
+没,水,常用,7,ボツ,6CA1,not， have not， none; drown， sink
+沢,水,常用,7,タク、さわ,6CA2,marsh， swamp; grace， brilliance
+沸,水,常用,8,フツ、わ･かす、わ･く,6CB8,boil， bubble up， gush
+沼,水,常用,8,ショウ、ぬま,6CBC,lake， fishpond， swamps
+況,水,常用,8,キョウ,6CC1,condition， situation; furthermore
+泊,水,常用,8,ハク、と･まる、と･める,6CCA,anchor vessel; lie at anchor
+泌,水,常用,8,ヒ、ヒツ,6CCC,to seep out， excrete
+泡,水,常用,8,ホウ、あわ,6CE1,bubbles， suds; blister; soak
+泥,水,常用,8,デイ、どろ,6CE5,mud， mire; earth， clay; plaster
+泰,水,常用,10,タイ,6CF0,great， exalted， superior; big
+洞,水,常用,9,ドウ、ほら,6D1E,cave， grotto; ravine; hole
+津,水,常用,9,シン、つ,6D25,ferry; saliva; ford
+洪,水,常用,9,コウ,6D2A,vast， immense; flood， deluge
+浄,水,常用,9,ジョウ,6D44,pure， clean， unspoiled
+浜,水,常用,10,ヒン、はま,6D5C,creek， stream; beach， sea coast
+浦,水,常用,10,うら,6D66,bank of river， shore; surname
+浪,水,常用,10,ロウ,6D6A,wave; wasteful， reckless
+浮,水,常用,10,フ、う･かぶ、う･かべる、う･かれる、う･く,6D6E,to float， drift， waft; to exceed; superfluous
+浸,水,常用,10,シン、ひた･す、ひた･る,6D78,soak， immerse， dip， percolate
+涙,水,常用,10,ルイ、なみだ,6D99,tears; weep
+涯,水,常用,11,ガイ,6DAF,shore， bank， water's edge
+涼,水,常用,11,リョウ、すず･しい、すず･む,6DBC,cool， cold; disheartened
+淑,水,常用,11,シュク,6DD1,good， pure， virtuous， charming
+淡,水,常用,11,タン、あわ･い,6DE1,weak， watery; insipid， tasteless
+淫,水,常用＊,11,イン、みだ･ら,6DEB,obscene， licentious， lewd
+添,水,常用,11,テン、そ･う、そ･える,6DFB,append， add to; increase
+渇,水,常用,11,カツ、かわ･く,6E07,thirsty
+渉,水,常用,11,ショウ,6E09,ford stream
+渋,水,常用,11,ジュウ、しぶ、しぶ･い、しぶ･る,6E0B,astringent; harsh; uneven， rough
+渓,水,常用,11,ケイ,6E13,mountain stream， creek
+渡,水,常用,12,ト、わた･す、わた･る,6E21,cross， ferry over; ferry
+渦,水,常用,12,カ、うず,6E26,swirl， whirlpool， eddy
+湧,水,常用＊,12,ユウ、わ・く,6E67,well up; gush forth; rise
+湾,水,常用,12,ワン,6E7E,bay， cove， inlet， bend of stream
+湿,水,常用,12,シツ、しめ･す、しめ･る,6E7F,wet， moist， humid， damp; illness
+溝,水,常用,13,コウ、みぞ,6E9D,ditch， drain， narrow waterway
+溶,水,常用,13,ヨウ、と･かす、と･く、と･ける,6EB6,to melt， dissolve; overflowing with
+溺,水,常用＊,13,デキ、おぼ･れる,6EBA,drown; submerge in water; indulge
+滅,水,常用,13,メツ、ほろ･びる、ほろ･ぼす,6EC5,extinguish; wipe out， exterminate
+滋,水,常用,12,ジ,6ECB,grow， multiply， increase; thrive
+滑,水,常用,13,カツ、コツ、すべ･る、なめ･らか,6ED1,slip， slide; slippery， polished
+滝,水,常用,13,たき,6EDD,onomatopoeic for the sound of falling rain; an ancient name for Wu Shui; a place in Guangdong
+滞,水,常用,13,タイ、とどこお･る,6EDE,block up， obstruct; stagnant
+滴,水,常用,14,テキ、しずく、したた･る,6EF4,drip; drop of water
+漂,水,常用,14,ヒョウ、ただよ･う,6F02,float， drift; tossed about
+漆,水,常用,14,シツ、うるし,6F06,varnish， lacquer， paint
+漏,水,常用,14,ロウ、も･らす、も･る、も･れる,6F0F,leak， drip; funnel; hour glass
+漠,水,常用,13,バク,6F20,desert; aloof， indifferent， cool
+漫,水,常用,14,マン,6F2B,overflow of water; spreading
+漬,水,常用,14,つ･かる、つ･ける,6F2C,soak， steep; dye; stains; sodden
+漸,水,常用,14,ゼン,6F38,gradually
+潜,水,常用,15,セン、ひそ･む、もぐ･る,6F5C,hide; hidden， secret， latent
+潟,水,常用,15,かた,6F5F,land impregnated with salt from the tide
+潤,水,常用,15,ジュン、うるお･う、うるお･す、うる･む,6F64,soft， moist; sleek; freshen
+潰,水,常用＊,15,カイ、つぶ･す、つぶ･れる,6F70,flooding river; militarily defeat
+澄,水,常用,15,チョウ、す･ます、す･む,6F84,purify water by allowing sediment to settle; clear， pure
+濁,水,常用,16,ダク、にご･す、にご･る,6FC1,muddy， turbid， dirty， filthy
+濃,水,常用,16,ノウ、こ･い,6FC3,thick， strong， concentrated
+濫,水,常用,18,ラン,6FEB,flood， overflow; excessive
+濯,水,常用,17,タク,6FEF,wash out， rinse; cleanse
+瀬,水,常用,19,せ,702C,swift current; rapids
+炉,火,常用,8,ロ,7089,fireplace， stove， oven， furnace
+炊,火,常用,8,スイ、た･く,708A,cook; meal
+炎,火,常用,8,エン、ほのお,708E,flame， blaze; hot
+為,火,常用,9,イ,70BA,do， handle， govern， act; be
+烈,火,常用,10,レツ,70C8,fiery， violent， vehement， ardent
+焦,火,常用,12,ショウ、あせ･る、こ･がす、こ･がれる、こ･げる,7126,burned， scorched; anxious， vexed
+煎,火,常用＊,13,セン、い･る,714E,fry in fat or oil; boil in water
+煙,火,常用,13,エン、けむり、けむ･い、けむ･る,7159,smoke， soot; opium; tobacco， cigarettes
+煩,火,常用,13,ハン、ボン、わずら･う、わずら･わす,7169,bother， vex， trouble; troublesome
+煮,火,常用,12,シャ、に･える、に･やす、に･る,716E,cook
+熊,火,常用＊,14,くま,718A,a bear; brilliant; bright; surname
+燥,火,常用,17,ソウ,71E5,dry， parched， arid; quick-tempered
+爆,火,常用,19,バク,7206,crackle， pop， burst， explode
+爪,爪,常用＊,4,つま、つめ,722A,claw， nail， talon; animal feet
+爵,爪,常用,17,シャク,7235,feudal title or rank
+爽,爻,常用＊,11,ソウ、さわ･やか,723D,happy， cheerful; refreshing
+牙,牙,常用＊,5,ガ、ゲ、きば,7259,tooth， molars， teeth; serrated
+牲,牛,常用,9,セイ,7272,sacrificial animal; animal
+犠,牛,常用,17,ギ,72A0,sacrifice， give up; sacrificial
+狂,犬,常用,7,キョウ、くる･う、くる･おしい,72C2,insane， mad; violent; wild
+狙,犬,常用＊,8,ソ、ねら･う,72D9,an ape， monkey; to spy， watch for; to lie
+狩,犬,常用,9,シュ、か･り、か･る,72E9,winter hunting; imperial tour
+狭,犬,常用,9,キョウ、せば･まる、せば･める、せま･い,72ED,narrow， limited; narrow-minded
+猛,犬,常用,11,モウ,731B,violent， savage， cruel; bold
+猟,犬,常用,11,リョウ,731F,hunt; field sports
+猫,犬,常用,11,ビョウ、ねこ,732B,cat
+献,犬,常用,13,ケン、コン,732E,offer， present; show， display
+猶,犬,常用,12,ユウ,7336,like， similar to， just like， as
+猿,犬,常用,13,エン、さる,733F,ape
+獄,犬,常用,14,ゴク,7344,prison， jail; case; lawsuit
+獣,犬,常用,16,ジュウ、けもの,7363,beast， animal; bestial
+獲,犬,常用,16,カク、え･る,7372,obtain， get， receive; seize
+玄,玄,常用,5,ゲン,7384,deep， profound， abstruse; KangXi radical 95
+玩,玉,常用＊,8,ガン,73A9,play with， joke， enjoy
+珍,玉,常用,9,チン、めずら･しい,73CD,precious， valuable， rare
+珠,玉,常用,10,シュ,73E0,precious stone， gem， jewel， pearl
+琴,玉,常用,12,キン、こと,7434,Chinese lute or guitar
+瑠,玉,常用＊,14,ル,7460,precious stone
+璃,玉,常用＊,15,リ,7483,glass
+璧,玉,常用＊,18,ヘキ,74A7,piece of jade with hole in it
+環,玉,常用,17,カン,74B0,jade ring or bracelet; ring
+璽,玉,常用,19,ジ,74BD,imperial signet， royal signet
+瓦,瓦,常用＊,5,ガ、かわら,74E6,tile; earthenware pottery; girl
+瓶,瓦,常用,11,ビン,74F6,jug， pitcher， vase， jar， bottle
+甘,甘,常用,5,カン、あま･い、あま･える、あま･やかす,7518,sweetness; sweet， tasty
+甚,甘,常用,9,ジン、はなは･だ、はなは･だしい,751A,great extent; considerably
+甲,田,常用,5,カン、コウ,7532,armor， shell; fingernails; 1st heavenly stem
+畏,田,常用＊,9,イ、おそ･れる,754F,fear， dread， awe， reverence
+畔,田,常用,10,ハン,7554,boundary path dividing fields
+畜,田,常用,10,チク,755C,livestock， domestic animals
+畝,田,常用,10,うね,755D,Chinese land measure; fields
+畳,田,常用,12,ジョウ、たたみ、たた･む,7573,repeat， duplicate; repetitious
+畿,田,常用＊,15,キ,757F,imperial domain; area near capital
+疎,疋,常用,12,ソ、うと･い、うと･む,758E,neglect; careless， lax
+疫,疒,常用,9,エキ、ヤク,75AB,epidemic， plague， pestilence
+疲,疒,常用,10,ヒ、つか･れる,75B2,feel tired， be exhausted; weak
+疾,疒,常用,10,シツ,75BE,illness， disease， sickness; to hate
+症,疒,常用,10,ショウ,75C7,disease， illness， ailment
+痕,疒,常用＊,11,コン、あと,75D5,scar; mark; trace
+痘,疒,常用,12,トウ,75D8,smallpox
+痢,疒,常用,12,リ,75E2,dysentery
+痩,疒,常用＊,12,ソウ、や･せる,75E9,thin， emaciated， lean; meager
+痴,疒,常用,13,チ,75F4,foolish， stupid， dumb， silly
+瘍,疒,常用＊,14,ヨウ,760D,ulcers， sores; infection
+療,疒,常用,17,リョウ,7642,be healed， cured， recover
+癒,疒,常用,18,ユ、い･える、い･やす,7652,get well， recover
+癖,疒,常用,18,ヘキ、くせ,7656,craving， weakness for; indigestion
+皆,白,常用,9,カイ、みな,7686,all， every， everybody
+盆,皿,常用,9,ボン,76C6,basin， tub， pot， bowl
+盗,皿,常用,11,トウ、ぬす･む,76D7,rob， steal; thief， bandit
+監,皿,常用,15,カン,76E3,supervise， control， direct
+盤,皿,常用,15,バン,76E4,tray， plate， dish; examine
+盲,目,常用,8,モウ,76F2,blind; unperceptive， shortsighted
+盾,目,常用,9,ジュン、たて,76FE,shield; dutch guilder; Indonesia
+眉,目,常用＊,9,ビ、ミ、まゆ,7709,eyebrows; upper margin of book
+眠,目,常用,10,ミン、ねむ･い、ねむ･る,7720,close eyes， sleep; hibernate
+眺,目,常用,11,チョウ、なが･める,773A,look at， gaze at， scan， survey
+睡,目,常用,13,スイ,7761,sleep， doze
+督,目,常用,13,トク,7763,supervise， oversee， direct
+睦,目,常用＊,13,ボク,7766,friendly， amiable， peaceful
+瞬,目,常用,18,シュン、またた･く,77AC,wink， blink; in a wink， a flash
+瞭,目,常用＊,17,リョウ,77AD,bright， clear; clear-sighted
+瞳,目,常用＊,17,ドウ、ひとみ,77B3,pupil of eye
+矛,矛,常用,5,ム、ほこ,77DB,spear， lance; KangXi radical 110
+矯,矢,常用,17,キョウ、た･める,77EF,correct， rectify， straighten out
+砕,石,常用,9,サイ、くだ･く、くだ･ける,7815,break， smash; broken， busted
+砲,石,常用,10,ホウ,7832,gun， cannon
+硝,石,常用,12,ショウ,785D,saltpeter， niter; to tan
+硫,石,常用,12,リュウ,786B,sulfur
+硬,石,常用,12,コウ、かた･い,786C,hard， firm， strong; obstinate
+碁,石,常用,13,ゴ,7881,chess; any game similar to chess
+碑,石,常用,14,ヒ,7891,stone tablet; gravestone
+磨,石,常用,16,マ、みが･く,78E8,grind; polish; rub; wear out; a millstone
+礁,石,常用,17,ショウ,7901,reef; jetty; submerged rocks
+礎,石,常用,18,ソ、いしずえ,790E,foundation stone， plinth
+祈,示,常用,8,キ、いの･る,7948,pray; entreat， beseech
+祉,示,常用,8,シ,7949,happiness， blessings， good luck
+祥,示,常用,10,ショウ,7965,good luck， good omen; happiness
+禅,示,常用,13,ゼン,7985,meditation， contemplation (DKW: 24787')
+禍,示,常用,13,カ,798D,misfortune， calamity， disaster
+秀,禾,常用,7,シュウ、ひい･でる,79C0,ear of grain; flowering， luxuriant; refined， elegant， graceful
+租,禾,常用,10,ソ,79DF,rent， lease; rental; tax
+秩,禾,常用,10,チツ,79E9,order; orderly; salary; decade
+称,禾,常用,10,ショウ,79F0,call; name， brand; address; say
+稚,禾,常用,13,チ,7A1A,young， immature; childhood
+稲,禾,常用,14,トウ、いな、いね,7A32,rice growing in field， rice plant
+稼,禾,常用,15,カ、かせ･ぐ,7A3C,sow grain; sheaves of grain
+稽,禾,常用＊,15,ケイ,7A3D,examine， investigate; delay
+稿,禾,常用,15,コウ,7A3F,draft， manuscript， rough copy
+穂,禾,常用,15,スイ、ほ,7A42,ear of grain; tassel; Guangzhou
+穏,禾,常用,16,オン、おだ･やか,7A4F,calm， quiet， peace; moderation
+穫,禾,常用,18,カク,7A6B,harvest， cut grain
+突,穴,常用,8,トツ、つ･く,7A81,suddenly， abruptly， unexpectedly
+窃,穴,常用,9,セツ,7A83,secretly， stealthily; steal; thief
+窒,穴,常用,11,チツ,7A92,stop up， obstruct
+窟,穴,常用＊,13,クツ,7A9F,hole， cave; cellar; underground
+窮,穴,常用,15,キュウ、きわ･まる、きわ･める,7AAE,poor， destitute， impoverished
+窯,穴,常用,15,ヨウ、かま,7AAF,kiln; coal mine pit
+竜,龍,常用,10,リュウ,7ADC,dragon; symbolic of emperor
+端,立,常用,14,タン、は、はし、はた,7AEF,end， extreme; head; beginning
+符,竹,常用,11,フ,7B26,i.d. tag， tally， symbol， charm
+筒,竹,常用,12,トウ、つつ,7B52,thick piece of bamboo; pipe
+箇,竹,常用,14,カ,7B87,numerary adjunct， piece; single
+箋,竹,常用＊,14,セン,7B8B,note， memo; stationery; comments
+箸,竹,常用＊,14,はし,7BB8,chopsticks
+範,竹,常用,15,ハン,7BC4,pattern， model， rule， law
+篤,竹,常用,16,トク,7BE4,deep， true， sincere， genuine
+簿,竹,常用,19,ボ,7C3F,register， account book， notebook
+籍,竹,常用,20,セキ,7C4D,record， register， list; census
+籠,竹,常用＊,22,ロウ、かご、こ・もる,7C60,cage; cage-like basket
+粋,米,常用,10,スイ、いき,7C8B,pure; unadulterated; select
+粒,米,常用,11,リュウ、つぶ,7C92,grain; small particle
+粗,米,常用,11,ソ、あら･い,7C97,rough， thick， course; rude
+粘,米,常用,11,ネン、ねば･る,7C98,viscous， mucous; glutinous
+粛,聿,常用,11,シュク,7C9B,pay respects; reverently
+粧,米,常用,12,ショウ,7CA7,toilet; make-up; dress up; adorn
+糧,米,常用,18,リョウ、ロウ、かて,7CE7,food， grain， provisions
+糾,糸,常用,9,キュウ,7CFE,investigate， inspect
+紋,糸,常用,10,モン,7D0B,line， streak， stripe; wrinkle
+紛,糸,常用,10,フン、まぎ･らす、まぎ･らわしい、まぎ･らわす、まぎ･れる,7D1B,in disorder， scattered， tangled
+紡,糸,常用,10,ボウ、つむ･ぐ,7D21,spin， reel， weave; reeled pongee
+索,糸,常用,10,サク,7D22,large rope， cable; rules， laws; to demand， to exact; to search， inquire; isolated
+紫,糸,常用,12,シ、むらさき,7D2B,purple， violet; amethyst; surname
+累,糸,常用,11,ルイ,7D2F,tired; implicate， involve; bother
+紳,糸,常用,11,シン,7D33,girdle; tie， bind; gentry
+紹,糸,常用,11,ショウ,7D39,continue， carry on; hand down; to join
+紺,糸,常用,11,コン,7D3A,dark blue or reddish color
+絞,糸,常用,12,コウ、しぼ･る、し･まる、し･める,7D5E,twist， wring; intertwine; winch
+絡,糸,常用,12,ラク、から･まる、から･む、から･める,7D61,enmesh， wrap around; web， net
+継,糸,常用,13,ケイ、つ･ぐ,7D99,continue， maintain， carry on
+維,糸,常用,14,イ,7DAD,maintain， preserve， safeguard
+綱,糸,常用,14,コウ、つな,7DB1,heavy rope， hawser; main points
+網,糸,常用,14,モウ、あみ,7DB2,net， web; network
+綻,糸,常用＊,14,タン、ほころ･びる,7DBB,ripped seam， rend， crack
+緊,糸,常用,15,キン,7DCA,tense， tight， taut; firm， secure
+緒,糸,常用,14,ショ、チョ、お,7DD2,end of thread; thread
+締,糸,常用,15,テイ、し･まる、し･める,7DE0,tie， join， connect; connection
+緩,糸,常用,15,カン、ゆる･い、ゆる･む、ゆる･める、ゆる･やか,7DE9,slow， leisurely; to postpone， delay
+緯,糸,常用,16,イ,7DEF,woof; parallels of latitude
+緻,糸,常用＊,15,チ,7DFB,delicate， fine; dense
+縁,糸,常用,15,エン、ふち,7E01,hem
+縄,糸,常用,15,ジョウ、なわ,7E04,rope， string， cord; control
+縛,糸,常用,16,バク、しば･る,7E1B,to tie
+縫,糸,常用,16,ホウ、ぬ･う,7E2B,sew， mend
+繁,糸,常用,16,ハン,7E41,complicated， complex， difficult
+繊,糸,常用,17,セン,7E4A,fine， delicate; minute; graceful
+繕,糸,常用,18,ゼン、つくろ･う,7E55,repair， mend; rewrite， transcribe
+繭,糸,常用,18,ケン、まゆ,7E6D,cocoon; callus， blister
+繰,糸,常用,19,く･る,7E70,to reel silk from cocoons
+缶,缶,常用,6,カン,7F36,earthen crock or jar; rad. 121
+罰,网,常用,14,バチ、バツ,7F70,penalty， fine; punish， penalize
+罵,网,常用＊,15,バ、ののし･る,7F75,accuse， blame， curse， scold
+罷,网,常用,15,ヒ,7F77,cease， finish， stop; give up
+羅,网,常用,19,ラ,7F85,net for catching birds; gauze
+羞,羊,常用＊,11,シュウ,7F9E,disgrace， shame; ashamed; shy
+羨,羊,常用＊,13,セン、うらや･ましい、うらや･む,7FA8,envy， admire; praise; covet
+翁,羽,常用,10,オウ,7FC1,old man; father， father-in-law
+翻,羽,常用,18,ホン、ひるがえ･す、ひるがえ･る,7FFB,flip over， upset， capsize
+翼,羽,常用,17,ヨク、つばさ,7FFC,wings; fins on fish; shelter
+耐,而,常用,9,タイ、た･える,8010,endure， bear; resist; patient
+耗,耒,常用,10,コウ、モウ,8017,consume， use up; waste， squander
+聴,耳,常用,17,チョウ、き･く,8074,hear， listen; understand; obey
+肌,肉,常用,6,はだ,808C,muscle tissue; meat on bones
+肖,肉,常用,7,ショウ,8096,look like， resemble， be like
+肘,肉,常用＊,7,ひじ,8098,the elbow; help a person shoulder a load
+肝,肉,常用,7,カン、きも,809D,liver
+股,肉,常用＊,8,コ、また,80A1,thighs， haunches， rump; share
+肢,肉,常用,8,シ,80A2,human limbs; animal feet
+肩,肉,常用,8,ケン、かた,80A9,shoulders; to shoulder; bear
+肪,肉,常用,8,ボウ,80AA,animal fat
+肯,肉,常用,8,コウ,80AF,willing; consent to， permit
+胆,肉,常用,9,タン,80C6,gall bladder; bravery， courage
+胎,肉,常用,9,タイ,80CE,unborn child， embryo， fetus
+胞,肉,常用,9,ホウ,80DE,womb， placenta， fetal membrane
+胴,肉,常用,10,ドウ,80F4,the large intestine; the body
+脂,肉,常用,10,シ、あぶら,8102,fat， grease， lard; grease
+脅,肉,常用,10,キョウ、おど･かす、おど･す、おびや･かす,8105,ribs; armpits; flank; threaten
+脇,肉,常用＊,10,わき,8107,ribs， armpits; flank; threaten
+脊,肉,常用＊,10,セキ,810A,spine， backbone; ridge
+脚,肉,常用,11,キャ、キャク、あし,811A,leg， foot; base， leg， foundation
+脱,肉,常用,11,ダツ、ぬ･ぐ、ぬ･げる,8131,take off
+腎,肉,常用＊,13,ジン,814E,kidneys; testes， gizzard
+腐,肉,常用,14,フ、くさ･らす、くさ･る、くさ･れる,8150,rot， decay， spoil; rotten
+腕,肉,常用,12,ワン、うで,8155,wrist
+腫,肉,常用＊,13,シュ、は･らす、は･れる,816B,swell; swollen; swelling
+腰,肉,常用,13,ヨウ、こし,8170,waist; kidney
+腺,肉,常用＊,13,セン,817A,gland
+膚,肉,常用,15,フ,819A,skin; superficial， shallow
+膜,肉,常用,14,マク,819C,membrane; to kneel and worship
+膝,肉,常用＊,15,ひざ,819D,knee
+膨,肉,常用,16,ボウ、ふく･らむ、ふく･れる,81A8,to swell; swollen， bloated， inflated
+膳,肉,常用＊,16,ゼン,81B3,meals， provisions， board
+臆,肉,常用＊,17,オク,81C6,chest， breast， bosom; thought
+臭,自,常用,9,シュウ、くさ･い、にお･う,81ED,smell， stink， emit foul odor
+致,至,常用,10,チ、いた･す,81F4,send， deliver， present; cause
+臼,臼,常用＊,6,キュウ、うす,81FC,mortar; bone joint socket
+舗,舌,常用,15,ホ,8217,store， shop
+舞,舛,常用,15,ブ、まい、ま･う,821E,dance， posture， prance; brandish
+舟,舟,常用,6,シュウ、ふな、ふね,821F,boat， ship; KangXi radical 137
+般,舟,常用,10,ハン,822C,sort， manner， kind， category
+舶,舟,常用,11,ハク,8236,large， ocean-going vessel
+舷,舟,常用＊,11,ゲン,8237,the sides of a boat， bulwarks; a gunwale
+艇,舟,常用,13,テイ,8247,small boat， dugout， punt
+艦,舟,常用,21,カン,8266,warship
+艶,色,常用＊,19,エン、つや,8276,beautiful， sexy， voluptuous
+芋,艸,常用,6,いも,828B,taro
+芝,艸,常用,6,しば,829D,sesame; a purplish or brown mushroom thought to have miraculous powers; 'a divine and relicitous plant' (Karlgren)
+芯,艸,常用＊,7,シン,82AF,pith from rush (juncus effusus)
+芳,艸,常用,7,ホウ、かんば･しい,82B3,fragrant; virtuous; beautiful
+苗,艸,常用,8,ビョウ、なえ、なわ,82D7,sprouts; Miao nationality
+苛,艸,常用＊,8,カ,82DB,small， petty; harsh， rigorous
+茂,艸,常用,8,モ、しげ･る,8302,thick， lush， dense; talented
+茎,艸,常用,8,ケイ、くき,830E,stem， stalk
+茨,艸,常用＊,9,いばら,8328,thatching; caltrop， Tribulus terrestris
+荒,艸,常用,9,コウ、あら･い、あ･らす、あ･れる,8352,wasteland， desert; uncultivated
+荘,艸,常用,9,ソウ,8358,village， hamlet; villa; surname
+菊,艸,常用,11,キク,83CA,chrysanthemum
+菌,艸,常用,11,キン,83CC,mushroom; germ， microbe
+菓,艸,常用,11,カ,83D3,fruits， nuts， berries
+華,艸,常用,10,カ、ケ、はな,83EF,flowery; illustrious; Chinese
+萎,艸,常用＊,11,イ、な･える,840E,wither， wilt
+葛,艸,常用＊,11,カツ、くず,845B,edible bean; surname
+葬,艸,常用,12,ソウ、ほうむ･る,846C,bury， inter
+蓄,艸,常用,13,チク、たくわ･える,84C4,store， save， hoard， gather
+蓋,艸,常用＊,13,ガイ、ふた,84CB,cover， hide， protect
+蔑,艸,常用＊,14,ベツ、さげす･む,8511,disdain， disregard; slight
+蔽,艸,常用＊,15,ヘイ,853D,cover， hide， conceal; shelter
+薄,艸,常用,16,ハク、うす･い、うす･まる、うす･める、うす･らぐ、うす･れる,8584,thin， slight， weak; poor， stingy
+薦,艸,常用,16,セン、すす･める,85A6,offer， present; recommend
+薪,艸,常用,16,シン、たきぎ,85AA,fuel， firewood; salary
+薫,艸,常用,16,クン、かお･る,85AB,a medicinal herb; to cauterize
+藍,艸,常用＊,18,ラン、あい,85CD,blue; indigo plant; surname
+藤,艸,常用＊,18,トウ、ふじ,85E4,rattan， cane; creeper plant
+藩,艸,常用,18,ハン,85E9,fence; boundary; outlying border
+藻,艸,常用,19,ソウ、も,85FB,splendid， magnificent; algae
+虎,虍,常用＊,8,コ、とら,864E,tiger; brave， fierce; surname
+虐,虍,常用,9,ギャク、しいた･げる,8650,cruel， harsh， oppressive
+虚,虍,常用,11,キョ、コ,865A,false
+虜,虍,常用,13,リョ,865C,to capture， imprison， seize; a prison
+虞,虍,常用,13,おそれ,865E,concerned about， anxious， worried
+虹,虫,常用＊,9,にじ,8679,rainbow
+蚊,虫,常用,10,か,868A,mosquito; gnat
+蛇,虫,常用,11,ジャ、ダ、へび,86C7,snake
+蛍,虫,常用,11,ケイ、ほたる,86CD,glow-worm， luminous insect
+蛮,虫,常用,12,バン,86EE,barbarians; barbarous， savage
+蜂,虫,常用＊,13,ホウ、はち,8702,bee， wasp， hornet
+蜜,虫,常用＊,14,ミツ,871C,honey; sweet; nectar
+融,虫,常用,16,ユウ,878D,melt， fuse; blend， harmonize
+衝,行,常用,15,ショウ,885D,rush against， charge ahead
+衡,行,常用,16,コウ,8861,measure， weigh， judge， consider
+衰,衣,常用,10,スイ、おとろ･える,8870,decline， falter， decrease; weaken
+衷,衣,常用,9,チュウ,8877,heart， from bottom of one's heart
+袋,衣,常用,11,タイ、ふくろ,888B,pocket， bag， sack， pouch
+袖,衣,常用＊,10,シュウ、そで,8896,sleeve; put something in sleeve
+被,衣,常用,10,ヒ、こうむ･る,88AB,passive indicator 'by'; bedding
+裂,衣,常用,12,レツ、さ･く、さ･ける,88C2,split， crack， break open; rend
+裕,衣,常用,12,ユウ,88D5,abundant， rich， plentiful
+裸,衣,常用,13,ラ、はだか,88F8,bare， nude; undress， strip
+裾,衣,常用＊,13,すそ,88FE,lapel， border of garment; skirt
+褐,衣,常用,13,カツ,8910,coarse woolen cloth; dull， dark
+褒,衣,常用,15,ホウ、ほ･める,8912,praise， commend， honor， cite
+襟,衣,常用,18,キン、えり,895F,lapel， collar
+襲,衣,常用,22,シュウ、おそ･う,8972,raid， attack; inherit
+覆,襾,常用,18,フク、おお･う、くつがえ･す、くつがえ･る,8986,cover; tip over; return; reply
+覇,襾,常用,19,ハ,8987,rule by might rather than right
+触,角,常用,13,ショク、さわ･る、ふ･れる,89E6,butt， ram， gore; touch
+訂,言,常用,9,テイ,8A02,draw up agreement; arrange
+訃,言,常用＊,9,フ,8A03,obituary; give notice of death
+託,言,常用,10,タク,8A17,entrust， rely on; commission
+訟,言,常用,11,ショウ,8A1F,accuse; argue， dispute; litigate
+訴,言,常用,12,ソ、うった･える,8A34,accuse; sue; inform; narrate
+診,言,常用,12,シン、み･る,8A3A,examine patient， diagnose
+詐,言,常用,12,サ,8A50,cheat， defraud， swindle; trick; to feign
+詔,言,常用,12,ショウ、みことのり,8A54,decree， proclaim; imperial decree
+詠,言,常用,12,エイ、よ･む,8A60,sing， hum， chant
+詣,言,常用＊,13,ケイ、もう･でる,8A63,reach; achievement， accomplishment
+詮,言,常用＊,13,セン,8A6E,explain， expound， comment on
+詰,言,常用,13,キツ、つ･まる、つ･む、つ･める,8A70,question， interrogate
+該,言,常用,13,ガイ,8A72,should， ought to， need to
+詳,言,常用,13,ショウ、くわ･しい,8A73,detailed， complete， thorough
+誇,言,常用,13,コ、ほこ･る,8A87,exaggerate; brag， boast; flaunt
+誉,言,常用,13,ヨ、ほま･れ,8A89,fame， reputation; praise
+誓,言,常用,14,セイ、ちか･う,8A93,swear， pledge; oath
+誘,言,常用,14,ユウ、さそ･う,8A98,persuade， entice， induce; guide
+誰,言,常用＊,15,だれ,8AB0,who? whom? whose? anyone?
+請,言,常用,15,シン、セイ、う･ける、こ･う,8ACB,ask， request; invite; please
+諦,言,常用＊,16,テイ、あきら･める,8AE6,careful， attentive
+諧,言,常用＊,16,カイ,8AE7,harmonize， agree; joke， jest
+諭,言,常用,16,ユ、さと･す,8AED,proclaim， instruct; edict
+諮,言,常用,16,シ、はか･る,8AEE,consult， confer; communicate in
+諾,言,常用,15,ダク,8AFE,promise; assent， approve
+謀,言,常用,16,ボウ、ム、はか･る,8B00,plan， scheme; strategem
+謁,言,常用,15,エツ,8B01,visit， pay respects to
+謄,言,常用,17,トウ,8B04,copy， transcribe
+謎,言,常用＊,16,なぞ,8B0E,riddle， conundrum; puzzle
+謙,言,常用,17,ケン,8B19,humble， modest
+謡,言,常用,16,ヨウ、うたい、うた･う,8B21,sing; folksong， ballad; rumor
+謹,言,常用,17,キン、つつし･む,8B39,prudent， cautious; attentive
+譜,言,常用,19,フ,8B5C,register， list， table; musical score
+譲,言,常用,20,ジョウ、ゆず･る,8B72,allow， permit， yield， concede
+豚,豕,常用,11,トン、ぶた,8C5A,small pig， suckling pig; suffle
+豪,豕,常用,14,ゴウ,8C6A,brave， heroic， chivalrous
+貌,豸,常用＊,14,ボウ,8C8C,countenance， appearance
+貞,貝,常用,9,テイ,8C9E,virtuous， chaste， pure; loyal
+貢,貝,常用,10,ク、コウ、みつぐ,8CA2,offer tribute; tribute， gifts
+販,貝,常用,11,ハン,8CA9,peddler， hawker， street merchant
+貪,貝,常用＊,11,ドン、むさぼ･る,8CAA,greedy， covet; covetous
+貫,貝,常用,11,カン、つらぬ･く,8CAB,a string of 1000 coins; to go through
+貼,貝,常用＊,12,チョウ、は･る,8CBC,paste to， stick on; attached to
+賂,貝,常用＊,13,ロ,8CC2,bribe; give present
+賄,貝,常用,13,ワイ、まかな･う,8CC4,bribe; bribes; riches， wealth
+賊,貝,常用,13,ゾク,8CCA,thief， traitor
+賓,貝,常用,15,ヒン,8CD3,guest， visitor; surname; submit
+賜,貝,常用,15,シ、たまわ･る,8CDC,give， bestow favors; appoint
+賠,貝,常用,15,バイ,8CE0,indemnify， suffer loss
+賢,貝,常用,16,ケン、かしこ･い,8CE2,virtuous， worthy， good; able
+賦,貝,常用,15,フ,8CE6,tax; give; endow; army; diffuse
+賭,貝,常用＊,16,ト、か･ける,8CED,bet， gamble， wager; compete
+購,貝,常用,17,コウ,8CFC,buy， purchase; hire
+贈,貝,常用,18,ソウ、ゾウ、おく･る,8D08,give present; bestow， confer
+赦,赤,常用,11,シャ,8D66,forgive， remit， pardon
+赴,走,常用,9,フ、おもむ･く,8D74,go to; attend， be present
+超,走,常用,12,チョウ、こ･える、こ･す,8D85,jump over， leap over; surpass
+越,走,常用,12,エツ、こ･える、こ･す,8D8A,exceed， go beyond; the more ...
+趣,走,常用,15,シュ、おもむき,8DA3,what attracts one's attention
+距,足,常用,12,キョ,8DDD,distance; bird's spur
+跡,足,常用,13,セキ、あと,8DE1,search， track， trace
+跳,足,常用,13,チョウ、と･ぶ、は･ねる,8DF3,jump， leap， vault， bounce; dance
+践,足,常用,13,セン,8DF5,trample， tread upon， walk on
+踊,足,常用,14,ヨウ、おど･り、おど･る,8E0A,leap， jump
+踏,足,常用,15,トウ、ふ･まえる、ふ･む,8E0F,step on， trample， tread on， walk
+踪,足,常用＊,15,ソウ,8E2A,footprints， traces， tracks
+蹴,足,常用＊,19,シュウ、け･る,8E74,kick; tread on; leap; solemn
+躍,足,常用,21,ヤク、おど･る,8E8D,skip， jump， frolic
+軌,車,常用,9,キ,8ECC,track， rut， path
+軒,車,常用,10,ケン、のき,8ED2,carriage; high; wide; balcony; surname of the Yellow Emperor
+軟,車,常用,11,ナン、やわ･らか、やわ･らかい,8EDF,soft， flexible， pliable; weak
+軸,車,常用,12,ジク,8EF8,axle， axletree; pivot; axis
+較,車,常用,13,カク,8F03,compare; comparatively， more
+載,車,常用,13,サイ、の･せる、の･る,8F09,load; carry; transport， convey
+輝,車,常用,15,キ、かがや･く,8F1D,brightness， luster， brilliance
+輩,車,常用,15,ハイ,8F29,generation， lifetime; class
+轄,車,常用,17,カツ,8F44,linchpin of wheel; control
+辛,辛,常用,7,シン、から･い,8F9B,bitter; toilsome， laborious; 8th heavenly stem
+辣,辛,常用＊,14,ラツ,8FA3,peppery， pungent， hot; cruel
+辱,辰,常用,10,ジョク、はずかし･める,8FB1,humiliate， insult， abuse
+込,辵,常用,5,こ･む、こ･める,8FBC,crowd into， go into
+迅,辵,常用,6,ジン,8FC5,quick， hasty， rapid， sudden
+迎,辵,常用,7,ゲイ、むか･える,8FCE,receive， welcome， greet
+迫,辵,常用,8,ハク、せま･る,8FEB,coerce， force， compel; urgent
+迭,辵,常用,8,テツ,8FED,repeatedly， frequently
+逃,辵,常用,9,トウ、に･がす、に･げる、のが･す、のが･れる,9003,escape， flee; abscond， dodge
+透,辵,常用,10,トウ、す･かす、す･く、す･ける,900F,penetrate， pass through
+逐,辵,常用,10,チク,9010,chase， expel; one by one
+逓,辵,常用,10,テイ,9013,hand over， deliver; substitute
+途,辵,常用,10,ト,9014,way， road， path， journey; course
+逝,辵,常用,10,セイ、い･く、ゆ･く,901D,pass away; die
+逮,辵,常用,11,タイ,902E,seize， catch; reach， arrive
+逸,辵,常用,11,イツ,9038,flee， escape， break loose
+遂,辵,常用,12,スイ、と･げる,9042,comply with， follow along; thereupon
+遅,辵,常用,12,チ、おく･らす、おく･れる、おそ･い,9045,late， tardy; slow; delay
+遇,辵,常用,12,グウ,9047,meet， come across， encounter
+遍,辵,常用,12,ヘン,904D,everywhere， all over， throughout
+違,辵,常用,13,イ、ちが･う、ちが･える,9055,disobey， violate， defy; be apart from
+遜,辵,常用＊,13,ソン,905C,humble， modest; yield
+遡,辵,常用＊,13,ソ、さかのぼ･る,9061,go upstream; trace source; formerly
+遣,辵,常用,13,ケン、つか･う、つか･わす,9063,send， dispatch; send off， exile
+遭,辵,常用,14,ソウ、あ･う,906D,come across， meet with， encounter
+遮,辵,常用,14,シャ、さえぎ･る,906E,cover， shield， protect
+遵,辵,常用,15,ジュン,9075,obey， comply with， follow; honor
+遷,辵,常用,15,セン,9077,move， shift， change; transfer
+避,辵,常用,16,ヒ、さ･ける,907F,avoid; turn aside; escape; hide
+還,辵,常用,16,カン,9084,still， yet， also， besides
+那,邑,常用＊,7,ナ,90A3,that， that one， those
+邦,邑,常用,7,ホウ,90A6,nation， country， state
+邪,邑,常用,8,ジャ,90AA,wrong， evil， depraved， vicious， perverse， heterodox
+邸,邑,常用,8,テイ,90B8,official residence， residence of
+郊,邑,常用,9,コウ,90CA,suburbs; waste land， open spaces
+郎,邑,常用,9,ロウ,90CE,gentleman， young man; husband
+郭,邑,常用,11,カク,90ED,outer part (of a city); surname
+酌,酉,常用,10,シャク、く･む,914C,serve wine; feast; deliberate
+酎,酉,常用＊,10,チュウ,914E,double-fermented wine， vintage wine
+酔,酉,常用,11,スイ、よ･う,9154,intoxicated， drunk; addicted to
+酢,酉,常用,12,サク、す,9162,toast one's host with wine; to express juice by pressing
+酪,酉,常用,13,ラク,916A,cream， cheese; koumiss
+酬,酉,常用,13,シュウ,916C,toast; reward， recompense
+酵,酉,常用,14,コウ,9175,yeast， leaven
+酷,酉,常用,14,コク,9177,strong， stimulating; very
+醒,酉,常用＊,16,セイ,9192,wake up; sober up; startle
+醜,酉,常用,17,シュウ、みにく･い,919C,ugly looking， homely; disgraceful
+醸,酉,常用,20,ジョウ、かも･す,91B8,brew， ferment
+采,木,常用＊,8,サイ,91C7,collect， gather; pick， pluck
+釈,釆,常用,11,シャク,91C8,interprete， elucidate; release
+釜,金,常用＊,10,かま,91DC,cauldron， pot， kettle
+釣,金,常用,11,チョウ、つ･る,91E3,fish; fishhook; tempt， lure
+鈍,金,常用,12,ドン、にぶ･い、にぶ･る,920D,blunt， obtuse; dull; flat; dull-witted
+鈴,金,常用,13,リン、レイ、すず,9234,bell
+鉛,金,常用,13,エン、なまり,925B,lead plumbum
+鉢,金,常用,13,ハチ、ハツ,9262,earthenware basin; alms bowl (Sanskrit paatra)
+銃,金,常用,14,ジュウ,9283,ancient weapon， blunderbuss
+銘,金,常用,14,メイ,9298,inscribe， engrave; unforgettably
+鋭,金,常用,15,エイ、するど･い,92ED,sharp
+鋳,金,常用,15,チュウ、い･る,92F3,melt， cast; coin， mint
+錠,金,常用,16,ジョウ,9320,spindle， slab， cake， tablet
+錦,金,常用＊,16,キン、にしき,9326,brocade， tapestry; embroidered
+錬,金,常用,16,レン,932C,smelt metals
+錮,金,常用＊,16,コ,932E,run metal into cracks; confine
+錯,金,常用,16,サク,932F,error， blunder， mistake， wrong
+鍋,金,常用＊,17,なべ,934B,cooking-pot， saucepan
+鍛,金,常用,17,タン、きた･える,935B,forge metal; temper， refine
+鍵,金,常用＊,17,ケン、かぎ,9375,door bolt， lock bolt; key
+鎌,金,常用＊,18,かま,938C,sickle
+鎖,金,常用,18,サ、くさり,9396,lock， padlock; shackles， chains
+鎮,金,常用,18,チン、しず･まる、しず･める,93AE,town， market place; suppress
+鐘,金,常用,20,ショウ、かね,9418,clock; bell
+鑑,金,常用,23,カン、かんが･みる,9451,mirror， looking glass; reflect
+閑,門,常用,12,カン,9591,fence， barrier; defend; idle time
+閥,門,常用,14,バツ,95A5,powerful and influential group
+閲,門,常用,15,エツ,95B2,examine
+闇,門,常用＊,17,やみ,95C7,close， shut; dark， dismal
+闘,門,常用,18,トウ、たたか･う,95D8,struggle， fight， compete， contend
+阜,阜,常用＊,8,フ,961C,mound; abundant， ample， numerous
+阪,阜,常用＊,7,ハン,962A,hillside farmland; slope
+阻,阜,常用,8,ソ、はば･む,963B,impede， hinder， obstruct; oppose
+附,阜,常用,8,フ,9644,adhere to， append; rely on near to
+陣,阜,常用,10,ジン,9663,column， row or file of troops
+陥,阜,常用,10,カン、おちい･る、おとしい･れる,9665,submerge， sink， plunge; trap
+陪,阜,常用,11,バイ,966A,accompany， be with， keep company
+陰,阜,常用,11,イン、かげ、かげ･る,9670,'female' principle; dark; secret
+陳,阜,常用,11,チン,9673,exhibit， display; plead; surname
+陵,阜,常用,11,リョウ、みささぎ,9675,hill， mound; mausoleum
+陶,阜,常用,11,トウ,9676,pottery， ceramics
+隅,阜,常用,12,グウ、すみ,9685,corner， nook， remote place
+隆,阜,常用,11,リュウ,9686,prosperous， plentiful， abundant
+随,阜,常用,12,ズイ,968F,follow， listen to， submit to
+隔,阜,常用,13,カク、へだ･たる、へだ･てる,9694,separate， partition
+隙,阜,常用＊,13,ゲキ、すき,9699,crack， split， fissure; grudge
+隠,阜,常用,14,イン、かく･す、かく･れる,96A0,to hide， conceal， cover; to disappear， lurk; an open secret
+隣,阜,常用,16,リン、となり、とな･る,96A3,neighbor; neighboring; adjacent
+隷,隶,常用,16,レイ,96B7,be subservient to; servant
+隻,隹,常用,10,セキ,96BB,single， one of pair， lone
+雄,隹,常用,12,ユウ、お、おす,96C4,male of species; hero; manly
+雅,隹,常用,13,ガ,96C5,elegant， graceful， refined
+雇,隹,常用,12,コ、やと･う,96C7,employ， to hire
+雌,隹,常用,14,シ、め、めす,96CC,female; feminine; gentle， soft
+離,隹,常用,19,リ、はな･す、はな･れる,96E2,leave， depart; go away; separate
+雰,雨,常用,12,フン,96F0,atmosphere; mist， fog
+零,雨,常用,13,レイ,96F6,zero; fragment， fraction
+雷,雨,常用,13,ライ、かみなり,96F7,thunder
+需,雨,常用,14,ジュ,9700,need， require， must
+震,雨,常用,15,シン、ふる･う、ふる･える,9707,shake， quake， tremor; excite
+霊,雨,常用,15,リョウ、レイ、たま,970A,spirit， soul; spiritual world
+霜,雨,常用,17,ソウ、しも,971C,frost; crystallized; candied
+霧,雨,常用,19,ム、きり,9727,fog， mist， vapor， fine spray
+露,雨,常用,21,ロ、ロウ、つゆ,9732,dew; bare， open， exposed
+靴,革,常用,13,カ、くつ,9774,boots
+韓,韋,常用＊,17,カン,97D3,fence; surname; Korea
+韻,音,常用,19,イン,97FB,rhyme; vowel
+響,音,常用,20,キョウ、ひび･く,97FF,make sound， make noise; sound
+頃,頁,常用＊,11,ころ,9803,a moment; a measure of area equal to 100 mu or 6.7 hectares; to lean
+項,頁,常用,12,コウ,9805,neck， nape of neck; sum; funds
+須,頁,常用＊,12,ス,9808,must， have to， necessary; moment; whiskers
+頑,頁,常用,13,ガン,9811,obstinate， stubborn; recalcitrant
+頒,頁,常用,13,ハン,9812,confer， bestow; publish， promulgate
+頓,頁,常用＊,13,トン,9813,pause， stop; bow， kowtow; arrange
+頬,頁,常用＊,15,ほお,982C,cheeks， jaw
+頻,頁,常用,17,ヒン,983B,frequently， again and again
+頼,頁,常用,16,ライ、たの･む、たの･もしい、たよ･る,983C,rely， depend on; accuse falsely
+顎,頁,常用＊,18,ガク、あご,984E,jaw
+顕,頁,常用,18,ケン,9855,manifest， display; evident， clear
+顧,頁,常用,21,コ、かえり･みる,9867,look back; look at; look after
+飢,食,常用,10,キ、う･える,98E2,hunger， starving; hungry; a famine
+飽,食,常用,13,ホウ、あ･かす、あ･きる,98FD,eat heartily; eat one's fill
+飾,食,常用,13,ショク、かざ･る,98FE,decorate， ornament， adorn; to deceive
+餅,食,常用＊,15,ヘイ、もち,9905,rice-cakes， biscuits
+餌,食,常用＊,15,ジ、え、えさ,990C,bait; bait， entice; dumplings
+餓,食,常用,15,ガ,9913,hungry; greedy for; hunger
+香,香,常用,9,キョウ、コウ、か、かお･り、かお･る,9999,fragrant， sweet smelling， incense
+駄,馬,常用,14,ダ,99C4,a horse load; a pack-horse
+駆,馬,常用,14,ク、か･ける、か･る,99C6,spur a horse on; expel， drive away
+駐,馬,常用,15,チュウ,99D0,to be stationed at， reside at; to stop
+駒,馬,常用＊,15,こま,99D2,colt; fleet， swift; sun; surname
+騎,馬,常用,18,キ,9A0E,ride horseback; mount; cavalry
+騒,馬,常用,18,ソウ、さわ･ぐ,9A12,harass， bother， annoy， disturb
+騰,馬,常用,20,トウ,9A30,fly; gallop; run; prance; rise
+驚,馬,常用,22,キョウ、おどろ･かす、おどろ･く,9A5A,frighten， surprise， startle
+骸,骨,常用＊,16,ガイ,9AB8,skeleton， body; leg bone
+髄,骨,常用,19,ズイ,9AC4,bone marrow; essences， substances
+髪,髟,常用,14,ハツ、かみ,9AEA,hair
+鬱,鬯,常用＊,29,ウツ,9B31,luxuriant; dense， thick; moody
+鬼,鬼,常用,10,キ、おに,9B3C,ghost; spirit of dead; devil
+魂,鬼,常用,14,コン、たましい,9B42,soul， spirit
+魅,鬼,常用,15,ミ,9B45,kind of forest demon， elf
+魔,鬼,常用,21,マ,9B54,demon， evil spirits; magic power
+鮮,魚,常用,17,セン、あざ･やか,9BAE,fresh， new， delicious; rare， few
+鯨,魚,常用,19,ゲイ、くじら,9BE8,whale
+鶏,鳥,常用,19,ケイ、にわとり,9D8F,chicken
+鶴,鳥,常用＊,21,つる,9DB4,crane; Grus species (various)
+鹿,鹿,常用＊,11,か、しか,9E7F,deer; surname; KangXi radical 198
+麓,鹿,常用＊,19,ロク、ふもと,9E93,foot of hill; foothill
+麗,鹿,常用,19,レイ、うるわ･しい,9E97,beautiful， magnificent， elegant
+麺,麥,常用＊,16,メン,9EBA,flour， dough， noodles
+麻,麻,常用,11,マ、あさ,9EBB,hemp， jute， flax; sesame
+黙,黑,常用,15,モク、だま･る,9ED9,silent; quiet， still; dark
+鼓,鼓,常用,13,コ、つづみ,9F13,drum; beat， top， strike
+齢,齒,常用,17,レイ,9F62,age; years
+丑,一,人名,4,,4E11,clown， comedian; 2nd terrestrial branch
+丞,一,人名,6,,4E1E,assist， aid， rescue
+乃,丿,人名,2,,4E43,then; really， indeed; as it turned out， after all; namely
+之,丿,人名,3,,4E4B,marks preceding phrase as modifier of following phrase; it， him her， them; go to
+乎,丿,人名,5,,4E4E,interrogative or exclamatory final particle
+也,乙,人名,3,,4E5F,also; classical final particle of strong affirmation or identity
+云,二,人名,4,,4E91,say， speak; clouds
+亘,二,人名,6,,4E98,extend across， through; from
+亙x,一,人名→亘,6,,4E99,extend across， through; from
+些,二,人名,8,,4E9B,little， few; rather， somewhat
+亥,亠,人名,6,,4EA5,12th terrestrial branch
+亦,亠,人名,6,,4EA6,also， too; likewise
+亨,亠,人名,7,,4EA8,smoothly， progressing， no trouble
+亮,亠,人名,9,,4EAE,bright， brilliant， radiant， light
+仔,人,人名,5,,4ED4,small thing， child; young animal
+伊,人,人名,6,,4F0A,third person pronoun; he， she， this， that
+伍,人,人名,6,,4F0D,five， company of five; troops
+伶,人,人名,7,,4F36,lonely， solitary; actor
+伽,人,人名,7,,4F3D,transcription of sanskrit 'gha' in buddhist texts ('samgha'， etc.); (nursing; attending; entertainer) (Jap.); tample; in Chinese this character is not used alone
+佃,人,人名,7,,4F43,tenant farmer; be a tenant farmer
+佑,人,人名,7,,4F51,help， protect， bless
+侃,人,人名,8,,4F83,upright and strong; amiable
+侑,人,人名,8,,4F91,help， assist， repay kindness
+俄,人,人名,9,,4FC4,sudden(ly)， soon; Russian
+俐,人,人名,9,,4FD0,smooth; active; clever， sharp
+俠s,人,人名＝侠,9,,4FE0,
+俣,人,人名,9,,4FE3,big
+俱u,人,人名＝倶,10,,4FF1,
+倖,人,人名,10,,5016,lucky， fortunate; dote on， spoil
+倦,人,人名,11,,5026,be tired of， weary
+倭,人,人名,10,,502D,dwarf; dwarfish， short
+偲,人,人名,11,,5072,talented; urgent
+傭,人,人名,13,,50AD,hire， employ， charter; servant
+儲,人,人名,17,,5132,to save money， store， reserve; an heir
+允,儿,人名,4,,5141,to grant， to allow， to consent
+兎,儿,人名,8,,514E,rabbit， hare
+兜,儿,人名,11,,515C,pouch
+其,八,人名,8,,5176,his， her， its， their; that
+冴,冫,人名,7,,51B4,freezing; stopped up， closed off
+凌,冫,人名,10,,51CC,pure; virtuous; insult; maltreat
+凛,冫,人名－凜,15,,51DB,shiver with cold or fear， fearful
+凜,冫,人名,15,,51DC,shiver with cold or fear， fearful
+凧,几,人名,5,,51E7,kite
+凪,几,人名,6,,51EA,calm， lull
+凰,几,人名,11,,51F0,female phoenix
+凱,几,人名,12,,51F1,triumphant; triumph， victory
+函,凵,人名,8,,51FD,correspondence; a case; a box
+劉,刀,人名,15,,5289,surname; kill， destroy
+劫,力,人名,7,,52AB,take by force， coerce; disaster
+勁,力,人名,9,,52C1,strong， unyielding， tough， powerful
+勺,勹,人名＊,3,シャク,52FA,spoon， ladle; unit of volume
+勿,勹,人名,4,,52FF,must not， do not; without， never
+匁,勹,人名＊,4,もんめ,5301,Japanese unit of weight (1/1000 of a kan)
+匡,匚,人名,6,,5321,correct， restore， revise
+卜,卜,人名,2,,535C,fortune telling; prophesy
+卯,卩,人名,5,,536F,4th terrestrial branch; period from 5-7 a.m.
+卿,卩,人名,10,,537F,noble， high officer
+厨,厂,人名,12,,53A8,kitchen; closet; cupboard
+厩,厂,人名,12,,53A9,stable; barnyard
+叉,又,人名,3,,53C9,crotch; fork， prong
+叡,又,人名,16,,53E1,astute， profound， shrewd
+叢,又,人名,18,,53E2,bush， shrub; thicket; collection
+只,口,人名,5,,53EA,only， just， simply
+叶,口,人名,5,,53F6,to harmonize， to rhyme; to unite; (borrowed for) leaf
+吞u,口,人名＝呑,7,,541E,
+吻,口,人名,7,,543B,kiss; the lips; coinciding
+吾,口,人名,7,,543E,i， my， our; resist， impede
+哉,口,人名,9,,54C9,final exclamatory particle
+哨,口,人名,10,,54E8,whistle， blow whistle; chirp
+哩,口,人名,10,,54E9,mile
+啄,口,人名,10,,5544,to peck; (Cant.) to slander
+喋,口,人名,12,,558B,nag; chatter， babble， twitter
+喧,口,人名,12,,55A7,lively， noisy; clamor， talk loudly
+喬,口,人名,12,,55AC,tall， lofty; proud， stately
+喰,口,人名,12,,55B0,to eat， drink
+嘉,口,人名,14,,5609,excellent; joyful; auspicious
+嘗,口,人名,14,,5617,taste; experience， experiment
+嘩,口,人名,13,,5629,rushing sound; gush forward
+噂,口,人名,15,,5642,meet
+噌,口,人名,14,,564C,scold， shout at
+圃,囗,人名,10,,5703,garden， cultivated field
+圭,土,人名,6,,572D,jade pointed at top
+坐,土,人名,7,,5750,sit; seat; ride， travel by
+坦,土,人名,8,,5766,flat， smooth; self-possessed
+埴,土,人名,11,,57F4,soil with large clay content
+堯,土,人名→尭,12,,582F,a legendary ancient emperor-sage
+堰,土,人名,12,,5830,dam; embankment， dike， bank
+堵,土,人名,11,,5835,wall; stop， prevent; stop up
+堺,土,人名,12,,583A,person's name
+塙,土,人名,13,,5859,truly
+壕,土,人名,17,,58D5,trench， ditch， channel， moat
+壬,士,人名,4,,58EC,9th heavenly stem
+夷,大,人名,6,,5937,ancient barbarian tribes
+奄,大,人名,8,,5944,ere long; remain， tarry; feeble
+奎,大,人名,9,,594E,stride of man; one of the twenty-eight lunar mansions
+套,大,人名,10,,5957,case， cover， wrapper， envelope
+姥,女,人名,9,,59E5,maternal grandmother; midwife
+姪,女,人名,9,,59EA,niece
+娃,女,人名,9,,5A03,baby; doll; pretty girl
+娩,女,人名,11,,5A29,give birth child; complaisant
+嬉,女,人名,15,,5B09,enjoy; play， amuse oneself
+孜,子,人名,7,,5B5C,be as diligent as possible
+孟,子,人名,8,,5B5F,first in series; great， eminent
+宋,宀,人名,7,,5B8B,Song dynasty; surname
+宏,宀,人名,7,,5B8F,wide， spacious， great， vast
+宕,宀,人名,8,,5B95,stone quarry; cave dwelling
+宥,宀,人名,9,,5BA5,forgive， pardon， indulge
+寅,宀,人名,11,,5BC5,to respect， reverence; respectfully; 3rd terrestrial branch
+寓,宀,人名,12,,5BD3,residence; lodge; dwell
+寵,宀,人名,19,,5BF5,favorite， concubine; favor
+尖,小,人名,6,,5C16,sharp， pointed， acute， keen
+尤,尢,人名,4,,5C24,especially， particularly
+尭,儿,人名,8,,5C2D,a legendary ancient emperor-sage
+屑,尸,人名,10,,5C51,bits， scraps， crumbs， fragments
+峨,山,人名,10,,5CE8,lofty
+峻,山,人名,10,,5CFB,high， steep， towering; stern
+崚,山,人名,11,,5D1A,hilly， steep， rugged
+嵩,山,人名,13,,5D69,high， lofty; one of the 5 peaks， situated in Hunan
+嵯,山,人名,13,,5D6F,high， towering; irregular， rugged
+嶺,山,人名,17,,5DBA,mountain ridge， mountain peak
+巌,山,人名,20,,5DCC,cliff， precipice; cave， grotto
+巖,山,人名→巌,23,,5DD6,cliff， precipice; cave， grotto
+已,己,人名,3,,5DF2,already; finished; stop
+巳,己,人名,3,,5DF3,the hours from 9 to 11; 6th terrestrial branch
+巴,己,人名,4,,5DF4,greatly desire， anxiously hope
+巷,己,人名,9,,5DF7,alley， lane
+巽,己,人名,12,,5DFD,5th of the 8 trigrams; south-east; mild， modest， obedient
+帖,巾,人名,8,,5E16,invitation card; notice
+幌,巾,人名,13,,5E4C,curtain， cloth screen
+幡,巾,人名,15,,5E61,pennant， banner， streamer， flag
+庄,广,人名,6,,5E84,village， hamlet; villa， manor
+庇,广,人名,7,,5E87,cover， shield， shelter， protect
+庚,广,人名,8,,5E9A,7th heavenly stem
+庵,广,人名,11,,5EB5,Buddhist monastery or nunnery
+廟,广,人名,15,,5EDF,temple， shrine; imperial court
+廻,廴,人名,9,,5EFB,circle around; return; curving
+廿,十,人名,4,,5EFF,twenty， twentieth
+弘,弓,人名,5,,5F18,enlarge， expand; liberal， great
+弛,弓,人名,6,,5F1B,loosen， relax， unstring a bow
+彗,彑,人名,11,,5F57,broomstick; comet
+彦,彡,人名,9,,5F66,elegant
+彪,彡,人名,11,,5F6A,tiger; tiger stripes; tiger-like
+彬,彡,人名,11,,5F6C,cultivated， well-bred
+徠,彳,人名,11,,5FA0,induce， encourage to come
+徽,彳,人名,16,,5FBD,a badge， insignia
+忽,心,人名,8,,5FFD,suddenly， abruptly; neglect
+怜,心,人名,8,,601C,pity， sympathize
+恕,心,人名,10,,6055,forgive， excuse， show mercy
+恢,心,人名,9,,6062,restore; big， great， immense， vast
+恰,心,人名,9,,6070,just， exactly， precisely; proper
+悉,心,人名,11,,6089,know， learn about， comprehend
+悌,心,人名,10,,608C,brotherly， respectful
+惇,心,人名,11,,60C7,be kind， cordial， sincere
+惚,心,人名,11,,60DA,absent-minded， confused
+惟,心,人名,11,,60DF,but， however， nevertheless; only
+惣,心,人名,12,,60E3,overall [questionable variant]
+惹,心,人名,12,,60F9,irritate， vex， offend， incite
+惺,心,人名,12,,60FA,intelligent， clever， astute
+慧,心,人名,15,,6167,bright， intelligent; intelligence
+憐,心,人名,16,,6190,pity， sympathize
+戊,戈,人名,5,,620A,5th heavenly stem
+或,戈,人名,8,,6216,or， either， else; perhaps， maybe
+戟,戈,人名,12,,621F,halberd with crescent blade
+托,手,人名,6,,6258,to hold up with palm; to support， rely on
+按,手,人名,9,,6309,put hand on， press down with hand
+挺,手,人名,10,,633A,to stand upright， straighten; rigid
+挽,手,人名,11,,633D,pull; pull back， draw back
+捧,手,人名,11,,6367,hold up in two hands
+捲,手,人名,12,,6372,curl， roll up; curly， rolled up
+捷,手,人名,11,,6377,win， victory， triumph
+捺,手,人名,11,,637A,to press down heavily with the fingers
+掠,手,人名,11,,63A0,rob， ransack， plunder; pass by
+掬,手,人名,11,,63AC,to grasp or hold with both hands
+揃,手,人名,12,,63C3,shear; (Cant.) to skin an animal
+摑s,手,人名＝掴,14,,6451,
+摺,手,人名,14,,647A,fold， bend; twisted， curved
+撒,手,人名,15,,6492,release， cast away， let go; disperse; relax
+撞,手,人名,15,,649E,knock against， bump into， collide
+撫,手,人名,15,,64AB,pat， console， comfort; pacify
+播,手,人名,15,,64AD,sow， spread; broadcast; case away， reject
+撰,手,人名,15,,64B0,compose， write， compile
+擢,手,人名,17,,64E2,pull up， draw up; select
+敦,攴,人名,12,,6566,esteem; honest， candid， sincere
+斐,文,人名,12,,6590,graceful， elegant， beautiful
+斡,斗,人名,14,,65A1,revolve， rotate， turn
+斧,斤,人名,8,,65A7,axe， hatchet; chop， hew
+斯,斤,人名,12,,65AF,this， thus， such; to lop off; emphatic particle
+於,方,人名,8,,65BC,in， at， on; interjection alas!
+旭,日,人名,6,,65ED,rising sun; brilliance; radiant
+昂,日,人名,8,,6602,rise， raise; proud， bold; upright
+昊,日,人名,8,,660A,summer time; sky; heaven
+昌,日,人名,8,,660C,light of sun; good， proper
+昏,日,人名,8,,660F,dusk， nightfall， twilight， dark
+昴,日,人名,9,,6634,one of the 28 constellations
+晃,日,人名,10,,6643,bright， dazzling; to sway， shake
+晄,日,人名－晃,10,,6644,bright， dazzling; to sway， shake
+晋,日,人名,10,,664B,advance， increase; promote
+晏,日,人名,10,,664F,peaceful， quiet; clear; late in the day
+晒,日,人名,10,,6652,dry in sun， expose to sun
+晟,日,人名,10,,665F,clear， bright; splendor， brightness
+晦,日,人名,10,,6666,dark， unclear， obscure; night
+晨,日,人名,11,,6668,early morning， daybreak
+智,日,人名,12,,667A,wisdom， knowledge， intelligence
+暉,日,人名,13,,6689,sunshine; light， bright， radiant
+暢,日,人名,14,,66A2,smoothly， freely， unrestrained
+曙,日,人名,17,,66D9,bright， light of rising sun
+曝,日,人名,19,,66DD,sun， air in sun， expose or dry in the sun
+曳,曰,人名,6,,66F3,trail， tow， drag， pull
+朋,月,人名,8,,670B,friend， pal， acquaintance
+朔,月,人名,10,,6714,first day of lunar month; the north
+李,木,人名,7,,674E,plum; judge; surname
+杏,木,人名,7,,674F,apricot; almond
+杖,木,人名,7,,6756,cane， walking stick
+杜,木,人名,7,,675C,stop， prevent; restrict; surname
+杭,木,人名,8,,676D,cross stream; navigate
+杵,木,人名,8,,6775,pestle; baton used beat clothes
+杷,木,人名,8,,6777,loquat
+枇,木,人名,8,,6787,loquat
+柊,木,人名,9,,67CA,holly
+柏,木,人名,9,,67CF,cypress， cedar
+柑,木,人名,9,,67D1,tangerine， loose-skinned orange
+柘,木,人名,9,,67D8,a thorny tree; sugarcane
+柚,木,人名,9,,67DA,pomelo， grapefruit
+柴,木,人名,10,,67F4,firewood， faggots， fuel
+柾,木,人名,9,,67FE,straight grain
+栖,木,人名,10,,6816,perch; roost; stay
+栗,木,人名,10,,6817,chestnut tree， chestnuts; surname
+栞,木,人名,10,,681E,publication， periodical; publish
+桂,木,人名,10,,6842,cassia or cinnamon
+桐,木,人名,10,,6850,name applied various trees
+桔,木,人名,10,,6854,Chinese bellflower; well-swept; the inner fibers of corn-stalks
+桧,木,人名,10,,6867,Chinese cypress， Chinese juniper
+桶,木,人名,11,,6876,pail， bucket， tub; cask， keg
+梁,木,人名,11,,6881,bridge; beam; rafters; surname
+梓,木,人名,11,,6893,catalpa ovata
+梛,木,人名,11,,689B,
+梢,木,人名,11,,68A2,pointed tip of something long like a branch; rudder
+梧,木,人名,11,,68A7,Chinese parasoltree， Sterculia platanifolia
+梯,木,人名,11,,68AF,ladder， steps， stairs; lean
+梶,木,人名,11,,68B6,oar， shaft
+棲,木,人名,12,,68F2,perch; roost; stay
+椀,木,人名,12,,6900,bowl; cup; dish
+椋,木,人名,12,,690B,fruit
+椛,木,人名,11,,691B,type of birch
+椰,木,人名,13,,6930,palm tree， coconut palm
+椿,木,人名,13,,693F,father; a plant with white flowers
+楊,木,人名,13,,694A,willow， poplar， aspen; surname
+楓,木,人名,13,,6953,maple tree
+楕,木,人名,13,,6955,oval-shaped， elliptical， tubular
+楚,木,人名,13,,695A,name of feudal state; clear
+楠,木,人名,13,,6960,name of tree， machilus nanmu
+楢,木,人名,13,,6962,tinder
+楯,木,人名,13,,696F,shield; horizontal bar
+榊,木,人名,13,,698A,a sacred Shinto tree
+榎,木,人名,14,,698E,small evergreen shrub
+榛,木,人名,14,,699B,hazelnut; thicket， underbrush
+槇,木,人名→槙,14,,69C7,a twig; an ornamental evergreen
+槌,木,人名,13,,69CC,hammer， mallet; strike， beat
+槍,木,人名,14,,69CD,spear， lance; gun， rifle
+槙,木,人名,14,,69D9,a twig; an ornamental evergreen
+槻,木,人名,15,,69FB,zelkova tree
+樋,木,人名,14,,6A0B,tree name
+樟,木,人名,15,,6A1F,camphor tree
+樫,木,人名,16,,6A2B,evergreen oak
+樺,木,人名,14,,6A3A,type of birch
+樽,木,人名,16,,6A3D,goblet; jar， jug; lush
+橘,木,人名,16,,6A58,orange， tangerine
+橙,木,人名,16,,6A59,orange
+檀,木,人名,17,,6A80,sandalwood， hardwood; surname
+檎,木,人名,17,,6A8E,small red apple
+檜,木,人名－桧,17,,6A9C,Chinese cypress， Chinese juniper
+櫂,木,人名,18,,6AC2,oar， scull， paddle; row
+櫓,木,人名,19,,6AD3,oar， scull; row
+櫛,木,人名,17,,6ADB,comb out; weed out， eliminate
+欣,欠,人名,8,,6B23,happy， joyous， delighted
+欽,欠,人名,12,,6B3D,respect， admire; respectful
+歎,欠,人名,14,,6B4E,sigh， admire
+此,止,人名,6,,6B64,this， these; in this case， then
+殆,歹,人名,9,,6B86,dangerous， perilous; endanger
+毅,殳,人名,15,,6BC5,resolute， decisive， firm， persist
+毘,比,人名,9,,6BD8,help， assist; connect， adjoin
+毬,毛,人名,11,,6BEC,ball， anything round， sphere
+汀,水,人名,5,,6C40,sandbar， beach， bank， shore
+汐,水,人名,6,,6C50,night tides， evening ebb tide
+汝,水,人名,6,,6C5D,you
+汲,水,人名,6,,6C72,draw water from well; imbibe
+沌,水,人名,7,,6C8C,chaotic， confused; turbid， murky
+沓,水,人名,8,,6C93,connected， joined; repeated
+沫,水,人名,8,,6CAB,froth， foam， bubbles， suds
+洛,水,人名,9,,6D1B,river in Shanxi province; city
+洲,水,人名,9,,6D32,continent; island; islet
+洵,水,人名,9,,6D35,true， real， truly， really
+洸,水,人名,9,,6D38,sparkle， glitter
+浩,水,人名,10,,6D69,great， numerous， vast， abundant
+浬,水,人名,10,,6D6C,nautical mile
+淀,水,人名,11,,6DC0,shallow water， swamp; swampy
+淋,水,人名,11,,6DCB,drip， soak， drench; perfectly
+淳,水,人名,11,,6DF3,honest， simple， unsophisticated; cyanogen; ethane dinitrile
+淵,水,人名,12,,6DF5,gulf， abyss， deep
+渚,水,人名,11,,6E1A,small sand bank， islet
+渥,水,人名,12,,6E25,moisten， soak; great， deep; dye; to enrich
+湊,水,人名,12,,6E4A,piece together， assemble
+湘,水,人名,12,,6E58,Hunan province
+湛,水,人名,12,,6E5B,deep; profound; clear; tranquil， placid
+溜,水,人名,13,,6E9C,slide， glide， slip; slippery
+溢,水,人名,13,,6EA2,overflow， brim over; full
+滉,水,人名,13,,6EC9,deep
+漕,水,人名,14,,6F15,transport by water; canal transportation
+漱,水,人名,14,,6F31,gargle， rinse; wash， scour
+澪,水,人名,16,,6FAA,
+濡,水,人名,17,,6FE1,immerse， moisten; wet， damp
+瀕,水,人名,20,,7015,approach， be on verge of; near
+灘,水,人名,21,,7058,bank， a sandbar， shoal; rapids
+灸,火,人名,7,,7078,cauterize with moxa; moxibustion
+灼,火,人名,7,,707C,burn; broil; cauterize; bright
+烏,火,人名,10,,70CF,crow， rook， raven; black， dark
+焚,火,人名,12,,711A,burn
+焰s,火,人名＝焔,12,,7130,
+煌,火,人名,13,,714C,bright， shining， luminous
+煤,火,人名,13,,7164,coal， coke， charcoal， carbon
+熙,火,人名,15,,7199,bright， splendid， glorious
+燎,火,人名,16,,71CE,to burn， set afire; to illuminate; a signal lamp
+燕,火,人名,16,,71D5,swallow (bird); comfort， enjoy
+燦,火,人名,17,,71E6,vivid， illuminating; bright
+燭,火,人名,17,,71ED,candle， taper; to shine， illuminate
+燿,火,人名,18,,71FF,shine， dazzle; brilliant， radiant
+爾,爻,人名,14,,723E,you; that， those; final particle
+牒,片,人名,13,,7252,documents， records; dispatch
+牟,牛,人名,6,,725F,make; seek， get; barley; low
+牡,牛,人名,7,,7261,male of animals; bolt of door
+牽,牛,人名,11,,727D,drag， pull， lead by hand
+犀,牛,人名,12,,7280,rhinoceros; sharp， well-tempered
+狼,犬,人名,10,,72FC,wolf
+猪,犬,人名,11,,732A,pig， hog， wild boar
+獅,犬,人名,13,,7345,lion
+玖,玉,人名,7,,7396,black-colored jade
+玲,玉,人名,9,,73B2,tinkling of jade
+珀,玉,人名,9,,73C0,amber
+珂,玉,人名,9,,73C2,inferior kind of jade
+珈,玉,人名,9,,73C8,an ornament attached to a woman's hairpin
+珊,玉,人名,9,,73CA,coral
+琉,玉,人名,11,,7409,sparkling stone; glazed， opaque
+琢,玉,人名,11,,7422,polish jade; cut jade
+琥,玉,人名,12,,7425,jewel in shape of tiger; amber
+琳,玉,人名,12,,7433,beautiful jade， gem
+琵,玉,人名,12,,7435,guitar-like instrument
+琶,玉,人名,12,,7436,guitar-like instrument
+瑚,玉,人名,13,,745A,coral; person of virtue
+瑛,玉,人名,12,,745B,luster of gem; crystal
+瑞,玉,人名,13,,745E,felicitous omen; auspicious
+瑳,玉,人名,14,,7473,luster of gem; lustrous， bright
+瑶,玉,人名,13,,7476,precious jade
+瓜,瓜,人名,6,,74DC,melon， gourd， cucumber; rad. 97
+瓢,瓜,人名,17,,74E2,ladle made from dried gourd
+甥,田,人名,12,,7525,sister's child
+甫,用,人名,7,,752B,begin; man， father; great; a distance of ten li
+畠,田,人名,10,,7560,garden， field， farm， plantation
+畢,田,人名,11,,7562,end， finish， conclude; completed
+疋,疋,人名,5,,758B,roll， bolt of cloth; foot
+疏,疋,人名,12,,758F,neglect; careless， lax
+皐,白,人名,11,,7690,the high land along a river
+皓,白,人名,12,,7693,bright， luminous; clear; hoary
+眸,目,人名,11,,7738,pupil of eye; eye
+瞥,目,人名,17,,77A5,take fleeting glance at
+矩,矢,人名,10,,77E9,carpenter's square， ruler， rule
+砥,石,人名,10,,7825,a whetstone; to polish
+砦,石,人名,11,,7826,stockade， fort， military outpost; brothel
+砧,石,人名,10,,7827,anvil; flat stone; exe
+硯,石,人名,12,,786F,inkstone
+碓,石,人名,13,,7893,pestle
+碗,石,人名,13,,7897,bowl， small dish
+碧,石,人名,14,,78A7,jade; green， blue
+碩,石,人名,14,,78A9,great， eminent; large， big
+磐,石,人名,15,,78D0,large rock， boulder; firm
+磯,石,人名,17,,78EF,jetty; submerged rock; eddy
+祁,示,人名,7,,7941,pray; numerous， ample， abundant
+祇,示,人名,8,,7947,the spirit of the earth; (used for U+53EA 只) only， merely， but
+祐,示,人名,9,,7950,divine intervention， protection
+祢,示,人名,9,,7962,one's deceased father
+祷,示,人名,11,,7977,pray; entreat， beg， plead; prayer
+祿,示,人名→禄,13,,797F,blessing， happiness， prosperity
+禄,示,人名,12,,7984,blessing， happiness， prosperity
+禎,示,人名,13,,798E,lucky， auspicious， good omen
+禰,示,人名－祢,18,,79B0,one's deceased father
+禱s,示,人名－祷,19,,79B1,pray; entreat， beg， plead; prayer
+禽,禸,人名,13,,79BD,birds， fowl; surname;; capture
+禾,禾,人名,5,,79BE,grain still on stalk; rice plant
+秤,禾,人名,10,,79E4,balance， scale， steelyard
+秦,禾,人名,10,,79E6,feudal state of Qin; the Qin dynasty (from which the name 'China' comes)
+稀,禾,人名,12,,7A00,rare， unusual， scarce; sparse
+稔,禾,人名,13,,7A14,ripe grain; harvest; to know， be familiar with
+稜,禾,人名,13,,7A1C,corner， edge， angle; square block
+稟,禾,人名,13,,7A1F,report to， petition
+穣,禾,人名,18,,7A63,stalks of grain; lush， abundant
+穰,禾,人名→穣,22,,7A70,stalks of grain; lush， abundant
+穹,穴,人名,8,,7A79,high and vast; elevated; arched
+穿,穴,人名,10,,7A7F,penetrate， pierce， drill; wear
+窄,穴,人名,10,,7A84,narrow， tight; narrow-minded
+窪,穴,人名,14,,7AAA,hollow; pit; depression; swamp
+窺,穴,人名,16,,7ABA,peep， watch， spy on， pry
+竣,立,人名,12,,7AE3,terminate， end， finish; quit
+竪,立,人名,14,,7AEA,perpendicular， vertical; erect
+竺,竹,人名,8,,7AFA,India; bamboo; surname
+竿,竹,人名,9,,7AFF,bamboo pole; penis
+笈,竹,人名,9,,7B08,bamboo box used carry books
+笙,竹,人名,11,,7B19,small gourd-shaped musical instrument
+笠,竹,人名,11,,7B20,bamboo hat; bamboo covering
+笹,竹,人名,11,,7B39,small bamboo
+筈,竹,人名,12,,7B48,arrow end
+筑,竹,人名,12,,7B51,ancient lute; build
+箔,竹,人名,14,,7B94,reed screen; frame for growing silkworms
+箕,竹,人名,14,,7B95,sieve; dust pan， garbage bag
+篇,竹,人名,15,,7BC7,chapter， section， essay， article
+篠,竹,人名,17,,7BE0,dwarf bamboo; diminutive in person's name
+簞u,竹,人名＝箪,18,,7C1E,
+簾,竹,人名,19,,7C3E,a blind， screen， curtain
+籾,米,人名,9,,7C7E,unhulled rice
+粟,米,人名,12,,7C9F,unhusked millet; grain
+粥,米,人名,12,,7CA5,rice gruel， congee
+糊,米,人名,15,,7CCA,paste， stick on with paste
+紐,糸,人名,10,,7D10,knot; button; handle， knob; tie
+紗,糸,人名,10,,7D17,gauze， thin silk; yarn， thread
+紘,糸,人名,10,,7D18,string; vast， expansive
+紬,糸,人名,11,,7D2C,kind of thin silk
+絃,糸,人名,11,,7D43,string on musical instrument
+絆,糸,人名,11,,7D46,loop， catch; fetter， shackle
+絢,糸,人名,12,,7D62,variegated， adorned; brilliant
+綜,糸,人名,14,,7D9C,arrange threads for weaving
+綴,糸,人名,14,,7DB4,patch together， link， connect
+綸,糸,人名,14,,7DB8,green silk thread or tassel
+綺,糸,人名,14,,7DBA,fine thin silk; elegant， beautifu
+綾,糸,人名,14,,7DBE,thin silk， damask silk
+緋,糸,人名,14,,7DCB,scarlet， dark red， crimson; purpl
+縞,糸,人名,16,,7E1E,white raw silk
+繡s,糸,人名＝繍,19,,7E61,
+繫s,糸,人名＝繋,19,,7E6B,
+纂,糸,人名,20,,7E82,edit， compile; topknot， chignon
+纏,糸,人名,21,,7E8F,wrap， wind around; tie， bind
+羚,羊,人名,11,,7F9A,species of antelope
+翔,羽,人名,12,,7FD4,soar， glide， hover; detailed
+翠,羽,人名,14,,7FE0,color green; kingfisher
+耀,羽,人名,20,,8000,shine， sparkle， dazzle; glory
+而,而,人名,6,,800C,and; and then; and yet; but
+耶,耳,人名,9,,8036,used in transliteration
+耽,耳,人名,10,,803D,indulge in; be negligent
+聡,耳,人名,14,,8061,intelligent， clever， bright
+肇,聿,人名,14,,8087,begin， commence， originate
+肋,肉,人名,6,,808B,ribs; chest
+肴,肉,人名,8,,80B4,cooked or prepared meat
+胡,月,人名,9,,80E1,recklessly， foolishly; wildly
+胤,肉,人名,9,,80E4,heir， successor; progeny， posterity
+脩,肉,人名,11,,8129,dried meat (used as teachers payment in ancient times)
+脹,肉,人名＊,12,チョウ,8139,swell， inflate， expand
+腔,肉,人名,12,,8154,chest cavity; hollow in body
+膏,肉,人名,14,,818F,grease， fat; paste， ointment
+臥,臣,人名,9,,81E5,lie down; crouch
+舜,舛,人名,13,,821C,legendary ruler
+舵,舟,人名,11,,8235,rudder， helm
+芙,艸,人名,7,,8299,hibiscus
+芥,艸,人名,7,,82A5,mustard plant; mustard; tiny
+芦,艸,人名,7,,82A6,rushes， reeds
+芭,艸,人名,7,,82AD,plantain or banana palm; fragrant
+芹,艸,人名,7,,82B9,celery
+苑,艸,人名,8,,82D1,pasture， park， garden; mansion
+苔,艸,人名,8,,82D4,moss， lichen
+苺,艸,人名,8,,82FA,berries
+茄,艸,人名,8,,8304,eggplant
+茅,艸,人名,8,,8305,reeds， rushes， grass; surname
+茉,艸,人名,8,,8309,white jasmine
+茜,艸,人名,9,,831C,madder， rubia cordifolia; reeds
+茸,艸,人名,9,,8338,soft， downy; buds， sprouts
+荻,艸,人名,10,,837B,reed， Miscanthus saccariflorus
+莉,艸,人名,10,,8389,white jasmine
+莞,艸,人名,10,,839E,smiling; a kind of aquatic herb， clubrush， Scirpus lacustris
+莫,艸,人名,10,,83AB,do not， is not， can not; negative
+菅,艸,人名,11,,83C5,coarse grass， themedia forskali
+菖,艸,人名,11,,83D6,iris， sweet flag， calamus
+菩,艸,人名,11,,83E9,herb， aromatic plant
+菫,艸,人名,11,,83EB,celery， aconite
+菱,艸,人名,11,,83F1,water-chestnut， water caltrop
+萄,艸,人名,11,,8404,grapes
+萊s,艸,人名＝莱,11,,840A,
+萌,艸,人名,11,,840C,bud， sprout
+萠,艸,人名－萌,11,,8420,bud， sprout
+萩,艸,人名,12,,8429,scandent hop; tree
+萱,艸,人名,12,,8431,day-lily， hemerocallisflava
+葡,艸,人名,12,,8461,grapes
+董,艸,人名,12,,8463,direct， supervise; surname
+葦,艸,人名,13,,8466,reed
+葵,艸,人名,12,,8475,sunflower; measure
+葺,艸,人名,12,,847A,thatch; fix， repair; pile up
+蒐,艸,人名,13,,8490,collect， gather， assemble; seek; spring hunt; assemble for war
+蒔,艸,人名,13,,8494,transplant; plant; dill， Anethum graveolens
+蒙,艸,人名,13,,8499,cover; ignorant; suffer; mongolia
+蒲,艸,人名,13,,84B2,type of rush; vine
+蒼,艸,人名,13,,84BC,blue; green
+蓉,艸,人名,13,,84C9,hibiscus; Chengdu， Sichuan
+蓑,艸,人名,13,,84D1,rain coat made of straw， coir， etc.
+蓬,艸,人名,13,,84EC,type of raspberry; fairyland
+蓮,艸,人名,13,,84EE,lotus， water lily; paradise
+蔓,艸,人名,14,,8513,creeping plants， tendrils， vines
+蔣s,艸,人名＝蒋,14,,8523,
+蔦,艸,人名,14,,8526,the convovulvus; parasitic plants such as mistletoe; Ribes ambiguum
+蔭,艸,人名,14,,852D,shade， shelter; protect
+蕃,艸,人名,15,,8543,foreign things
+蕉,艸,人名,15,,8549,banana; plantain
+蕎,艸,人名,15,,854E,buckwheat
+蕗,艸,人名,16,,8557,leucacene
+蕨,艸,人名,15,,8568,pteris aquilina， common bracken
+蕪,艸,人名,15,,856A,luxurious growth of weeds
+蕾,艸,人名,16,,857E,buds， unopened flowers
+薙,艸,人名,16,,8599,weed; shave
+薩,艸,人名,17,,85A9,transliteration of 'sat' in 'bodhisattva，' etc.
+藁,艸,人名,17,,85C1,straw， hay; dry， withered
+蘇,艸,人名,19,,8607,revive， resurrect; a species of thyme; transliteration of 'Soviet'
+蘭,艸,人名,19,,862D,orchid; elegant， graceful
+蝦,虫,人名,15,,8766,shrimp， prawn
+蝶,虫,人名,15,,8776,butterfly
+螺,虫,人名,17,,87BA,spiral shell; conch; spiral
+蟬u,虫,人名＝蝉,18,,87EC,
+蟹,虫,人名,19,,87F9,crab， brachyura
+蠟s,虫,人名＝蝋,21,,881F,
+衿,衣,人名,9,,887F,collar or lapel of garment
+袈,衣,人名,11,,8888,Buddhist cassock
+袴,衣,人名,11,,88B4,pants; trousers; panties
+裟,衣,人名,13,,88DF,a cassock or robe of a monk
+裡,衣,人名,12,,88E1,inside， interior， within
+裳,衣,人名,14,,88F3,clothes; skirt; beautiful
+襖,衣,人名,17,,8956,outer garments; coat， jacket
+訊,言,人名,10,,8A0A,inquire; ask; examine; reproach
+訣,言,人名,11,,8A23,take leave of， bid farewell
+註,言,人名,12,,8A3B,explain; annotate; make entry
+詢,言,人名,13,,8A62,inquire into， ask about; consult
+詫,言,人名,13,,8A6B,to brag; exaggerated; to wonder at
+誼,言,人名,15,,8ABC,friendship; appropriate， suitable
+諄,言,人名,15,,8AC4,patient， earnest; earnestly
+諏,言,人名,15,,8ACF,consult， confer; select， choose
+諒,言,人名,15,,8AD2,excuse， forgive; guess， presume
+諺,言,人名,16,,8AFA,proverb， maxim
+謂,言,人名,16,,8B02,say， tell; call， name; be called
+讃,言,人名,22,,8B83,praise， commend， eulogize
+豹,豸,人名,10,,8C79,leopard， panther; surname
+貰,貝,人名,12,,8CB0,borrow; pardon; loan
+賑,貝,人名,14,,8CD1,relieve， aid distressed; rich
+赳,走,人名,10,,8D73,grand， valiant
+跨,足,人名,13,,8DE8,straddle， bestride， ride; carry
+蹄,足,人名,16,,8E44,hoof; leg of pork; little witch
+蹟,足,人名,18,,8E5F,trace， tracks; footprints
+輔,車,人名,14,,8F14,cheek bone; protective; assist
+輯,車,人名,16,,8F2F,gather up， collect; edit， compile
+輿,車,人名,17,,8F3F,cart， palanquin; public opinion
+轟,車,人名,21,,8F5F,rumble， explosion， blast
+辰,辰,人名,7,,8FB0,early morning; 5th terrestrial branch
+辻,辵,人名,5,,8FBB,crossroads; street
+辿,辵,人名,6,,8FBF,follow， pursue
+迂,辵,人名,6,,8FC2,doctrinaire， abstruse， unrealistic
+迄,辵,人名,6,,8FC4,extend， reach; until; till
+迦,辵,人名,8,,8FE6,character for transliteration
+迪,辵,人名,8,,8FEA,enlighten， advance; progress
+逗,辵,人名,10,,9017,tempt， allure， arouse， stir
+這,辵,人名,10,,9019,this， the， here
+逞,辵,人名,11,,901E,indulge oneself; brag， show off
+逢,辵,人名,10,,9022,come upon， happen meet; flatter
+遁,辵,人名,12,,9041,hide， conceal oneself; escape
+遙,辵,人名→遥,14,,9059,far away， distant， remote
+遥,辵,人名,12,,9065,far away， distant， remote
+遼,辵,人名,15,,907C,distant， far
+邑,邑,人名,7,,9091,area， district， city， state
+郁,邑,人名,9,,90C1,sweet smelling， rich in aroma; (Cant.) to move， hit
+鄭,邑,人名,15,,912D,state in today's Henan; surname
+酉,酉,人名,7,,9149,10th terrestrial branch; a wine vessel
+醇,酉,人名,15,,9187,rich， good as wine; pure， unmixed
+醍,酉,人名,16,,918D,essential oil of butter
+醐,酉,人名,16,,9190,purest cream
+醬s,酉,人名＝醤,18,,91AC,
+釉,釆,人名,12,,91C9,glaze
+釘,金,人名,10,,91D8,nail， spike; pursue closely
+釧,金,人名,11,,91E7,bracelet， armlet
+銑,金,人名＊,14,セン,9291,mill
+鋒,金,人名,15,,92D2,point of spear， sharp point
+鋸,金,人名,16,,92F8,a saw; to saw; amputate
+錆,金,人名,16,,9306,the color of a mineral
+錐,金,人名,16,,9310,gimlet， awl， drill， auger; bore
+錘,金,人名＊,16,スイ、つむ,9318,balance weight on scale; hammer
+錫,金,人名,16,,932B,tin， stannum; bestow， confer
+鍬,金,人名,17,,936C,shovel
+鎧,金,人名,18,,93A7,armor， chain mail
+閃,門,人名,10,,9583,flash; avoid， dodge， evade
+閏,門,人名,12,,958F,intercalary; extra， surplus
+閤,門,人名,14,,95A4,small side door; chamber
+阿,阜,人名,8,,963F,prefix for people's names; used in transliteration
+陀,阜,人名,8,,9640,steep bank， rough terrain
+隈,阜,人名,12,,9688,cove， bay， inlet
+隼,隹,人名,10,,96BC,aquiline (nose); a falcon
+雀,隹,人名,11,,96C0,sparrow
+雁,隹,人名,12,,96C1,wild goose
+雛,隹,人名,18,,96DB,chick， fledging; infant， toddler
+雫,雨,人名,11,,96EB,a drop， trickle， dripping
+霞,雨,人名,17,,971E,rosy clouds
+靖,立,人名,13,,9756,pacify; appease; calm， peaceful
+鞄,革,人名,14,,9784,to work hides; leather bag
+鞍,革,人名,15,,978D,saddle; any saddle-shaped object
+鞘,革,人名,16,,9798,scabbard， sheath
+鞠,革,人名,17,,97A0,bow， bend; rear， raise， nourish
+鞭,革,人名,18,,97AD,whip; whip; string of firecrackers
+頁,頁,人名,9,,9801,page， sheet， leaf; rad. no. 181
+頌,頁,人名,13,,980C,laud， acclaim; hymn; ode
+頗,頁,人名,14,,9817,lean one side; very， rather
+顚s,頁,人名＝顛,19,,985A,
+颯,風,人名,14,,98AF,the sound of the wind; bleak; melancholy
+饗,食,人名,20,,9957,host banquet; banquet
+馨,香,人名,20,,99A8,fragrant， aromatic; distant fragrance
+馳,馬,人名,13,,99B3,go quickly or swiftly; hurry
+馴,馬,人名,13,,99B4,tame， docile， obedient
+駕,馬,人名,15,,99D5,to drive， sail， fly; a cart， carriage
+駿,馬,人名,17,,99FF,excellent horse， noble steed
+驍,馬,人名,22,,9A4D,excellent horse; brave， valiant
+魁,鬼,人名,14,,9B41,chief; leader; best; monstrous
+魯,魚,人名,15,,9B6F,foolish， stupid， rash; vulgar
+鮎,魚,人名,16,,9B8E,sheatfish， parasilurus asotus
+鯉,魚,人名,18,,9BC9,carp
+鯛,魚,人名,19,,9BDB,pagrosomus major， porgy
+鰯,魚,人名,21,,9C2F,a sardine
+鱒,魚,人名,23,,9C52,barbel
+鱗,魚,人名,24,,9C57,fish scales
+鳩,鳥,人名,13,,9CE9,pigeon， dove; collect， assemble
+鳳,鳥,人名,14,,9CF3,male phoenix; symbol of joy
+鳶,鳥,人名,14,,9CF6,kite; Milvus species (various)
+鴨,鳥,人名,16,,9D28,duck; Anas species (various)
+鴻,鳥,人名,17,,9D3B,species of wild swan; vast
+鵜,鳥,人名,18,,9D5C,pelican
+鵬,鳥,人名,19,,9D6C,fabulous bird of enormous size
+鷗s,鳥,人名＝鴎,22,,9DD7,
+鷲,鳥,人名,23,,9DF2,condor， vulture
+鷹,鳥,人名,24,,9DF9,eagle， falcon; Accipiter species (various)
+鷺,鳥,人名,24,,9DFA,heron， egret; Ardea species (various)
+麒,鹿,人名,19,,9E92,legendary auspicious animal
+麟,鹿,人名,23,,9E9F,female of Chinese unicorn
+麿,麻,人名,18,,9EBF,I， personal name marker
+黎,黍,人名,15,,9ECE,surname; numerous， many; black
+黛,黑,人名,16,,9EDB,blacken eyebrows; black
+鼎,鼎,人名,13,,9F0E,large， three-legged bronze caldron
+漣t,辵,人名＝漣,14,,F992,
+煉t,火,人名＝煉,13,,F993,
+猪i,犬,人名→猪,12,,FA16,pig， hog， wild boar
+渚t,水,人名→渚,12,,FA46,small sand bank， islet
+琢t,玉,人名→琢,12,,FA4A,polish jade; cut jade
+祐t,示,人名→祐,10,,FA4F,divine intervention， protection
+禎t,示,人名→禎,14,,FA53,lucky， auspicious， good omen
+乘,丿,許容→乗,10,ジョウ、の･せる、の･る,4E58,ride， ascend; avail oneself of; numerary adjunct for vehicles
+亞,二,許容→亜,8,ア,4E9E,Asia; second
+佛,人,許容→仏,7,ブツ、ほとけ,4F5B,Buddha
+來,人,許容→来,8,ライ、きた･す、きた･る、く･る,4F86,come， coming; return， returning
+傳,人,許容→伝,13,デン、つた･う、つた･える、つた･わる,50B3,summon; propagate， transmit
+僞,人,許容→偽,14,ギ、いつわ･る、にせ,50DE,false， counterfeit， bogus
+價,人,許容→価,15,カ、あたい,50F9,price， value
+儉,人,許容→倹,15,ケン,5109,temperate， frugal， economical
+兒,儿,許容→児,8,ジ、ニ,5152,son， child， oneself; final part
+冨,冖,許容－富,11,フ、フウ、とみ、と･む,51A8,abundant， ample; rich， wealthy
+凉,冫,許容－涼,10,リョウ、すず･しい、すず･む,51C9,cool， cold; disheartened
+剩,刀,許容→剰,12,ジョウ,5269,leftovers， residue， remains
+劍,刀,許容→剣,15,ケン、つるぎ,528D,sword， dagger， saber
+勳,力,許容→勲,16,クン,52F3,meritorious deed; merits; rank
+卷,卩,許容→巻,8,カン、まき、ま･く,5377,scroll; curl; make a comeback
+卽u,卩,許容→即,9,ソク,537D,promptly， quickly， immediately
+單,口,許容→単,12,タン,55AE,same as 單 U+55AE， single， individual， only; lone
+嚴,口,許容→厳,20,ゲン、ゴン、おごそ･か、きび･しい,56B4,strict， rigorous， rigid; stern
+圈,囗,許容→圏,11,ケン,5708,to circle; a circle; corral
+國,囗,許容→国,11,コク、くに,570B,nation， country， nation-state
+圓,囗,許容→円,13,エン、まる･い,5713,yen
+團,囗,許容→団,14,ダン、トン,5718,sphere， ball， circle; mass， lump
+埜,土,許容－野,11,ヤ、の,57DC,open country， field; wilderness
+增i,土,許容→増,15,ゾウ、ふ･える、ふ･やす、ま･す,589E,increase
+壘,土,許容→塁,18,ルイ,58D8,rampart， military wall
+壞,土,許容→壊,19,カイ、こわ･す、こわ･れる,58DE,bad， spoil(ed)， ruin， destroy
+壯,士,許容→壮,7,ソウ,58EF,big， large; robust; name of tribe
+壽,士,許容→寿,14,ジュ、ことぶき,58FD,old age， long life; lifespan
+奧,大,許容→奥,13,オウ、おく,5967,mysterious， obscure， profound
+奬,大,許容→奨,14,ショウ,596C,prize， reward; give award to
+孃,女,許容→嬢,20,ジョウ,5B43,troubled， oppressed; fat; mother
+寢,宀,許容→寝,14,シン、ね･かす、ね･る,5BE2,sleep， rest; bed chamber
+實,宀,許容→実,14,ジツ、み、みの･る,5BE6,real， true; honest， sincere
+寬i,宀,許容→寛,14,カン,5BEC,broad
+將,寸,許容→将,11,ショウ,5C07,will， going to， future; general
+專,寸,許容→専,11,セン、もっぱ･ら,5C08,monopolize， take sole possession
+峯,山,許容－峰,10,ホウ、みね,5CEF,peak， summit; hump of camel
+峽,山,許容→峡,10,キョウ,5CFD,gorge， strait， ravine; isthmus
+嶋,山,許容－島,14,トウ、しま,5D8B,island
+巢u,巛,許容→巣,11,ソウ、す,5DE2,nest， living quarter in tree
+帶,巾,許容→帯,11,タイ、おび、お･びる,5E36,belt
+廣,广,許容→広,15,コウ、ひろ･い、ひろ･がる、ひろ･げる、ひろ･まる、ひろ･める,5EE3,broad， wide， extensive
+廳,广,許容→庁,25,チョウ,5EF3,hall， central room
+彈,弓,許容→弾,15,ダン、たま、はず･む、ひ･く,5F48,variant of 彈 U+5F48， a pellet， bullet， shot， shell
+彌,弓,許容→弥,17,や,5F4C,extensive， full; fill; complete
+從,彳,許容→従,11,ショウ、ジュ、ジュウ、したが･う、したが･える,5F9E,from， by， since， whence， through
+徵u,彳,許容→徴,15,チョウ,5FB5,summon
+德i,彳,許容→徳,15,トク,5FB7,virtue; ethics
+恆,心,許容→恒,9,コウ,6046,constant， regular， persistent
+惠,心,許容→恵,12,エ、ケイ、めぐ･む,60E0,favor， benefit， confer kindness
+惡,心,許容→悪,12,アク、オ、わる･い,60E1,evil， wicked， bad， foul
+愼,心,許容→慎,13,シン、つつし･む,613C,act with care， be cautious
+應,心,許容→応,17,オウ、こた･える,61C9,should， ought to， must
+懷,心,許容→懐,19,カイ、なつ･かしい、なつ･かしむ、なつ･く、なつ･ける、ふところ,61F7,bosom， breast; carry in bosom
+戰,戈,許容→戦,16,セン、いくさ、たたか･う,6230,war， fighting， battle
+戲,戈,許容→戯,17,ギ、たわむ･れる,6232,theatrical play， show
+拂,手,許容→払,8,フツ、はら･う,62C2,shake off， brush away; dust
+拔,手,許容→抜,8,バツ、ぬ･かす、ぬ･かる、ぬ･く、ぬ･ける,62D4,uproot， pull out
+拜,手,許容→拝,9,ハイ、おが･む,62DC,do obeisance， bow， kowtow
+揭u,手,許容→掲,12,ケイ、かか･げる,63ED,to set (a table); to install， equip; to lay (a foundation)
+搖,手,許容→揺,13,ヨウ、ゆ･さぶる、ゆ･すぶる、ゆ･する、ゆ･らぐ、ゆ･る、ゆ･るぐ、ゆ･れる,6416,wag， swing， wave; shake; scull
+搜,手,許容→捜,12,ソウ、さが･す,641C,search， seek; investigate
+擊s,手,許容→撃,17,ゲキ、う･つ,64CA,strike， hit， beat; attack， fight
+攝,手,許容→摂,21,セツ,651D,take in， absorb; act as deputy
+收,攴,許容→収,6,シュウ、おさ･まる、おさ･める,6536,gather together， collect; harvest
+敍,攴,許容→叙,11,ジョ,654D,express， state， relate， narrate
+晚u,日,許容→晩,11,バン,665A,night
+晝,日,許容→昼,11,チュウ、ひる,665D,daytime， daylight
+曆u,日,許容→暦,16,レキ、こよみ,66C6,calendar， era
+曉,日,許容→暁,16,ギョウ、あかつき,66C9,dawn， daybreak; clear， explicit
+曾,曰,許容→曽,12,ソウ、ゾ,66FE,already; sign of past
+條,木,許容→条,11,ジョウ,689D,clause， condition; string， stripe
+榮,木,許容→栄,14,エイ、さか･える、は･え、は･える,69AE,glory， honor; flourish， prosper
+樂,木,許容→楽,15,ガク、ラク、たの･しい、たの･しむ,6A02,happy， glad; enjoyable; music
+樣,木,許容→様,15,ヨウ、さま,6A23,shape， form， pattern， style
+橫i,木,許容→横,16,オウ、よこ,6A6B,across
+檢,木,許容→検,17,ケン,6AA2,check; examine
+櫻,木,許容→桜,21,オウ、さくら,6AFB,cherry， cherry blossom
+步u,止,許容→歩,7,フ、ブ、ホ、あゆ･む、ある･く,6B65,step
+歷u,止,許容→歴,16,レキ,6B77,take place， past， history
+每u,毋,許容→毎,7,マイ,6BCF,every
+氣,气,許容→気,10,キ、ケ,6C23,air， gas， steam， vapor; spirit
+涉u,水,許容→渉,10,ショウ,6D89,ford stream
+淚u,水,許容→涙,11,ルイ、なみだ,6DDA,tears; weep
+淨,水,許容→浄,11,ジョウ,6DE8,pure， clean， unspoiled
+渴u,水,許容→渇,12,カツ、かわ･く,6E34,thirsty
+溫u,水,許容→温,13,オン、あたた･か、あたた･かい、あたた･まる、あたた･める,6EAB,lukewarm
+滯,水,許容→滞,14,タイ、とどこお･る,6EEF,block up， obstruct; stagnant
+澁,水,許容→渋,15,ジュウ、しぶ、しぶ･い、しぶ･る,6F81,astringent; harsh; uneven， rough
+濕,水,許容→湿,17,シツ、しめ･す、しめ･る,6FD5,wet， moist， humid， damp; illness
+瀧,水,許容→滝,19,たき,7027,onomatopoeic for the sound of falling rain; an ancient name for Wu Shui; a place in Guangdong
+瀨i,水,許容→瀬,19,せ,7028,swift current; rapids
+燈,火,許容→灯,16,トウ、ひ,71C8,lantern， lamp
+燒,火,許容→焼,16,ショウ、や･く、や･ける,71D2,burn; bake; heat; roast
+爭,爪,許容→争,8,ソウ、あらそ･う,722D,dispute， fight， contend， strive
+爲,爪,許容→為,12,イ,7232,do， handle， govern， act; be
+狀u,犬,許容→状,8,ジョウ,72C0,form; appearance; shape; official
+狹,犬,許容→狭,10,キョウ、せば･まる、せば･める、せま･い,72F9,narrow， limited; narrow-minded
+獸,犬,許容→獣,19,ジュウ、けもの,7378,beast， animal; bestial
+疊,田,許容→畳,22,ジョウ、たたみ、たた･む,758A,repeat， duplicate; repetitious
+瘦s,疒,許容→痩,15,ソウ、や･せる,7626,thin， emaciated， lean; meager
+盃,皿,許容－杯,9,ハイ、さかずき,76C3,cup， glass
+盜,皿,許容→盗,12,トウ、ぬす･む,76DC,rob， steal; thief， bandit
+盡,皿,許容→尽,14,ジン、つ･かす、つ･きる、つ･くす,76E1,exhaust， use up; deplete
+眞,目,許容→真,10,シン、ま,771E,real， actual， true， genuine
+碎,石,許容→砕,13,サイ、くだ･く、くだ･ける,788E,break， smash; broken， busted
+祕,示,許容→秘,10,ヒ、ひ･める,7955,secret， mysterious， abstruse
+禪,示,許容→禅,17,ゼン,79AA,meditation， contemplation (DKW: 24787')
+禮,示,許容→礼,18,ライ、レイ,79AE,social custom; manners; courtesy
+稻,禾,許容→稲,15,トウ、いな、いね,7A3B,rice growing in field， rice plant
+穗,禾,許容→穂,17,スイ、ほ,7A57,ear of grain; tassel; Guangzhou
+粹,米,許容→粋,14,スイ、いき,7CB9,pure; unadulterated; select
+綠i,糸,許容→緑,14,リョク、ロク、みどり,7DA0,green; chlorine
+緖i,糸,許容→緒,15,ショ、チョ、お,7DD6,end of thread; thread
+緣u,糸,許容→縁,15,エン、ふち,7DE3,hem
+縣,糸,許容→県,16,ケン,7E23,county， district， subdivision
+縱,糸,許容→縦,17,ジュウ、たて,7E31,indulge in， give free reign to
+纖,糸,許容→繊,23,セン,7E96,fine， delicate; minute; graceful
+聽,耳,許容→聴,22,チョウ、き･く,807D,hear， listen; understand; obey
+臟,肉,許容→臓,22,ゾウ,81DF,internal organs， viscera
+與,臼,許容→与,14,ヨ、あた･える,8207,and; with; to; for; give， grant
+莊,艸,許容→荘,10,ソウ,838A,village， hamlet; villa; surname
+萬,艸,許容→万,12,バン、マン,842C,ten thousand; innumerable
+薗,艸,許容－園,16,エン、その,8597,garden; park， orchard
+薰i,艸,許容→薫,17,クン、かお･る,85B0,a medicinal herb; to cauterize
+藏,艸,許容→蔵,18,ゾウ、くら,85CF,hide， conceal; hoard， store up
+藝,艸,許容→芸,18,ゲイ,85DD,rue， herb used to keep insects away; to cut grass or weeds; art， talent， ability， craft， technique， performance， acting， trick， stunt
+藥,艸,許容→薬,18,ヤク、くすり,85E5,drugs， pharmaceuticals， medicine
+虛u,虍,許容→虚,12,キョ、コ,865B,false
+衞,行,許容→衛,16,エイ,885E,guard， protect， defend
+裝,衣,許容→装,13,ショウ、ソウ、よそお･う,88DD,dress， clothes， attire; fill
+覽,見,許容→覧,22,ラン,89BD,look at， inspect; perceive
+謠,言,許容→謡,17,ヨウ、うたい、うた･う,8B20,sing; folksong， ballad; rumor
+讓,言,許容→譲,24,ジョウ、ゆず･る,8B93,allow， permit， yield， concede
+賣,貝,許容→売,15,バイ、う･る、う･れる,8CE3,sell; [NOT casing， shell， husk]
+賴i,貝,許容→頼,16,ライ、たの･む、たの･もしい、たよ･る,8CF4,rely， depend on; accuse falsely
+轉,車,許容→転,18,テン、ころ･がす、ころ･がる、ころ･げる、ころ･ぶ,8F49,shift， move， turn
+郞i,邑,許容→郎,10,ロウ,90DE,gentleman， young man; husband
+醉,酉,許容→酔,15,スイ、よ･う,9189,intoxicated， drunk; addicted to
+釀,酉,許容→醸,24,ジョウ、かも･す,91C0,brew， ferment
+錄u,金,許容→録,16,ロク,9304,copy
+鍊u,金,許容→錬,17,レン,934A,smelt metals
+鎭,金,許容→鎮,18,チン、しず･まる、しず･める,93AD,town， market place; suppress
+鑄,金,許容→鋳,22,チュウ、い･る,9444,melt， cast; coin， mint
+陷,阜,許容→陥,11,カン、おちい･る、おとしい･れる,9677,submerge， sink， plunge; trap
+險,阜,許容→険,16,ケン、けわ･しい,96AA,narrow pass， strategic point
+雜,隹,許容→雑,18,ザツ、ゾウ,96DC,mixed， blended; mix， mingle
+靜,青,許容→静,16,ジョウ、セイ、しず、しず･か、しず･まる、しず･める,975C,quiet， still， motionless; gentle
+顯,頁,許容→顕,23,ケン,986F,manifest， display; evident， clear
+飜x,飛,許容→翻,21,ホン、ひるがえ･す、ひるがえ･る,98DC,flip over， upset， capsize
+駈,馬,許容－駆,15,ク、か･ける、か･る,99C8,spur a horse on; expel， drive away
+騷,馬,許容→騒,20,ソウ、さわ･ぐ,9A37,harass， bother， annoy， disturb
+驗,馬,許容→験,23,ケン、ゲン,9A57,test， examine， inspect; verify
+髮,髟,許容→髪,15,ハツ、かみ,9AEE,hair
+鷄,鳥,許容→鶏,21,ケイ、にわとり,9DC4,chicken
+黃u,黃,許容→黄,12,オウ、コウ、き、こ,9EC3,yellow; surname
+黑i,黑,許容→黒,12,コク、くろ、くろ･い,9ED1,black; dark; evil
+默,黑,許容→黙,16,モク、だま･る,9ED8,silent; quiet， still; dark
+齊,齊,許容→斉,14,セイ,9F4A,even， uniform， of equal length
+龍,龍,許容→竜,16,リュウ,9F8D,dragon; symbolic of emperor
+欄k,木,許容→欄,21,ラン,F91D,railing， balustrade; animal pan
+廊k,广,許容→廊,13,ロウ,F928,corridor， porch， veranda
+朗i,月,許容→朗,11,ロウ、ほが･らか,F929,clear， bright; distinct
+虜k,虍,許容→虜,13,リョ,F936,to capture， imprison， seize; a prison
+類k,頁,許容→類,19,ルイ、たぐい,F9D0,class， group， kind， category
+神i,示,許容→神,10,シン、ジン、かみ、かん、こう,FA19,spirit， god， supernatural being
+祥i,示,許容→祥,11,ショウ,FA1A,good luck， good omen; happiness
+福i,示,許容→福,14,フク,FA1B,happiness， good fortune， blessing
+諸i,言,許容→諸,16,ショ,FA22,several， various
+都i,邑,許容→都,12,ツ、ト、みやこ,FA26,metropolis， capital; all， the whole; elegant， refined
+侮t,人,許容→侮,9,ブ、あなど･る,FA30,insult， ridicule， disgrace
+僧t,人,許容→僧,14,ソウ,FA31,Buddhist priest， monk; san of Sanskrit sangha
+勉t,力,許容→勉,9,ベン,FA33,endeavor， make effort; urge
+勤t,力,許容→勤,13,キン、ゴン、つと･まる、つと･める,FA34,industrious， diligent， attentive
+卑t,十,許容→卑,8,ヒ、いや･しい、いや･しむ、いや･しめる,FA35,humble， low， inferior; despise
+嘆t,口,許容→嘆,14,タン、なげ･かわしい、なげ･く,FA37,sigh， admire
+器t,口,許容→器,16,キ、うつわ,FA38,receptacle， vessel; instrument
+墨t,土,許容→墨,15,ボク、すみ,FA3A,ink; writing
+層t,尸,許容→層,15,ソウ,FA3B,storey， layer， floor， stratum
+悔t,心,許容→悔,10,カイ、くや･しい、く･いる、く･やむ,FA3D,repent， show remorse， regret
+憎t,心,許容→憎,15,ゾウ、にく･い、にく･しみ、にく･む、にく･らしい,FA3F,hate， detest， abhor; hatred
+懲t,心,許容→懲,19,チョウ、こ･らしめる、こ･らす、こ･りる,FA40,punish， reprimand; warn
+敏t,攴,許容→敏,11,ビン,FA41,fast， quick， clever， smart
+暑t,日,許容→暑,13,ショ、あつ･い,FA43,hot
+梅t,木,許容→梅,11,バイ、うめ,FA44,plums; prunes; surname
+海t,水,許容→海,10,カイ、うみ,FA45,sea， ocean; maritime
+漢t,水,許容→漢,14,カン,FA47,the Chinese people， Chinese language
+煮t,火,許容→煮,13,シャ、に･える、に･やす、に･る,FA48,cook
+碑t,石,許容→碑,13,ヒ,FA4B,stone tablet; gravestone
+社t,示,許容→社,8,シャ、やしろ,FA4C,god of the soil and altars to him; group of families; company， society
+祉t,示,許容→祉,9,シ,FA4D,happiness， blessings， good luck
+祈t,示,許容→祈,9,キ、いの･る,FA4E,pray; entreat， beseech
+祖t,示,許容→祖,10,ソ,FA50,ancestor， forefather; grandfather
+祝t,示,許容→祝,10,シュウ、シュク、いわ･う,FA51,pray for happiness or blessings
+禍t,示,許容→禍,14,カ,FA52,misfortune， calamity， disaster
+穀t,禾,許容→穀,15,コク,FA54,corn， grain， cereal; lucky
+突t,穴,許容→突,9,トツ、つ･く,FA55,suddenly， abruptly， unexpectedly
+節t,竹,許容→節,15,セチ、セツ、ふし,FA56,knot， node， joint; section
+練t,糸,許容→練,15,レン、ね･る,FA57,practice， drill， exercise， train
+繁t,糸,許容→繁,17,ハン,FA59,complicated， complex， difficult
+署t,网,許容→署,14,ショ,FA5A,public office
+者t,老,許容→者,9,シャ、もの,FA5B,that which; he who; those who
+臭t,自,許容→臭,10,シュウ、くさ･い、にお･う,FA5C,smell， stink， emit foul odor
+著t,艸,許容→著,12,チョ、あらわ･す、いちじる･しい,FA5F,manifest; (Cant.) to wear
+視t,見,許容→視,12,シ,FA61,look at， inspect， observe， see
+謁t,言,許容→謁,16,エツ,FA62,visit， pay respects to
+謹t,言,許容→謹,18,キン、つつし･む,FA63,prudent， cautious; attentive
+賓t,貝,許容→賓,14,ヒン,FA64,guest， visitor; surname; submit
+贈t,貝,許容→贈,19,ソウ、ゾウ、おく･る,FA65,give present; bestow， confer
+逸t,辵,許容→逸,13,イツ,FA67,flee， escape， break loose
+難t,隹,許容→難,19,ナン、かた･い、むずか･しい,FA68,difficult， arduous， hard; unable
+響t,音,許容→響,22,キョウ、ひび･く,FA69,make sound， make noise; sound
+亂,乙,旧字→乱,13,ラン、みだ･す、みだ･れる,4E82,confusion， state of chaos， revolt
+倂u,人,旧字→併,10,ヘイ、あわ･せる,5002,combine， annex
+假,人,旧字→仮,11,カ、ケ、かり,5047,falsehood， deception; vacation
+兩,入,旧字→両,8,リョウ,5169,two， both， pair， couple; a tael， ounce
+劑,刀,旧字→剤,16,ザイ,5291,medicinal preparation
+勞,力,旧字→労,12,ロウ,52DE,labor， toil， do manual work
+勵,力,旧字→励,16,レイ、はげ･ます、はげ･む,52F5,strive; encourage
+勸,力,旧字→勧,19,カン、すす･める,52F8,recommend， advise， urge
+區,匸,旧字→区,11,ク,5340,area， district， region， ward
+參,厶,旧字→参,11,サン、まい･る,53C3,take part in， intervene; ginseng
+囑,口,旧字→嘱,24,ショク,56D1,order， tell， instruct， leave word
+圍,囗,旧字→囲,12,イ、かこ･う、かこ･む,570D,surround， encircle， corral; whip
+圖,囗,旧字→図,14,ズ、ト、はか･る,5716,diagram; chart， map， picture
+墮,土,旧字→堕,15,ダ,58AE,fall， sink， let fall; degenerate
+壓,土,旧字→圧,17,アツ,58D3,same as 壓 U+58D3， to press; to oppress; to crush; pressure
+壤,土,旧字→壌,20,ジョウ,58E4,soil， loam， earth; rich
+壹,士,旧字→壱,12,イチ,58F9,number one
+學,子,旧字→学,16,ガク、まな･ぶ,5B78,learning， knowledge; school
+寫,宀,旧字→写,15,シャ、うつ･す、うつ･る,5BEB,write; draw， sketch; compose
+寶,宀,旧字→宝,20,ホウ、たから,5BF6,treasure， jewel; precious， rare
+對,寸,旧字→対,14,タイ、ツイ,5C0D,correct， right; facing， opposed
+屆,尸,旧字→届,8,とど･く、とど･ける,5C46,numerary adjunct for time， term
+屬,尸,旧字→属,21,ゾク,5C6C,class， category， type; belong to
+嶽,山,旧字→岳,17,ガク、たけ,5DBD,mountain peak; surname
+廢,广,旧字→廃,15,ハイ、すた･る、すた･れる,5EE2,abrogate， terminate， discard
+徑,彳,旧字→径,10,ケイ,5F91,narrow path; diameter; direct
+惱,心,旧字→悩,12,ノウ、なや･ます、なや･む,60F1,angered， filled with hate
+慘,心,旧字→惨,14,サン、ザン、みじ･め,6158,sad， pitiful， wretched; cruel
+戀,心,旧字→恋,23,レン、こい、こい･しい、こ･う,6200,love; long for， yearn for; love
+戾u,戸,旧字→戻,8,レイ、もど･す、もど･る,623E,perverse
+挾,手,旧字→挟,10,キョウ、はさ･まる、はさ･む,633E,clasp under arm; hold to bosom
+插,手,旧字→挿,12,ソウ、さ･す,63D2,insert， stick into; plant
+擇,手,旧字→択,16,タク,64C7,select， choose， pick out
+擔,手,旧字→担,16,タン、かつ･ぐ、にな･う,64D4,carry， bear， undertake
+據,手,旧字→拠,16,キョ、コ,64DA,to occupy， take possession of; a base， position
+擧,手,旧字→挙,18,キョ、あ･がる、あ･げる,64E7,raise， lift up; recommend
+擴,手,旧字→拡,18,カク,64F4,expand， enlarge， stretch
+效,攴,旧字→効,10,コウ、き･く,6548,efficacious， effectiveness; to toil， to serve in the army
+敕x,攴,旧字→勅,11,チョク,6555,imperial decree; daoist magic
+數,攴,旧字→数,15,ス、スウ、かず、かぞ･える,6578,number; several， count; fate
+斷,斤,旧字→断,18,ダン、ことわ･る、た･つ,65B7,sever， cut off; interrupt
+會,曰,旧字→会,13,エ、カイ、あ･う,6703,assemble， meet together; meeting
+棧,木,旧字→桟,12,サン,68E7,a crosspiece， cleat， frame， door bolt; shelf
+槪t,木,旧字→概,16,ガイ,69EA,generally， approximately
+樓,木,旧字→楼,15,ロウ,6A13,building of two or more stories
+樞,木,旧字→枢,15,スウ,6A1E,door hinge; pivot; center of power
+權,木,旧字→権,21,ケン、ゴン,6B0A,power， right， authority
+歐,欠,旧字→欧,15,オウ,6B50,translit.: Europe; ohm; surname
+歡,欠,旧字→歓,21,カン,6B61,happy， pleased， glad; joy; enjoy
+歸,止,旧字→帰,18,キ、かえ･す、かえ･る,6B78,return; return to， revert to
+殘,歹,旧字→残,12,ザン、のこ･す、のこ･る,6B98,injure， spoil; oppress; broken
+殼,殳,旧字→殻,12,カク、から,6BBC,casing， shell， husk， hull， skin
+毆,殳,旧字→殴,15,オウ、なぐ･る,6BC6,beat， fight with fists， hit
+淺,水,旧字→浅,11,セン、あさ･い,6DFA,shallow， not deep; superficial
+溪,水,旧字→渓,13,ケイ,6EAA,mountain stream， creek
+滿,水,旧字→満,14,マン、み･たす、み･ちる,6EFF,fullness， enough; pride
+潛,水,旧字→潜,15,セン、ひそ･む、もぐ･る,6F5B,hide; hidden， secret， latent
+澤,水,旧字→沢,16,タク、さわ,6FA4,marsh， swamp; grace， brilliance
+濟,水,旧字→済,17,サイ、す･ます、す･む,6FDF,help， aid， relieve; ferry， cross
+濱,水,旧字→浜,17,ヒン、はま,6FF1,creek， stream; beach， sea coast
+灣,水,旧字→湾,25,ワン,7063,bay， cove， inlet， bend of stream
+營,火,旧字→営,17,エイ、いとな･む,71DF,encampment， barracks; manage
+爐,火,旧字→炉,20,ロ,7210,fireplace， stove， oven， furnace
+犧,牛,旧字→犠,20,ギ,72A7,sacrifice， give up; sacrificial
+獨,犬,旧字→独,16,ドク、ひと･り,7368,alone， single， solitary， only
+獵,犬,旧字→猟,18,リョウ,7375,hunt; field sports
+獻,犬,旧字→献,20,ケン、コン,737B,offer， present; show， display
+瓣,辛,旧字→弁,20,ベン,74E3,conical cap worn during Zhou dynasty
+甁i,瓦,旧字→瓶,13,ビン,7501,jug， pitcher， vase， jar， bottle
+畫,田,旧字→画,12,カク、ガ,756B,a painting， picture， drawing; to draw
+當,田,旧字→当,13,トウ、あ･たる、あ･てる,7576,bear， accept， undertake; just
+癡,疒,旧字→痴,19,チ,7661,foolish， stupid， dumb， silly
+發,癶,旧字→発,12,ハツ、ホツ,767C,issue， dispatch， send out， emit
+硏u,石,旧字→研,11,ケン、と･ぐ,784F,grind， rub; study， research
+稱,禾,旧字→称,14,ショウ,7A31,call; name， brand; address; say
+穩,禾,旧字→穏,19,オン、おだ･やか,7A69,calm， quiet， peace; moderation
+竊,穴,旧字→窃,22,セツ,7ACA,secretly， stealthily; steal; thief
+竝,立,旧字→並,10,ヘイ、なみ、なら･びに、なら･ぶ、なら･べる,7ADD,equal to; side by side; also， what is more; both
+絲,糸,旧字→糸,12,シ、いと,7D72,silk; KangXi radical 120
+經,糸,旧字→経,13,キョウ、ケイ、へ･る,7D93,classic works; pass through
+總,糸,旧字→総,17,ソウ,7E3D,collect; overall， altogether
+繩,糸,旧字→縄,19,ジョウ、なわ,7E69,rope， string， cord; control
+繪,糸,旧字→絵,19,エ、カイ,7E6A,draw， sketch， paint
+繼,糸,旧字→継,20,ケイ、つ･ぐ,7E7C,continue， maintain， carry on
+續,糸,旧字→続,21,ゾク、つづ･く、つづ･ける,7E8C,continue， carry on; succeed
+缺,缶,旧字→欠,10,ケツ、か･く、か･ける,7F3A,owe， lack， be deficient; KangXi radical number 76
+罐,缶,旧字→缶,23,カン,7F50,earthen crock or jar; rad. 121
+聲,耳,旧字→声,17,ショウ、セイ、こえ、こわ,8072,sound， voice， noise; tone; music
+肅,聿,旧字→粛,13,シュク,8085,pay respects; reverently
+腦,肉,旧字→脳,13,ノウ,8166,brain
+膽,肉,旧字→胆,17,タン,81BD,gall bladder; bravery， courage
+臺,至,旧字→台,14,タイ、ダイ,81FA,platform; unit; term of address
+舊,艸,旧字→旧,17,キュウ,820A,old， ancient; former， past
+艷,色,旧字→艶,24,エン、つや,8277,beautiful， sexy， voluptuous
+莖,艸,旧字→茎,10,ケイ、くき,8396,stem， stalk
+處,虍,旧字→処,11,ショ,8655,place， locale; department
+號,虍,旧字→号,13,ゴウ,865F,mark， sign; symbol; number
+螢,虫,旧字→蛍,16,ケイ、ほたる,87A2,glow-worm， luminous insect
+蟲,虫,旧字→虫,18,チュウ、むし,87F2,insects， worms; KangXi radical 142
+蠶,虫,旧字→蚕,24,サン、かいこ,8836,silkworms
+蠻,虫,旧字→蛮,25,バン,883B,barbarians; barbarous， savage
+襃x,衣,旧字→褒,17,ホウ、ほ･める,8943,praise， commend， honor， cite
+覺,見,旧字→覚,20,カク、おぼ･える、さ･ます、さ･める,89BA,to wake up from sleep; conscious
+觀,見,旧字→観,24,カン,89C0,see， observe， view; appearance
+觸,角,旧字→触,20,ショク、さわ･る、ふ･れる,89F8,butt， ram， gore; touch
+證,言,旧字→証,19,ショウ,8B49,prove， confirm， verify; proof
+譯,言,旧字→訳,20,ヤク、わけ,8B6F,translate; decode; encode
+譽,言,旧字→誉,21,ヨ、ほま･れ,8B7D,fame， reputation; praise
+讀,言,旧字→読,22,トウ、トク、ドク、よ･む,8B80,read， study; pronounce
+變,言,旧字→変,23,ヘン、か･える、か･わる,8B8A,change， transform， alter; rebel
+豐,豆,旧字→豊,18,ホウ、ゆたか,8C50,abundant， lush， bountiful， plenty
+豫,豕,旧字→予,16,ヨ,8C6B,I， me; to give
+貳,貝,旧字→弐,12,ニ,8CB3,number two
+贊,貝,旧字→賛,19,サン,8D0A,help， support， assist， aid
+踐,足,旧字→践,15,セン,8E10,trample， tread upon， walk on
+輕,車,旧字→軽,14,ケイ、かる･い、かろ･やか,8F15,light; easy， simple; gentle
+辨,辛,旧字→弁,16,ベン,8FA8,conical cap worn during Zhou dynasty
+辭,辛,旧字→辞,19,ジ、や･める,8FAD,words， speech， expression， phrase
+辯,言,旧字→弁,21,ベン,8FAF,conical cap worn during Zhou dynasty
+遞,辵,旧字→逓,14,テイ,905E,hand over， deliver; substitute
+遲,辵,旧字→遅,16,チ、おく･らす、おく･れる、おそ･い,9072,late， tardy; slow; delay
+邊,辵,旧字→辺,19,ヘン、あた･り、べ,908A,edge， margin， side， border
+鄕i,邑,旧字→郷,13,キョウ、ゴウ,9115,country; rural; village
+醫,酉,旧字→医,18,イ,91AB,cure， heal; doctor， medical
+釋,釆,旧字→釈,20,シャク,91CB,interprete， elucidate; release
+錢,金,旧字→銭,16,セン、ぜに,9322,money， currency， coins
+鐵,金,旧字→鉄,21,テツ,9435,iron; strong， solid， firm
+鑛,金,旧字→鉱,23,コウ,945B,mine; mineral， ore
+關,門,旧字→関,19,カン、かか･わる、せき,95DC,frontier pass; close; relation
+隨,阜,旧字→随,16,ズイ,96A8,follow， listen to， submit to
+隱,阜,旧字→隠,17,イン、かく･す、かく･れる,96B1,to hide， conceal， cover; to disappear， lurk; an open secret
+雙,隹,旧字→双,18,ソウ、ふた,96D9,set of two， pair， couple; both
+霸,雨,旧字→覇,21,ハ,9738,rule by might rather than right
+靈,雨,旧字→霊,24,リョウ、レイ、たま,9748,spirit， soul; spiritual world
+餘,食,旧字→余,16,ヨ、あま･す、あま･る,9918,I， my， me; surname; surplus
+餠,食,旧字→餅,17,ヘイ、もち,9920,rice-cakes， biscuits
+驅,馬,旧字→駆,21,ク、か･ける、か･る,9A45,spur a horse on; expel， drive away
+驛,馬,旧字→駅,23,エキ,9A5B,relay station
+髓,骨,旧字→髄,23,ズイ,9AD3,bone marrow; essences， substances
+體,骨,旧字→体,23,タイ、テイ、からだ,9AD4,body; group， class， body， unit; inferior
+鬪,鬥,旧字→闘,20,トウ、たたか･う,9B2A,struggle， fight， compete， contend
+鹽,鹵,旧字→塩,25,エン、しお,9E7D,salt
+麥,麥,旧字→麦,11,バク、むぎ,9EA5,wheat， barley， oats; simplified form of KangXi radical number 199
+麵s,麥,旧字→麺,20,メン,9EB5,flour， dough， noodles
+點,黑,旧字→点,17,テン,9EDE,dot， speck， spot; point， degree
+黨,黑,旧字→党,20,トウ,9EE8,political party， gang， faction
+齋,齊,旧字→斎,17,サイ,9F4B,vegetarian diet; study
+齒,齒,旧字→歯,15,シ、は,9F52,teeth; gears， cogs; age; a form of KangXi radical 211
+齡,齒,旧字→齢,20,レイ,9F61,age; years
+龜,龜,旧字→亀,16,キ、かめ,9F9C,turtle or tortoise; cuckold
+殺k,殳,旧字→殺,11,サイ、サツ、セツ、ころ･す,F970,kill， slaughter， murder; hurt; to pare off， reduce， clip
+隆i,阜,旧字→隆,12,リュウ,F9DC,prosperous， plentiful， abundant
+塚i,土,旧字→塚,13,つか,FA10,cemetery; tomb， burial mound
+免t,儿,旧字→免,7,メン、まぬか･れる,FA32,spare; excuse from; evade
+喝t,口,旧字→喝,12,カツ,FA36,drink; shout， call out
+塀t,土,旧字→塀,14,ヘイ,FA39,wall， fence
+慨t,心,旧字→慨,15,ガイ,FA3E,sigh， regret; generous
+既t,无,旧字→既,12,キ、すで･に,FA42,already; de facto; since; then
+褐t,衣,旧字→褐,14,カツ,FA60,coarse woolen cloth; dull， dark
+頻t,頁,旧字→頻,16,ヒン,FA6A,frequently， again and again

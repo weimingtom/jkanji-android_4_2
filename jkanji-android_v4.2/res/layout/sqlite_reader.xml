@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="#FFFFFF"
+    >
+
+    <com.markupartist.android.widget.ActionBar
+        android:id="@+id/actionbar"
+        android:layout_width="fill_parent"
+        android:layout_height="45dip"
+        android:orientation="horizontal"
+        android:background="@drawable/actionbar_background"
+        />
+
+    <LinearLayout
+        android:id="@+id/linearLayoutHead"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+    
+	    <LinearLayout
+	        android:id="@+id/searchLinearLayout"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content" >
+	
+	        <EditText
+	            android:id="@+id/searchInput"
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:singleLine="true"
+	            android:layout_weight="3"
+	            android:imeOptions="actionSearch"
+	            />
+	        	
+	        <Button
+	            android:id="@+id/searchButton"
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:text="搜索"
+	            />
+	    </LinearLayout>
+	    
+	    <LinearLayout 
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	      	android:orientation="horizontal"
+	      	android:gravity="center_vertical"	        
+	        >
+	        
+		    <RadioGroup
+		        android:layout_width="0dp"
+		        android:layout_height="wrap_content"
+		        android:orientation="horizontal"
+		        android:gravity="center_vertical"
+		        android:layout_weight="2"
+		        >
+		        <RadioButton
+		            android:id="@+id/radioButtonDict"
+		            android:layout_width="match_parent"
+		            android:layout_height="wrap_content"
+		            android:layout_weight="1"
+		            android:checked="true"
+		            android:textColor="#000000"
+		            android:text="词典" />
+		
+		        <RadioButton
+		            android:id="@+id/radioButtonExamples"
+		            android:layout_width="match_parent"
+		            android:layout_height="wrap_content"
+		            android:layout_weight="1"
+		            android:textColor="#000000"
+		            android:text="例句" />
+			</RadioGroup>
+	        
+			<Spinner
+			    android:id="@+id/spinnerSearchType"
+			    android:layout_width="0dp"
+			    android:layout_height="wrap_content"
+			    android:gravity="center_vertical"
+			    android:layout_weight="1" />
+			
+			<Spinner
+			    android:id="@+id/spinnerSearchDictId"
+			    android:layout_width="0dp"
+			    android:layout_height="wrap_content"
+			    android:gravity="center_vertical"
+			    android:layout_weight="1" />
+	    </LinearLayout>
+		 
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+        <TextView
+            android:id="@+id/textViewMessage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:text="" />
+    </LinearLayout>
+    
+    <!-- 
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:id="@+id/buttonThreadStart"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="线程开始" />
+
+        <Button
+            android:id="@+id/buttonThreadEnd"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="线程结束" />
+
+    </LinearLayout>
+      -->
+      
+    <FrameLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        >
+	    <ListView
+	        android:id="@+id/viewListView"
+	        android:layout_width="fill_parent"
+	        android:layout_height="fill_parent" 
+	        android:cacheColorHint="#00000000"
+	        android:divider="@drawable/main_menu_list_line"
+	        android:listSelector="#00000000"
+	        />
+	    <TextView
+	        android:id="@+id/textViewLoading"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:visibility="invisible"
+	        android:gravity="center"
+	        android:text="sqlite搜索中...\n全文搜索需几分钟,建议选择字典类型"
+	        android:textColor="#000000"
+	        android:layout_gravity="center|center_vertical"
+	        />
+    </FrameLayout>
+</LinearLayout>

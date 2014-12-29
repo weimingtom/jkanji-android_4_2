@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+    
+    <ImageView
+        android:id="@+id/imageViewFlash"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:scaleType="centerInside"
+        android:src="@drawable/flash_11075_image1"
+        >
+    </ImageView>
+   
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:layout_weight="0"
+        >
+	    <Button
+	    	android:id="@+id/buttonSearch"
+	      	android:layout_width="match_parent"
+	      	android:layout_height="wrap_content"
+	      	android:layout_weight="1"
+	      	android:text="搜索" 
+	      	/>
+	    <Button
+	      	android:id="@+id/buttonMemo"
+	      	android:layout_width="match_parent"
+	      	android:layout_height="wrap_content"
+	      	android:layout_weight="1"
+	      	android:text="备忘" 
+	      	/>
+	    <Button
+	      	android:id="@+id/buttonSen"
+	      	android:layout_width="match_parent"
+	      	android:layout_height="wrap_content"
+	      	android:layout_weight="1"
+	      	android:text="分词" 
+	      	/>
+	    <Button
+	      	android:id="@+id/buttonCancel"
+	      	android:layout_width="match_parent"
+	      	android:layout_height="wrap_content"
+	      	android:layout_weight="1"
+	      	android:text="取消" 
+	      	/>
+    </LinearLayout>
+
+</LinearLayout>

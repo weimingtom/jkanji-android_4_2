@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FFFFFF"
+    >
+
+    <com.markupartist.android.widget.ActionBar
+        android:id="@+id/actionbar"
+        android:layout_width="fill_parent"
+        android:layout_height="45dip"
+        android:orientation="horizontal"
+        android:background="@drawable/actionbar_background"
+        />
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:gravity="center_vertical"
+        >
+
+        <Button
+            android:id="@+id/buttonJump"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="jkanji" 
+            />
+        <Button
+            android:id="@+id/buttonUp"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="向上" 
+            />
+    </LinearLayout>
+    
+    <TextView
+        android:id="@+id/textViewInfo"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="" 
+        android:textColor="#000000"
+        />
+    
+	<ListView
+	    android:id="@+id/lvFiles" 
+	    android:layout_width="fill_parent"
+		android:layout_height="0dp"
+		android:layout_weight="1"
+        android:cacheColorHint="#00000000"
+        android:divider="@drawable/main_menu_list_line"
+        android:listSelector="#00000000"
+        android:fastScrollEnabled="true"
+		/>
+</LinearLayout>

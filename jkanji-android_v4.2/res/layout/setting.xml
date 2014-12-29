@@ -1,0 +1,1056 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical" 
+    >
+	
+    <FrameLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"        
+        >
+    <ImageView 
+        android:id="@+id/imageViewTop"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:scaleType="centerCrop"
+        />
+    <LinearLayout
+        android:id="@+id/linearLayoutTop"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:orientation="vertical"
+        >
+        
+        
+    <com.markupartist.android.widget.ActionBar
+        android:id="@+id/actionbar"
+        android:layout_width="fill_parent"
+        android:layout_height="45dip"
+        android:orientation="horizontal"
+        android:background="@drawable/actionbar_background"
+        />
+    
+    <FrameLayout 
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#88FFFFFF"
+        >
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" 
+        android:padding="10dp">
+
+        <LinearLayout
+            android:id="@+id/linearLayout1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+             >
+
+			<!-- 
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="全局设置"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#000000" />
+			 -->
+			<TextView
+				android:text="日文字体路径"
+				android:gravity="center"
+				android:padding="10dip"
+				android:background="#add8e6"
+				android:textColorHighlight="#e6e6e6"
+				android:textColor="#000000"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:includeFontPadding="true"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+			/>
+            
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="    系统自带的字体可能无法显示正确的日文写法，建议指定显示日文的ttf文件。"
+                android:textColor="#000000" />
+            
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="    注意：反复加载不同的ttf字体文件可能会导致内存不足和程序崩溃。字体的不同还会影响青空阅读器分析文本得到的总页数。"
+                android:textColor="#000000" 
+                />
+            
+            <EditText
+                android:id="@+id/editTextFontFilePath"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:enabled="false"
+                android:focusable="false"
+                >
+            </EditText>
+            
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" 
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                >
+			    <Button
+			        android:id="@+id/buttonOpenFontFilePath"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:text="ttf" 
+			        android:layout_weight="1"
+			        />
+
+			    <Button
+			        android:id="@+id/buttonOpenREFontFilePath"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="1"
+			        android:text="RE" />
+
+			    <Button
+			        android:id="@+id/buttonClearFontFilePath"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:text="清空" 
+			        android:layout_weight="1"
+			        />
+                
+            </LinearLayout>
+            
+			<TextView
+				android:text="EPWING字典路径"
+				android:gravity="center"
+				android:padding="10dip"
+				android:background="#add8e6"
+				android:textColorHighlight="#e6e6e6"
+				android:textColor="#000000"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:includeFontPadding="true"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+			/>
+            
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="    指定Catalogs所在路径（目前仅测试支持広辞苑5和DreyeJC中日日中辞書）"
+                android:textColor="#000000" 
+                />
+            
+            <EditText
+                android:id="@+id/editTextEpwingPath"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:enabled="false"
+                android:focusable="false"
+                >
+            </EditText>
+            
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" 
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                >
+			    <Button
+			        android:id="@+id/buttonOpenEpwingPath"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:text="Catalogs" 
+			        android:layout_weight="1"
+			        />
+
+			    <Button
+			        android:id="@+id/buttonOpenREEpwingPath"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="1"
+			        android:text="RE" />
+			    
+			    <Button
+			        android:id="@+id/buttonClearEpwingPath"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:text="清空" 
+			        android:layout_weight="1"
+			        />
+                
+            </LinearLayout>
+            
+            
+			<TextView
+				android:text="外字数据库"
+				android:gravity="center"
+				android:padding="10dip"
+				android:background="#add8e6"
+				android:textColorHighlight="#e6e6e6"
+				android:textColor="#000000"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:includeFontPadding="true"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+				android:visibility="gone"
+			/>
+			
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="    通过读入存储卡上map文件的内容创建映射外字到Unicode的数据库。"
+                android:textColor="#000000" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="    由于外字转换耗时较长，epwing搜索器在搜索时可能会比较卡。"
+                android:textColor="#000000" />
+            
+			<TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="    目前仅测试講談社日中（对应map文件为KOUDANJC.map）。map文件的下载请用百度搜索ebwin外字补丁。"
+                android:textColor="#000000" />
+            			
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" 
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                >
+			
+			    <Button
+			        android:id="@+id/buttonLoadGaijiDB"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="1"
+			        android:text="map" 
+			        android:textColor="#000000"
+			    />
+			    <Button
+			        android:id="@+id/buttonLoadREGaijiDB"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="1"
+			        android:text="RE" 
+			        android:textColor="#000000"
+			    />
+			    <Button
+			        android:id="@+id/buttonClearGaijiDB"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="1"
+			        android:text="清除" 
+			        android:textColor="#000000"
+			    />
+		    </LinearLayout>
+             
+			<TextView
+				android:text="强制使用欧朋浏览器"
+				android:gravity="center"
+				android:padding="10dip"
+				android:background="#add8e6"
+				android:textColorHighlight="#e6e6e6"
+				android:textColor="#000000"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:includeFontPadding="true"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+			/>
+			
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" 
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                >
+			
+			    <CheckBox
+			        android:id="@+id/checkBoxUseOpera"
+			        android:layout_width="wrap_content"
+			        android:layout_height="wrap_content"
+			        android:text="使用欧朋浏览器打开网页" 
+			        android:textColor="#000000"
+			    />
+		    </LinearLayout>
+		    
+			<TextView
+				android:text="会话模式下显示头像"
+				android:gravity="center"
+				android:padding="10dip"
+				android:background="#add8e6"
+				android:textColorHighlight="#e6e6e6"
+				android:textColor="#000000"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:includeFontPadding="true"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+			/>
+			
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" 
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                >
+			
+			    <CheckBox
+			        android:id="@+id/checkBoxShowTalkIcon"
+			        android:layout_width="wrap_content"
+			        android:layout_height="wrap_content"
+			        android:text="会话模式下显示头像" 
+			        android:textColor="#000000"
+			    />
+		    </LinearLayout>
+		    
+			<TextView
+				android:text="初始化Sen时弹出警告对话框"
+				android:gravity="center"
+				android:padding="10dip"
+				android:background="#add8e6"
+				android:textColorHighlight="#e6e6e6"
+				android:textColor="#000000"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:includeFontPadding="true"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+			/>
+			
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" 
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                >
+			
+			    <CheckBox
+			        android:id="@+id/checkBoxShowSenDlg"
+			        android:layout_width="wrap_content"
+			        android:layout_height="wrap_content"
+			        android:text="弹出Sen询问对话框" 
+			        android:textColor="#000000"
+			    />
+		    </LinearLayout>
+		    
+			<TextView
+				android:text="手写板识别范围"
+				android:gravity="center"
+				android:padding="10dip"
+				android:background="#add8e6"
+				android:textColorHighlight="#e6e6e6"
+				android:textColor="#000000"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:includeFontPadding="true"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+			/>
+			
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" 
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                >
+			    <CheckBox
+			        android:id="@+id/checkBoxUseHiraganaExtra"
+			        android:layout_width="wrap_content"
+			        android:layout_height="wrap_content"
+			        android:text="全部平片假名集合" 
+			        android:textColor="#000000"
+			    />
+		    </LinearLayout>
+		    
+			<TextView
+				android:text="搜索器迷你模式（已废弃）"
+				android:gravity="center"
+				android:padding="10dip"
+				android:background="#add8e6"
+				android:textColorHighlight="#e6e6e6"
+				android:textColor="#000000"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:includeFontPadding="true"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+			/>
+			
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" 
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                >
+			    <CheckBox
+			        android:id="@+id/checkBoxSearchMini"
+			        android:layout_width="wrap_content"
+			        android:layout_height="wrap_content"
+			        android:text="搜索器界面压缩为最小（不建议开启）" 
+			        android:textColor="#000000"
+			    />
+		    </LinearLayout>
+ 
+            
+            
+            
+            
+            
+            
+            
+            
+			<TextView
+				android:text="主菜单背景图片"
+				android:gravity="center"
+				android:padding="10dip"
+				android:background="#add8e6"
+				android:textColorHighlight="#e6e6e6"
+				android:textColor="#000000"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:includeFontPadding="true"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+			/>
+            
+            <EditText
+                android:id="@+id/editTextBGFilePath"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:enabled="false"
+                android:focusable="false"
+                >
+            </EditText>
+            
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" 
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                >
+			    <Button
+			        android:id="@+id/buttonOpenBGJPGFilePath"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:text="JPG" 
+			        android:layout_weight="1"
+			        />
+			    <Button
+			        android:id="@+id/buttonOpenBGPNGFilePath"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:text="PNG" 
+			        android:layout_weight="1"
+			        />
+			    <Button
+			        android:id="@+id/buttonOpenREBGFilePath"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="1"
+			        android:text="RE" />
+
+			    <Button
+			        android:id="@+id/buttonClearBGFilePath"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:text="清空" 
+			        android:layout_weight="1"
+			        />
+                
+            </LinearLayout>
+            
+            
+            
+            
+            
+            
+			<TextView
+				android:text="前台服务"
+				android:gravity="center"
+				android:padding="10dip"
+				android:background="#add8e6"
+				android:textColorHighlight="#e6e6e6"
+				android:textColor="#000000"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:includeFontPadding="true"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+			/>
+			
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="    启动服务并添加图标到任务栏。用于防止系统过早杀死进程，避免重复加载带来的麻烦。如果系统资源不足，建议不要启用。"
+                android:textColor="#000000" 
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="    是否在进入界面时启用服务："
+                android:textColor="#000000" 
+                />
+            			
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" 
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                >
+			    <CheckBox
+			        android:id="@+id/checkBoxEnableDictService"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="1"
+			        android:text="dict" 
+			        android:textColor="#000000"
+			    />
+			    <CheckBox
+			        android:id="@+id/checkBoxEnableSenService"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="1"
+			        android:text="sen" 
+			        android:textColor="#000000"
+			    />
+			    <CheckBox
+			        android:id="@+id/checkBoxEnableAozoraService"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="1"
+			        android:text="aozora" 
+			        android:textColor="#000000"
+			    />
+		    </LinearLayout>
+            
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="    手动退出服务："
+                android:textColor="#000000" 
+                />
+            
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" 
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                >
+			    <Button
+			        android:id="@+id/buttonKillDictService"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="1"
+			        android:text="dict" 
+			        android:textColor="#000000"
+			    />
+			    <Button
+			        android:id="@+id/buttonKillSenService"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="1"
+			        android:text="sen" 
+			        android:textColor="#000000"
+			    />
+			    <Button
+			        android:id="@+id/buttonKillAozoraService"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="1"
+			        android:text="aozora" 
+			        android:textColor="#000000"
+			    />
+		    </LinearLayout>
+            
+            
+            
+			<TextView
+				android:text="使用系统TTS"
+				android:gravity="center"
+				android:padding="10dip"
+				android:background="#add8e6"
+				android:textColorHighlight="#e6e6e6"
+				android:textColor="#000000"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:includeFontPadding="true"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+			/>
+			
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="    勾选前请确保安装支持日语发音的TTS引擎，推荐安装N2 TTS。如果不勾选，则尝试读取旧的zip数据包内的wav文件（用于v3.1测试，已过时，目前尚未更新）。"
+                android:textColor="#000000" />
+			
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" 
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                >
+			
+			    <CheckBox
+			        android:id="@+id/checkBoxUseTTS"
+			        android:layout_width="wrap_content"
+			        android:layout_height="wrap_content"
+			        android:text="使用系统TTS发音" 
+			        android:textColor="#000000"
+			    />
+		    </LinearLayout>
+            
+            
+            
+			<TextView
+				android:text="Banner"
+				android:gravity="center"
+				android:padding="10dip"
+				android:background="#add8e6"
+				android:textColorHighlight="#e6e6e6"
+				android:textColor="#000000"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:includeFontPadding="true"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+			/>
+			
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" 
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                >
+			
+			    <CheckBox
+			        android:id="@+id/checkBoxShowBanner"
+			        android:layout_width="wrap_content"
+			        android:layout_height="wrap_content"
+			        android:text="主菜单中是否显示banner横幅（需重启，若主菜单以表格形式显示则总是不显示）" 
+			        android:textColor="#000000"
+			    />
+		    </LinearLayout>
+            
+			<TextView
+				android:text="主菜单显示方式"
+				android:gravity="center"
+				android:padding="10dip"
+				android:background="#add8e6"
+				android:textColorHighlight="#e6e6e6"
+				android:textColor="#000000"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:includeFontPadding="true"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+			/>
+			
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" 
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                >
+			
+			    <CheckBox
+			        android:id="@+id/checkBoxUseGrid"
+			        android:layout_width="wrap_content"
+			        android:layout_height="wrap_content"
+			        android:text="主菜单使用表格显示（需重启，不勾选时为单列详细列表）" 
+			        android:textColor="#000000"
+			    />
+		    </LinearLayout>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+			<TextView
+				android:text="青空阅读器字体大小"
+				android:gravity="center"
+				android:padding="10dip"
+				android:background="#add8e6"
+				android:textColorHighlight="#e6e6e6"
+				android:textColor="#000000"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:includeFontPadding="true"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+			/>
+			
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="    青空阅读器字体大小（不建议修改，默认为18,10,2）"
+                android:textColor="#000000" />
+			
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" 
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                >
+			
+			    <Button
+			        android:id="@+id/buttonAozoraFontSize"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="1"
+			        android:text="设置" 
+			        android:textColor="#000000"
+			    />
+			    <Button
+			        android:id="@+id/buttonAozoraDefaultFontSize"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="1"
+			        android:text="默认" 
+			        android:textColor="#000000"
+			    />
+		    </LinearLayout>
+            
+            
+            
+            
+            
+
+            
+            
+            
+			<TextView
+				android:text="搜索器假名键盘"
+				android:gravity="center"
+				android:padding="10dip"
+				android:background="#add8e6"
+				android:textColorHighlight="#e6e6e6"
+				android:textColor="#000000"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:includeFontPadding="true"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+			/>
+			
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" 
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                >
+			
+			    <CheckBox
+			        android:id="@+id/checkBoxUseKeyPager"
+			        android:layout_width="wrap_content"
+			        android:layout_height="wrap_content"
+			        android:text="启用水平滑动" 
+			        android:textColor="#000000"
+			    />
+		    </LinearLayout>
+            
+            
+            
+            
+            
+            
+            
+            
+			<TextView
+				android:text="高亮方案"
+				android:gravity="center"
+				android:padding="10dip"
+				android:background="#add8e6"
+				android:textColorHighlight="#e6e6e6"
+				android:textColor="#000000"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:includeFontPadding="true"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+			/>
+			
+		    <RadioGroup
+		        android:orientation="horizontal"
+		        android:gravity="center_vertical"
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        >
+			    <RadioButton
+			        android:id="@+id/radioButtonHLChar"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="1"
+			        android:checked="true"
+			        android:textColor="#FF000000"
+			        android:text="字符" />
+			
+			    <RadioButton
+			        android:id="@+id/radioButtonHLString"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="1"
+			        android:textColor="#FF000000"
+			        android:text="单词" />
+			    
+			    <RadioButton
+			        android:id="@+id/radioButtonHLNone"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="1"
+			        android:textColor="#FF000000"
+			        android:text="无" />
+		    </RadioGroup>
+            
+            
+		    
+		    
+			<TextView
+				android:text="搜索器底部按钮"
+				android:gravity="center"
+				android:padding="10dip"
+				android:background="#add8e6"
+				android:textColorHighlight="#e6e6e6"
+				android:textColor="#000000"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:includeFontPadding="true"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+			/>
+			
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" 
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                >
+			
+			    <CheckBox
+			        android:id="@+id/checkBoxUseToolButtons"
+			        android:layout_width="wrap_content"
+			        android:layout_height="wrap_content"
+			        android:text="启用底部按钮" 
+			        android:textColor="#000000"
+			    />
+		    </LinearLayout>
+		    
+		    
+            
+            
+            
+		    
+			<TextView
+				android:text="删除网页缓存数据库"
+				android:gravity="center"
+				android:padding="10dip"
+				android:background="#add8e6"
+				android:textColorHighlight="#e6e6e6"
+				android:textColor="#000000"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:includeFontPadding="true"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+			/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="    尝试删除应用本地网页缓存数据库（如帮助页面），以减少手机内存占用量。"
+                android:textColor="#000000" />
+						
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" 
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                >
+			
+			    <Button
+			        android:id="@+id/buttonDeleteWebviewCache"
+			        android:layout_width="match_parent"
+			        android:layout_height="wrap_content"
+			        android:text="删除网页缓存" 
+			        android:textColor="#000000"
+			    />
+		    </LinearLayout>
+		    
+            
+            
+            
+            
+
+			<TextView
+				android:text="数据包目录"
+				android:gravity="center"
+				android:padding="10dip"
+				android:background="#add8e6"
+				android:textColorHighlight="#e6e6e6"
+				android:textColor="#000000"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:includeFontPadding="true"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+			/>
+			
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="    指定数据包根目录。"
+                android:textColor="#000000" />
+			
+            <EditText
+                android:id="@+id/editTextDataPackPath"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:enabled="false"
+                android:focusable="false"
+                >
+            </EditText>
+            
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" 
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                >
+			    <Button
+			        android:id="@+id/buttonDataPackPath1"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:text="sdcard" 
+			        android:layout_weight="1"
+			        />
+
+			    <Button
+			        android:id="@+id/buttonDataPackPath2"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="1"
+			        android:text="sdcard2" />
+                
+            </LinearLayout>
+            
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" 
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                >
+			    <Button
+			        android:id="@+id/buttonDataPackPath3"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:text="sdcard0" 
+			        android:layout_weight="1"
+			        />
+
+			    <Button
+			        android:id="@+id/buttonDataPackPath4"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="1"
+			        android:text="sdcard1" />
+
+			    <Button
+			        android:id="@+id/buttonDataPackPath5"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:text="指定" 
+			        android:layout_weight="1"
+			        />
+            </LinearLayout>
+            
+            
+			<TextView
+				android:text="显示欢迎屏幕"
+				android:gravity="center"
+				android:padding="10dip"
+				android:background="#add8e6"
+				android:textColorHighlight="#e6e6e6"
+				android:textColor="#000000"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:includeFontPadding="true"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+			/>
+			
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" 
+                android:orientation="vertical"
+                >
+				
+			    <CheckBox
+			        android:id="@+id/checkBoxShowSplashScreen"
+			        android:layout_width="wrap_content"
+			        android:layout_height="wrap_content"
+			        android:text="是否显示启动欢迎屏幕" 
+			        android:textColor="#000000"
+			    />
+
+			    <CheckBox
+			        android:id="@+id/checkBoxJumpOldVersion"
+			        android:layout_width="wrap_content"
+			        android:layout_height="wrap_content"
+			        android:text="是否跳转到3.x旧版本" 
+			        android:textColor="#000000"
+			    />
+		    </LinearLayout>
+            
+            
+            <!-- 
+			<TextView
+				android:text="启用wwwjdic部首输入"
+				android:gravity="center"
+				android:padding="10dip"
+				android:background="#add8e6"
+				android:textColorHighlight="#e6e6e6"
+				android:textColor="#000000"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:includeFontPadding="true"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+			/>
+			
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="    如果开启，可能出现内存不足而崩溃。"
+                android:textColor="#000000" />
+			
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" 
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                >
+			
+			    <CheckBox
+			        android:id="@+id/checkBoxUseRadicalInput"
+			        android:layout_width="wrap_content"
+			        android:layout_height="wrap_content"
+			        android:text="启用wwwjdic部首输入" 
+			        android:textColor="#000000"
+			    />
+		    </LinearLayout>
+             -->
+            
+            
+        </LinearLayout>
+    </ScrollView>
+    <TextView
+        android:id="@+id/textViewLoading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="invisible"
+        android:text="外字map文件加载中..."
+        android:textColor="#000000"
+        android:layout_gravity="center|center_vertical"
+        />
+    </FrameLayout>
+	</LinearLayout>
+	</FrameLayout>
+
+</LinearLayout>

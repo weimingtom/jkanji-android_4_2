@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widget_black"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:focusable="true"
+    style="@style/WidgetBlackBackground"
+    >
+        
+    <TextView
+        android:id="@+id/word_reading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="4dip"
+        android:includeFontPadding="false"
+        style="@style/TextBlack.WordType" />
+
+    <TextView
+        android:id="@+id/word_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/word_reading"
+        android:layout_marginTop="1dip"
+        android:layout_marginBottom="1dip"
+        android:layout_marginLeft="4dip"
+        android:includeFontPadding="false"
+        style="@style/TextBlack.WordTitle" />
+    
+    <TextView
+        android:id="@+id/word_definition"
+        android:layout_marginLeft="4dip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/word_name"
+        android:paddingRight="4dip"
+        android:paddingBottom="1dip"
+        android:includeFontPadding="false"
+        android:lineSpacingMultiplier="0.9"
+        android:maxLines="4"
+        android:fadingEdge="vertical"
+        style="@style/TextBlack.Definition" />
+</RelativeLayout>

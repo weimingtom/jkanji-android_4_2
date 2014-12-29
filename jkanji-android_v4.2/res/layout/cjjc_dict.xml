@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="#FFFFFF"
+    >
+
+    <com.markupartist.android.widget.ActionBar
+        android:id="@+id/actionbar"
+        android:layout_width="fill_parent"
+        android:layout_height="45dip"
+        android:orientation="horizontal"
+        android:background="@drawable/actionbar_background"
+        />
+    
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        >
+
+        <EditText
+            android:id="@+id/editTextKeyword"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" 
+            android:singleLine="true"
+            android:imeOptions="actionSearch"
+            >
+        </EditText>
+
+        <Button
+            android:id="@+id/buttonSearch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0"
+            android:text="cjjc搜索 " />
+
+    </LinearLayout>
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+		>
+        
+        <RadioButton
+            android:id="@+id/radioButtonSearchJP"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textColor="#000000"
+            android:text="jp"
+            />
+
+        <RadioButton
+            android:id="@+id/radioButtonSearchJP2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textColor="#000000"
+            android:text="音*"
+            android:checked="true"
+            />
+        
+        <RadioButton
+            android:id="@+id/radioButtonSearchJPBegin"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textColor="#000000"
+            android:text="jp*"
+            />
+
+        <RadioButton
+            android:id="@+id/radioButtonSearchCN"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textColor="#000000"
+            android:text="cn" 
+            />
+        
+        <RadioButton
+            android:id="@+id/radioButtonSearchCNBegin"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textColor="#000000"
+            android:text="cn*" 
+            />
+
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/textViewWarning"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textColor="#FF0000"
+        android:visibility="gone"
+        />
+    
+    <ListView
+        android:id="@+id/listViewSearchResults"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" 
+        android:cacheColorHint="#00000000"
+        android:divider="@drawable/main_menu_list_line"
+        android:listSelector="#00000000"
+        />
+
+</LinearLayout>

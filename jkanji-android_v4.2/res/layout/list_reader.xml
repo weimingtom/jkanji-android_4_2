@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="#FFFFFF"
+    >
+
+    <com.markupartist.android.widget.ActionBar
+        android:id="@+id/actionbar"
+        android:layout_width="fill_parent"
+        android:layout_height="45dip"
+        android:orientation="horizontal"
+        android:background="@drawable/actionbar_background"
+        />
+
+    <LinearLayout
+        android:id="@+id/linearLayoutHead"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:orientation="vertical"
+        >
+	    <EditText
+	        android:id="@+id/currentText"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:editable="false"
+	        android:singleLine="true"/>
+	    
+	    <LinearLayout
+	        android:id="@+id/linearLayout1"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content" 
+	        android:orientation="horizontal"
+	        android:gravity="center_vertical"
+	        >			<RadioGroup 
+			    android:layout_width="match_parent"
+			    android:layout_height="wrap_content"
+			    android:orientation="horizontal"
+			    android:gravity="center_vertical"
+			    >
+		        <RadioButton
+		            android:id="@+id/radioButtonNone"
+		            android:checked="true"
+		            android:layout_width="0dp"
+		            android:layout_height="wrap_content"
+		            android:layout_weight="1"
+		            android:textColor="#000000"
+		            android:text="静音" 
+		            />
+			    <RadioButton
+		            android:id="@+id/radioButtonPlay"
+		            android:layout_width="0dp"
+		            android:layout_height="wrap_content"
+		            android:layout_weight="1"
+		            android:textColor="#000000"
+		            android:text="播放" 
+		            />
+		        <RadioButton
+		            android:id="@+id/radioButtonSearch"
+		            android:layout_width="0dp"
+		            android:layout_height="wrap_content"
+		            android:layout_weight="1"
+		            android:textColor="#000000"
+		            android:text="搜索" 
+		            />
+		        <Button
+		            android:id="@+id/buttonStop"
+		            android:layout_width="0dp"
+		            android:layout_height="wrap_content"
+		            android:layout_weight="1"
+		            android:text="停止">
+		        </Button>
+			</RadioGroup>
+	    </LinearLayout>	</LinearLayout>
+	
+    <TextView
+        android:id="@+id/infoTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#FFFF0000"
+        android:text="" />
+    
+    <ListView
+        android:id="@+id/viewListView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" 
+        android:cacheColorHint="#00000000"
+        android:divider="@drawable/main_menu_list_line"
+        android:listSelector="#00000000"
+        />
+
+</LinearLayout>

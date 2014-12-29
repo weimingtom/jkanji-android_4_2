@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources> 
+    <item type="drawable" name="main_menu_item_transparent">#00000000</item>
+	<item type="drawable" name="plain_reader_item_bg">#FFFFFFFF</item>
+    <item type="drawable" name="main_menu_item_higlight2">#ffdee0e2</item>
+</resources>

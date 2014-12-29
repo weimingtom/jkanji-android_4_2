@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="snowbook_red">#900</color>
+    <color name="snowbook_green">#090</color>
+    <color name="snowbook_blue">#009</color>
+    <color name="snowbook_white">#FFF</color>
+    <color name="snowbook_black">#000</color>
+</resources>
